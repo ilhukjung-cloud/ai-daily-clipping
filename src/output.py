@@ -30,6 +30,7 @@ def save_results(
     articles: list[Article],
     raw_count: int,
     filtered_count: int,
+    contents: list[str] | None = None,
 ) -> Path:
     """Serialise *articles* to ``output/YYYY-MM-DD.json`` and return the path.
 
@@ -41,6 +42,9 @@ def save_results(
         Total articles collected before any filtering.
     filtered_count:
         Articles remaining after time-filtering (before dedup).
+    contents:
+        Fetched original text for each article (same order). If provided,
+        each article dict will include a ``content`` field.
     """
     now = datetime.now(timezone.utc)
     date_str = now.strftime("%Y-%m-%d")
@@ -53,6 +57,20 @@ def save_results(
 
     sorted_articles = sorted(articles, key=_sort_key)
 
+    # Build article dicts with optional content
+    article_dicts = []
+    # Map original index → content
+    content_map: dict[int, str] = {}
+    if contents:
+        for i, a in enumerate(articles):
+            content_map[id(a)] = contents[i]
+
+    for a in sorted_articles:
+        d = a.to_dict()
+        if contents:
+            d["content"] = content_map.get(id(a), "")
+        article_dicts.append(d)
+
     payload = {
         "date": date_str,
         "crawled_at": crawled_at,
@@ -62,7 +80,7 @@ def save_results(
             "after_dedup": len(articles),
             "by_source_type": by_source_type,
         },
-        "articles": [a.to_dict() for a in sorted_articles],
+        "articles": article_dicts,
     }
 
     output_dir = _OUTPUT_DIR

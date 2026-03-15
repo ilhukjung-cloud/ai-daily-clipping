@@ -7,8 +7,8 @@ from src.crawlers import reddit, hackernews, arxiv, rss, github, huggingface, pr
 from src.processors.filter import filter_recent, filter_relevance, filter_min_score, limit_per_type
 from src.processors.dedup import deduplicate
 from src.processors.tagger import tag_articles
-from src.output import save_results, save_html
-from src.summarizer import summarize_articles
+from src.content import fetch_content
+from src.output import save_results
 
 logging.basicConfig(
     level=logging.INFO,
@@ -69,17 +69,13 @@ def main() -> None:
     articles = limit_per_type(articles)
     logger.info(f"After top-N limit: {len(articles)}")
 
-    # 8. Save JSON
-    path = save_results(articles, raw_count, filtered_count)
+    # 8. Fetch original article content
+    logger.info("Fetching article content...")
+    contents = fetch_content(articles)
+
+    # 9. Save JSON (with content)
+    path = save_results(articles, raw_count, filtered_count, contents=contents)
     logger.info(f"JSON saved to {path}")
-
-    # 9. Fetch content + Korean summarization (Gemini)
-    logger.info("Summarizing articles with Gemini...")
-    formatted = summarize_articles(articles)
-
-    # 10. Save HTML
-    html_path = save_html(formatted, raw_count)
-    logger.info(f"HTML saved to {html_path}")
 
     # Summary
     by_type: dict[str, int] = {}

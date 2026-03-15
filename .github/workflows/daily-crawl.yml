@@ -22,20 +22,6 @@ jobs:
         run: uv run python -m src.main
         env:
           PH_TOKEN: ${{ secrets.PH_TOKEN }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-
-      - name: Prepare deploy
-        run: |
-          mkdir -p deploy
-          DATE=$(date -u +%Y-%m-%d)
-          cp output/${DATE}.html deploy/index.html 2>/dev/null || cp output/*.html deploy/index.html
-          cp output/*.html deploy/
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          command: pages deploy deploy --project-name ai-daily-clipping
 
       - name: Commit results
         run: |
