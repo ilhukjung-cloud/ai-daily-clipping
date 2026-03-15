@@ -1,13 +1,13 @@
 {
   "date": "2026-03-15",
-  "crawled_at": "2026-03-15T22:11:09Z",
+  "crawled_at": "2026-03-15T22:37:36Z",
   "stats": {
-    "total_raw": 1088,
+    "total_raw": 1087,
     "after_filter": 31,
     "after_dedup": 21,
     "by_source_type": {
-      "community": 8,
-      "media": 13
+      "community": 7,
+      "media": 14
     }
   },
   "articles": [
@@ -124,6 +124,19 @@
       ]
     },
     {
+      "title": "A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution",
+      "url": "https://www.marktechpost.com/2026/03/15/a-coding-implementation-to-design-an-enterprise-ai-governance-system-using-openclaw-gateway-policy-engines-approval-workflows-and-auditable-agent-execution/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-15T22:12:45+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In this tutorial, we build an enterprise-grade AI governance system using OpenClaw and Python. We start by setting up the OpenClaw runtime and launching the OpenClaw Gateway so that our Python environment can interact with a real agent through the OpenClaw API. We then design a governance layer that classifies requests based on risk, enforces […]\nThe post A Coding Implementation to Design an Enterprise AI Governance System Using OpenClaw Gateway Policy Engines, Approval Workflows and Auditable Agent Execution appeared first on MarkTechPost.",
+      "tags": [
+        "agents"
+      ]
+    },
+    {
       "title": "Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw",
       "url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
       "source_type": "media",
@@ -182,7 +195,7 @@
       "url": "https://github.com/shareAI-lab/learn-claude-code",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-03-15T22:11:09.273660+00:00",
+      "published_at": "2026-03-15T22:37:35.950779+00:00",
       "score": 865,
       "comments": null,
       "summary": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
@@ -196,7 +209,7 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-03-15T22:11:09.273660+00:00",
+      "published_at": "2026-03-15T22:37:35.950779+00:00",
       "score": 852,
       "comments": null,
       "summary": "practice made claude perfect",
@@ -210,19 +223,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T10:15:47+00:00",
-      "score": 352,
-      "comments": 326,
-      "summary": null,
-      "tags": []
-    },
-    {
-      "title": "The Appalling Stupidity of Spotify's AI DJ",
-      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-      "source_type": "community",
-      "source_name": "Hacker News",
-      "published_at": "2026-03-15T08:04:55+00:00",
-      "score": 344,
-      "comments": 284,
+      "score": 358,
+      "comments": 330,
       "summary": null,
       "tags": []
     },
@@ -232,8 +234,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T10:47:35+00:00",
-      "score": 293,
-      "comments": 26,
+      "score": 296,
+      "comments": 28,
       "summary": null,
       "tags": []
     },
@@ -243,8 +245,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T19:12:53+00:00",
-      "score": 200,
-      "comments": 73,
+      "score": 224,
+      "comments": 90,
       "summary": null,
       "tags": [
         "agents"
@@ -256,8 +258,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T15:58:23+00:00",
-      "score": 145,
-      "comments": 220,
+      "score": 162,
+      "comments": 259,
       "summary": null,
       "tags": []
     },
@@ -267,7 +269,7 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T16:01:09+00:00",
-      "score": 125,
+      "score": 141,
       "comments": 6,
       "summary": null,
       "tags": [
