@@ -1,0 +1,19 @@
+[project]
+name = "ai-daily-clipping"
+version = "0.1.0"
+description = "AI Daily Clipping Crawler - automated AI news aggregation"
+requires-python = ">=3.11"
+dependencies = [
+    "requests>=2.31",
+    "feedparser>=6.0",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+    "google-genai>=1.0",
+]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

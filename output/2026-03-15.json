@@ -1,0 +1,424 @@
+{
+  "date": "2026-03-15",
+  "crawled_at": "2026-03-15T21:28:15Z",
+  "stats": {
+    "total_raw": 1152,
+    "after_filter": 95,
+    "after_dedup": 33,
+    "by_source_type": {
+      "community": 20,
+      "media": 13
+    }
+  },
+  "articles": [
+    {
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-15T21:01:51+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "tags": []
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-15T18:49:32+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "tags": []
+    },
+    {
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-15T15:30:33+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "tags": [
+        "Google"
+      ]
+    },
+    {
+      "title": "AI companies want to harvest improv actors’ skills to train AI on human emotion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-03-15T14:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "If you've got strong creative instincts, the ability to authentically portray emotion, and are capable of staying true to a character's voice throughout a scene, there's a job listing calling for your experience. The catch: You won't be performing in a theater, a film studio, or an underground performance space. You'd be using your talents […]",
+      "tags": [
+        "speech"
+      ]
+    },
+    {
+      "title": "AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer",
+      "url": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-15T16:29:53+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "An Australian AI consultant used ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog Rosie's incurable cancer. The story went viral after high-profile AI executives like OpenAI's Greg Brockman and Deepmind's Demis Hassabis shared it as proof of what AI can already do.\nThe article AI consultant uses ChatGPT, AlphaFold, and Grok to find a possible treatment for his dog's cancer appeared first on The Decoder.",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
+      "url": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-15T11:17:26+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the process.\nThe article RL agents go from face-planting to parkour when researchers keep adding network layers appeared first on The Decoder.",
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "title": "OpenClaw-RL trains AI agents \"simply by talking,\" converting every reply into a training signal",
+      "url": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-15T10:04:20+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "AI agents usually throw away valuable feedback from everyday interactions. Princeton's new OpenClaw-RL framework changes that by turning live signals from chats, terminal commands, and GUI actions into continuous training data. The researchers say just a few dozen interactions are enough for noticeable improvements.\nThe article OpenClaw-RL trains AI agents \"simply by talking,\" converting every reply into a training signal appeared first on The Decoder.",
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "title": "Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0",
+      "url": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-15T09:34:36+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Bytedance planned to launch its AI video model Seedance 2.0 globally in mid-March. That's not happening, because Hollywood's biggest studios have collectively put the brakes on the rollout. The backlash is also a sign of just how convincing AI-generated video has become.\nThe article Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0 appeared first on The Decoder.",
+      "tags": []
+    },
+    {
+      "title": "Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails",
+      "url": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-15T09:02:06+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "AI agents can hack systems, defend them, and be hacked themselves. Codewall's one-hour takeover of an AI recruiting platform shows just how tangled this new security landscape has become.\nThe article Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails appeared first on The Decoder.",
+      "tags": [
+        "speech",
+        "agents"
+      ]
+    },
+    {
+      "title": "Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw",
+      "url": "https://www.marktechpost.com/2026/03/15/meet-openviking-an-open-source-context-database-that-brings-filesystem-based-memory-and-retrieval-to-ai-agent-systems-like-openclaw/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-15T18:49:21+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "OpenViking is an open-source Context Database for AI Agents from Volcengine. The project is built around a simple architectural concept: agent systems should not treat context as a flat collection of text chunks. Instead, OpenViking organizes context through a file system paradigm, with the goal of making memory, resources, and skills manageable through a unified […]\nThe post Meet OpenViking: An Open-Source Context Database that Brings Filesystem-Based Memory and Retrieval to AI Agent Systems like OpenClaw appeared first on MarkTechPost.",
+      "tags": [
+        "open-source",
+        "agents"
+      ]
+    },
+    {
+      "title": "LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents",
+      "url": "https://www.marktechpost.com/2026/03/15/langchain-releases-deep-agents-a-structured-runtime-for-planning-memory-and-context-isolation-in-multi-step-ai-agents/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-15T09:07:48+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Most LLM agents work well for short tool-calling loops but start to break down when the task becomes multi-step, stateful, and artifact-heavy. LangChain’s Deep Agents is designed for that gap. The project is described by LangChain as an ‘agent harness‘: a standalone library built on top of LangChain’s agent building blocks and powered by the […]\nThe post LangChain Releases Deep Agents: A Structured Runtime for Planning, Memory, and Context Isolation in Multi-Step AI Agents appeared first on MarkTechPost.",
+      "tags": [
+        "LLM",
+        "agents"
+      ]
+    },
+    {
+      "title": "Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE)",
+      "url": "https://www.marktechpost.com/2026/03/15/zhipu-ai-introduces-glm-ocr-a-0-9b-multimodal-ocr-model-for-document-parsing-and-key-information-extraction-kie/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-15T08:08:01+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Why Document OCR Still Remains a Hard Engineering Problem? What does it take to make OCR useful for real documents instead of clean demo images? And can a compact multimodal model handle parsing, tables, formulas, and structured extraction without turning inference into a resource bonfire? That is the problem targeted by GLM-OCR, introduced by researchers […]\nThe post Zhipu AI Introduces GLM-OCR: A 0.9B Multimodal OCR Model for Document Parsing and Key Information Extraction (KIE) appeared first on MarkTechPost.",
+      "tags": [
+        "multimodal"
+      ]
+    },
+    {
+      "title": "How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and Pydantic",
+      "url": "https://www.marktechpost.com/2026/03/14/how-to-build-type-safe-schema-constrained-and-function-driven-llm-pipelines-using-outlines-and-pydantic/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-15T01:33:18+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In this tutorial, we build a workflow using Outlines to generate structured and type-safe outputs from language models. We work with typed constraints like Literal, int, and bool, and design prompt templates using outlines.Template, and enforce strict schema validation with Pydantic models. We also implement robust JSON recovery and a function-calling style that generates validated […]\nThe post How to Build Type-Safe, Schema-Constrained, and Function-Driven LLM Pipelines Using Outlines and Pydantic appeared first on MarkTechPost.",
+      "tags": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "I used Claude Code to reverse engineer a 13-year-old game binary and crack a restriction nobody had solved — the community is losing it",
+      "url": "https://v.redd.it/g8vz1b5yn4pg1",
+      "source_type": "community",
+      "source_name": "r/ClaudeAI",
+      "published_at": "2026-03-15T03:27:56+00:00",
+      "score": 2995,
+      "comments": 162,
+      "summary": null,
+      "tags": [
+        "Claude"
+      ]
+    },
+    {
+      "title": "Humanoid Robots can now play tennis with a hit rate of ~90% just with 5h of motion training data",
+      "url": "https://v.redd.it/0430gx9a07pg1",
+      "source_type": "community",
+      "source_name": "r/singularity",
+      "published_at": "2026-03-15T11:16:40+00:00",
+      "score": 2341,
+      "comments": 246,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "wtaf average people are using chatgpt to make custom mRNA vaccines",
+      "url": "https://i.redd.it/4j900uof94pg1.png",
+      "source_type": "community",
+      "source_name": "r/ChatGPT",
+      "published_at": "2026-03-15T02:02:55+00:00",
+      "score": 1806,
+      "comments": 241,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "3 years after switching to AI word slop, Buzzfeed is going out of business. The readers know there's no-one home",
+      "url": "https://i.redd.it/2fstywt6c3pg1.png",
+      "source_type": "community",
+      "source_name": "r/ChatGPT",
+      "published_at": "2026-03-14T23:51:17+00:00",
+      "score": 1554,
+      "comments": 89,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "I asked ChatGPT to generate an image of this dessert, and it added a ‘© Sally’s Baking Addiction’ watermark in the bottom-left corner.",
+      "url": "https://i.redd.it/ijqgkygob4pg1.png",
+      "source_type": "community",
+      "source_name": "r/ChatGPT",
+      "published_at": "2026-03-15T02:15:52+00:00",
+      "score": 1336,
+      "comments": 336,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "shareAI-lab / learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-15T21:28:15.428260+00:00",
+      "score": 865,
+      "comments": null,
+      "summary": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+      "tags": [
+        "Claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "shanraisshan / claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-15T21:28:15.428260+00:00",
+      "score": 852,
+      "comments": null,
+      "summary": "practice made claude perfect",
+      "tags": [
+        "Claude"
+      ]
+    },
+    {
+      "title": "That feeling of instant Alzheimers as you get out of bed and refill your brain's context with waking matters",
+      "url": "https://i.redd.it/su9isihh74pg1.png",
+      "source_type": "community",
+      "source_name": "r/singularity",
+      "published_at": "2026-03-15T01:53:16+00:00",
+      "score": 807,
+      "comments": 26,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "Just passed the new Claude Certified Architect - Foundations (CCA-F) exam with a 985/1000!",
+      "url": "https://www.reddit.com/gallery/1ruf70b",
+      "source_type": "community",
+      "source_name": "r/ClaudeAI",
+      "published_at": "2026-03-15T14:17:43+00:00",
+      "score": 696,
+      "comments": 116,
+      "summary": null,
+      "tags": [
+        "Claude"
+      ]
+    },
+    {
+      "title": "Claude gets interactive now, jaw dropped",
+      "url": "https://i.redd.it/balsoaag93pg1.png",
+      "source_type": "community",
+      "source_name": "r/ClaudeAI",
+      "published_at": "2026-03-14T22:42:12+00:00",
+      "score": 661,
+      "comments": 60,
+      "summary": null,
+      "tags": [
+        "Claude"
+      ]
+    },
+    {
+      "title": "Anthropic just told you exactly when their servers are struggling, and they're paying you to help fix it",
+      "url": "https://i.redd.it/1upd46mg23pg1.png",
+      "source_type": "community",
+      "source_name": "r/ClaudeAI",
+      "published_at": "2026-03-14T22:10:53+00:00",
+      "score": 659,
+      "comments": 65,
+      "summary": null,
+      "tags": [
+        "Anthropic"
+      ]
+    },
+    {
+      "title": "CivitAI blocking Australia tomorrow",
+      "url": "https://i.redd.it/fq4uumyux2pg1.png",
+      "source_type": "community",
+      "source_name": "r/StableDiffusion",
+      "published_at": "2026-03-14T21:37:24+00:00",
+      "score": 517,
+      "comments": 251,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "Anthropic just wiped out another wave of startups, mostly in education. Custom charts, diagrams, and interactive visuals in Claude, learning mode.",
+      "url": "https://i.redd.it/90a2mvpic3pg1.png",
+      "source_type": "community",
+      "source_name": "r/ClaudeAI",
+      "published_at": "2026-03-14T23:02:23+00:00",
+      "score": 517,
+      "comments": 102,
+      "summary": null,
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ]
+    },
+    {
+      "title": "I turned my Claude Code agents into Tamagotchis so I can monitor them from tmux",
+      "url": "https://i.redd.it/4he52vfwj6pg1.gif",
+      "source_type": "community",
+      "source_name": "r/ClaudeAI",
+      "published_at": "2026-03-15T09:45:04+00:00",
+      "score": 509,
+      "comments": 59,
+      "summary": null,
+      "tags": [
+        "Claude",
+        "agents"
+      ]
+    },
+    {
+      "title": "working w/ Claude for several hours feels like this",
+      "url": "https://i.redd.it/ek1aar2lu8pg1.png",
+      "source_type": "community",
+      "source_name": "r/ClaudeAI",
+      "published_at": "2026-03-15T17:28:46+00:00",
+      "score": 392,
+      "comments": 35,
+      "summary": null,
+      "tags": [
+        "Claude"
+      ]
+    },
+    {
+      "title": "You guys gotta try OpenCode + OSS LLM",
+      "url": "https://www.reddit.com/gallery/1ru6qml",
+      "source_type": "community",
+      "source_name": "r/LocalLLaMA",
+      "published_at": "2026-03-15T06:23:03+00:00",
+      "score": 352,
+      "comments": 147,
+      "summary": null,
+      "tags": [
+        "LLM"
+      ]
+    },
+    {
+      "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+      "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-15T10:15:47+00:00",
+      "score": 343,
+      "comments": 319,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-15T08:04:55+00:00",
+      "score": 342,
+      "comments": 281,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "Homelab has paid for itself! (at least this is how I justify it...)",
+      "url": "https://www.reddit.com/gallery/1rug5go",
+      "source_type": "community",
+      "source_name": "r/LocalLLaMA",
+      "published_at": "2026-03-15T14:57:18+00:00",
+      "score": 336,
+      "comments": 69,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "A Visual Introduction to Machine Learning (2015)",
+      "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-15T10:47:35+00:00",
+      "score": 288,
+      "comments": 26,
+      "summary": null,
+      "tags": []
+    }
+  ]
+}

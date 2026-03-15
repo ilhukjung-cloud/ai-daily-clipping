@@ -1,0 +1,44 @@
+name: Daily AI Crawl
+
+on:
+  schedule:
+    - cron: '0 22 * * *'  # Daily at UTC 22:00 (KST 07:00)
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run crawler
+        run: uv run python -m src.main
+        env:
+          PH_TOKEN: ${{ secrets.PH_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Prepare deploy
+        run: |
+          mkdir -p deploy
+          DATE=$(date -u +%Y-%m-%d)
+          cp output/${DATE}.html deploy/index.html 2>/dev/null || cp output/*.html deploy/index.html
+          cp output/*.html deploy/
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          command: pages deploy deploy --project-name ai-daily-clipping
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "crawl: $(date -u +%Y-%m-%d)"
+          git push
