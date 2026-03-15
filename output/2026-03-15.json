@@ -1,12 +1,12 @@
 {
   "date": "2026-03-15",
-  "crawled_at": "2026-03-15T21:28:15Z",
+  "crawled_at": "2026-03-15T22:11:09Z",
   "stats": {
-    "total_raw": 1152,
-    "after_filter": 95,
-    "after_dedup": 33,
+    "total_raw": 1088,
+    "after_filter": 31,
+    "after_dedup": 21,
     "by_source_type": {
-      "community": 20,
+      "community": 8,
       "media": 13
     }
   },
@@ -178,68 +178,11 @@
       ]
     },
     {
-      "title": "I used Claude Code to reverse engineer a 13-year-old game binary and crack a restriction nobody had solved — the community is losing it",
-      "url": "https://v.redd.it/g8vz1b5yn4pg1",
-      "source_type": "community",
-      "source_name": "r/ClaudeAI",
-      "published_at": "2026-03-15T03:27:56+00:00",
-      "score": 2995,
-      "comments": 162,
-      "summary": null,
-      "tags": [
-        "Claude"
-      ]
-    },
-    {
-      "title": "Humanoid Robots can now play tennis with a hit rate of ~90% just with 5h of motion training data",
-      "url": "https://v.redd.it/0430gx9a07pg1",
-      "source_type": "community",
-      "source_name": "r/singularity",
-      "published_at": "2026-03-15T11:16:40+00:00",
-      "score": 2341,
-      "comments": 246,
-      "summary": null,
-      "tags": []
-    },
-    {
-      "title": "wtaf average people are using chatgpt to make custom mRNA vaccines",
-      "url": "https://i.redd.it/4j900uof94pg1.png",
-      "source_type": "community",
-      "source_name": "r/ChatGPT",
-      "published_at": "2026-03-15T02:02:55+00:00",
-      "score": 1806,
-      "comments": 241,
-      "summary": null,
-      "tags": []
-    },
-    {
-      "title": "3 years after switching to AI word slop, Buzzfeed is going out of business. The readers know there's no-one home",
-      "url": "https://i.redd.it/2fstywt6c3pg1.png",
-      "source_type": "community",
-      "source_name": "r/ChatGPT",
-      "published_at": "2026-03-14T23:51:17+00:00",
-      "score": 1554,
-      "comments": 89,
-      "summary": null,
-      "tags": []
-    },
-    {
-      "title": "I asked ChatGPT to generate an image of this dessert, and it added a ‘© Sally’s Baking Addiction’ watermark in the bottom-left corner.",
-      "url": "https://i.redd.it/ijqgkygob4pg1.png",
-      "source_type": "community",
-      "source_name": "r/ChatGPT",
-      "published_at": "2026-03-15T02:15:52+00:00",
-      "score": 1336,
-      "comments": 336,
-      "summary": null,
-      "tags": []
-    },
-    {
       "title": "shareAI-lab / learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-03-15T21:28:15.428260+00:00",
+      "published_at": "2026-03-15T22:11:09.273660+00:00",
       "score": 865,
       "comments": null,
       "summary": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
@@ -253,7 +196,7 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-03-15T21:28:15.428260+00:00",
+      "published_at": "2026-03-15T22:11:09.273660+00:00",
       "score": 852,
       "comments": null,
       "summary": "practice made claude perfect",
@@ -262,128 +205,13 @@
       ]
     },
     {
-      "title": "That feeling of instant Alzheimers as you get out of bed and refill your brain's context with waking matters",
-      "url": "https://i.redd.it/su9isihh74pg1.png",
-      "source_type": "community",
-      "source_name": "r/singularity",
-      "published_at": "2026-03-15T01:53:16+00:00",
-      "score": 807,
-      "comments": 26,
-      "summary": null,
-      "tags": []
-    },
-    {
-      "title": "Just passed the new Claude Certified Architect - Foundations (CCA-F) exam with a 985/1000!",
-      "url": "https://www.reddit.com/gallery/1ruf70b",
-      "source_type": "community",
-      "source_name": "r/ClaudeAI",
-      "published_at": "2026-03-15T14:17:43+00:00",
-      "score": 696,
-      "comments": 116,
-      "summary": null,
-      "tags": [
-        "Claude"
-      ]
-    },
-    {
-      "title": "Claude gets interactive now, jaw dropped",
-      "url": "https://i.redd.it/balsoaag93pg1.png",
-      "source_type": "community",
-      "source_name": "r/ClaudeAI",
-      "published_at": "2026-03-14T22:42:12+00:00",
-      "score": 661,
-      "comments": 60,
-      "summary": null,
-      "tags": [
-        "Claude"
-      ]
-    },
-    {
-      "title": "Anthropic just told you exactly when their servers are struggling, and they're paying you to help fix it",
-      "url": "https://i.redd.it/1upd46mg23pg1.png",
-      "source_type": "community",
-      "source_name": "r/ClaudeAI",
-      "published_at": "2026-03-14T22:10:53+00:00",
-      "score": 659,
-      "comments": 65,
-      "summary": null,
-      "tags": [
-        "Anthropic"
-      ]
-    },
-    {
-      "title": "CivitAI blocking Australia tomorrow",
-      "url": "https://i.redd.it/fq4uumyux2pg1.png",
-      "source_type": "community",
-      "source_name": "r/StableDiffusion",
-      "published_at": "2026-03-14T21:37:24+00:00",
-      "score": 517,
-      "comments": 251,
-      "summary": null,
-      "tags": []
-    },
-    {
-      "title": "Anthropic just wiped out another wave of startups, mostly in education. Custom charts, diagrams, and interactive visuals in Claude, learning mode.",
-      "url": "https://i.redd.it/90a2mvpic3pg1.png",
-      "source_type": "community",
-      "source_name": "r/ClaudeAI",
-      "published_at": "2026-03-14T23:02:23+00:00",
-      "score": 517,
-      "comments": 102,
-      "summary": null,
-      "tags": [
-        "Anthropic",
-        "Claude"
-      ]
-    },
-    {
-      "title": "I turned my Claude Code agents into Tamagotchis so I can monitor them from tmux",
-      "url": "https://i.redd.it/4he52vfwj6pg1.gif",
-      "source_type": "community",
-      "source_name": "r/ClaudeAI",
-      "published_at": "2026-03-15T09:45:04+00:00",
-      "score": 509,
-      "comments": 59,
-      "summary": null,
-      "tags": [
-        "Claude",
-        "agents"
-      ]
-    },
-    {
-      "title": "working w/ Claude for several hours feels like this",
-      "url": "https://i.redd.it/ek1aar2lu8pg1.png",
-      "source_type": "community",
-      "source_name": "r/ClaudeAI",
-      "published_at": "2026-03-15T17:28:46+00:00",
-      "score": 392,
-      "comments": 35,
-      "summary": null,
-      "tags": [
-        "Claude"
-      ]
-    },
-    {
-      "title": "You guys gotta try OpenCode + OSS LLM",
-      "url": "https://www.reddit.com/gallery/1ru6qml",
-      "source_type": "community",
-      "source_name": "r/LocalLLaMA",
-      "published_at": "2026-03-15T06:23:03+00:00",
-      "score": 352,
-      "comments": 147,
-      "summary": null,
-      "tags": [
-        "LLM"
-      ]
-    },
-    {
       "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
       "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T10:15:47+00:00",
-      "score": 343,
-      "comments": 319,
+      "score": 352,
+      "comments": 326,
       "summary": null,
       "tags": []
     },
@@ -393,19 +221,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T08:04:55+00:00",
-      "score": 342,
-      "comments": 281,
-      "summary": null,
-      "tags": []
-    },
-    {
-      "title": "Homelab has paid for itself! (at least this is how I justify it...)",
-      "url": "https://www.reddit.com/gallery/1rug5go",
-      "source_type": "community",
-      "source_name": "r/LocalLLaMA",
-      "published_at": "2026-03-15T14:57:18+00:00",
-      "score": 336,
-      "comments": 69,
+      "score": 344,
+      "comments": 284,
       "summary": null,
       "tags": []
     },
@@ -415,10 +232,47 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-03-15T10:47:35+00:00",
-      "score": 288,
+      "score": 293,
       "comments": 26,
       "summary": null,
       "tags": []
+    },
+    {
+      "title": "Let your Coding Agent debug the browser session with Chrome DevTools MCP",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-15T19:12:53+00:00",
+      "score": 200,
+      "comments": 73,
+      "summary": null,
+      "tags": [
+        "agents"
+      ]
+    },
+    {
+      "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+      "url": "https://news.ycombinator.com/item?id=47388646",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-15T15:58:23+00:00",
+      "score": 145,
+      "comments": 220,
+      "summary": null,
+      "tags": []
+    },
+    {
+      "title": "LLM Architecture Gallery",
+      "url": "https://sebastianraschka.com/llm-architecture-gallery/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-15T16:01:09+00:00",
+      "score": 125,
+      "comments": 6,
+      "summary": null,
+      "tags": [
+        "LLM"
+      ]
     }
   ]
 }
