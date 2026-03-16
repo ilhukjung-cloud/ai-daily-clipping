@@ -6,7 +6,9 @@ import html
 import json
 import logging
 from collections import defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+
+KST = timezone(timedelta(hours=9))
 from pathlib import Path
 
 from src.config import SOURCE_TYPE_PRIORITY
@@ -46,9 +48,9 @@ def save_results(
         Fetched original text for each article (same order). If provided,
         each article dict will include a ``content`` field.
     """
-    now = datetime.now(timezone.utc)
+    now = datetime.now(KST)
     date_str = now.strftime("%Y-%m-%d")
-    crawled_at = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    crawled_at = now.strftime("%Y-%m-%dT%H:%M:%S+09:00")
 
     # Count by source type
     by_source_type: dict[str, int] = {}
@@ -120,7 +122,7 @@ def _esc(text: str) -> str:
 
 def save_html(formatted_articles: list[dict], raw_count: int) -> Path:
     """Generate an HTML clipping report from LLM-formatted articles."""
-    now = datetime.now(timezone.utc)
+    now = datetime.now(KST)
     date_str = now.strftime("%Y-%m-%d")
 
     groups: dict[str, list[dict]] = defaultdict(list)
