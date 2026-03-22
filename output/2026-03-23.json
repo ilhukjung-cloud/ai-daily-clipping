@@ -1,0 +1,429 @@
+{
+  "date": "2026-03-23",
+  "crawled_at": "2026-03-23T07:34:44+09:00",
+  "stats": {
+    "total_raw": 1100,
+    "after_filter": 39,
+    "after_dedup": 31,
+    "by_source_type": {
+      "community": 13,
+      "media": 18
+    }
+  },
+  "articles": [
+    {
+      "title": "Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-22T19:45:07+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+      "tags": [
+        "NVIDIA",
+        "robotics"
+      ],
+      "content": "Listen on\nApple Podcasts\nListen on\nSpotify\nNvidia’s GTC conference had everything:\ntrillion dollar sales projections\n,\ngraphics technology\nthat can\nyassify video games\n, grand declarations that\nevery company needs an OpenClaw strategy\n, and even a robot version of the beloved snowman Olaf from Disney’s “Frozen.”\nOn the latest episode of\nTechCrunch’s Equity podcast\n, TechCrunch’s Kirsten Korosec, Sean O’Kane, and I recapped CEO Jensen Huang’s keynote and debated what it means for Nvidia’s future. And yes, a big part of our discussion focused on poor Olaf, whose microphone had to be turned off when he started rambling.\nEven if the demo had gone flawlessly, Sean might still have had some reservations, as he noted these presentations always focus on “the engineering challenges” and not the “really messy gray areas” on the social side.\n“But what happens when a kid kicks Olaf over?” Sean asked. “And then every other kid who sees Olaf get kicked or knocked over has their whole trip to Disney ruined and it ruins the brand?”\nRead a preview of our conversation, edited for length and clarity, below.\nAnthony:\n[CEO Jensen Huang] was basically saying that every company needs to have an OpenClaw strategy now. I think that is just a very grand statement that’s meant to be attention grabbing; I think it’s also interesting coming at this kind of transitional moment for OpenClaw.\nThe founder has gone to OpenAI\n. So it’s now this open source project that potentially can flourish and evolve beyond its creator, or it could languish. If companies like Nvidia are investing a lot into it, then [it’s] more likely that it’ll continue to evolve. But it’ll be interesting to see a year from now, whether that looks like a prescient statement or everyone’s like, “Open what?”\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately\nOffer ends March 13.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nKirsten:\nIn the case of Nvidia, it costs them nothing in the grand scheme of things to launch what they call NemoClaw, which is an open source project, which they built with the OpenClaw creator. But if they don’t do something, they have a lot to lose. So really that message to me, the way I translated it when Jensen was like, “Every enterprise needs to have an OpenClaw strategy,” it was, “Nvidia needs to have a solution or s"
+    },
+    {
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-22T18:41:09+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "tags": [],
+      "content": "AI coding company Cursor launched a new model this week called Composer 2, which it\npromoted\nas offering “frontier-level coding intelligence.”\nHowever, an X user posting under the name Fynn\nsoon claimed\nthat Composer 2 was “just Kimi 2.5” with additional reinforcement learning — Kimi 2.5 being\nan open source model recently released by Moonshot AI\n, a Chinese company backed by Alibaba and HongShan (formerly Sequoia China).\nAs evidence, Fynn pointed to code that seemed to identify Kimi as the model.\n“[A]t least rename the model ID,” they scoffed.\nIt was a surprising revelation, since Cursor is a well-funded U.S. startup that\nraised a $2.3 billion round last fall\nat a $29.3 billion valuation, and is\nreportedly exceeding $2 billion in annualized revenue\n. Also, the company didn’t mention anything about Moonshot AI or Kimi in its announcement.\nHowever, Cursor’s vice president of developer education\nLee Robinson soon acknowledged\n, “Yep, Composer 2 started from an open-source base!” But he said, “Only ~1/4 of the compute spent on the final model came from the base, the rest is from our training.” As a result, he said Composer 2’s performance on various benchmarks is “very different” from Kimi’s.\nRobinson also insisted that Cursor’s use of Kimi was consistent with the terms of its license, a point the Kimi account on X repeated in a\nsubsequent post congratulating Cursor\n, where it said Cursor used Kimi “as part of an authorized commercial partnership” with Fireworks AI.\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately\nOffer ends March 13.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\n“We are proud to see Kimi-k2.5 provide the foundation,” the Kimi account said. “Seeing our model integrated effectively through Cursor’s continued pretraining & high-compute RL training is the open model ecosystem we love to support.”\nSo why not acknowledge Kimi upfront? Beyond any potential embarrassment in not creating a model from scratch, building on top of a Chinese model might feel particularly fraught right now, with the so-called AI “arms race” often framed as\nan existential battle between United States and China\n. (See, for example, Silicon Valley’s\napparent panic after Chinese company DeepSeek released a competitive model\nearly last year.)\nCursor co-founder Aman Sanger\nacknowledged\n, “It was a mi"
+    },
+    {
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-22T16:20:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+      "tags": [],
+      "content": "In Brief\nPosted:\n9:20 AM PDT · March 22, 2026\nImage Credits:\nROBIN LEGRAND/AFP / Getty Images\nAnthony Ha\nElon Musk unveils chip manufacturing plans for SpaceX and Tesla\nElon Musk recently outlined ambitious plans for a chip-building collaboration between his companies Tesla and SpaceX.\nBloomberg reports\nthat Musk shared his plans on Saturday night at an event in downtown Austin, Texas, with a photo suggesting that what Musk is calling the “Terafab” facility will be built near Tesla’s Austin headquarters and “gigafactory.”\nMusk said he’s pursuing this project because semiconductor manufacturers aren’t making chips quickly enough for his companies’ artificial intelligence and robotics needs: “We either build the Terafab or we don’t have the chips, and we need the chips, so we build the Terafab.”\nThe goal is to manufacture chips that can support 100 to 200 gigawatts of computing power per year on Earth, along with\na terawatt in space\n, Musk said. He did not offer a timeline for these plans.\nAs Bloomberg noted, Musk does not have a background in semiconductor manufacturing, but he does have a history of\noverpromising\non\ngoals\nand\ntimelines\n.\nTopics\nAI\n,\nHardware\nJune 9\nBoston, MA\nActively scaling? Fundraising? Planning your next launch?\nTechCrunch Founder Summit 2026 delivers tactical playbooks and direct access to 1,000+ founders and investors who are building, backing, and closing.\nREGISTER NOW\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nRelated\nHardware\nAn exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple\nJulie Bort\n11 hours ago\nAI\nWhy Wall Street wasn’t won over by Nvidia’s big conference\nRebecca Szkutak\n1 day ago\nSocial\nElon Musk misled Twitter investors while trying to get out of acquisition, jury says\nAmanda Silberling\n2 days ago\nLatest in AI\nAI\nDo you want to build a robot snowman?\nAnthony Ha\n3 hours ago\nAI\nCursor admits its new coding model was built on top of Moonshot AI’s Kimi\nAnthony Ha\n4 hours ago\nIn Brief\nElon Musk unveils chip manufacturing plans for SpaceX and Tesla\nAnthony Ha\n6 hours ago"
+    },
+    {
+      "title": "Delve accused of misleading customers with ‘fake compliance’",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-22T14:43:51+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+      "tags": [],
+      "content": "An\nanonymous Substack post\npublished this week accuses compliance startup\nDelve\nof “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations, potentially exposing those customers to “criminal liability under HIPAA and hefty fines under GDPR.”\nDelve is a Y Combinator-backed startup that last year\nannounced raising a $32 million Series A\nat a $300 million valuation. (The round was led by Insight Partners.) On Friday, the startup attempted to refute the accusations\non its blog\n, calling the Substack post “misleading” and saying it “contains a number of inaccurate claims.”\nThe Substack post is credited to “DeepDelver,” who described themselves as working at a (now former) Delve client. In response to emailed questions from TechCrunch, DeepDelver said that they and their collaborators “chose to remain anonymous out of fear for retaliation by Delve.”\nIn their post, DeepDelver recounted receiving an email in December claiming the startup had “leaked a spreadsheet with confidential client reports.” While Delve CEO Karun Kaushik apparently assured customers in a subsequent email that they were in compliance and that no external party gained access to sensitive data, DeepDelver said they and other customers had become suspicious.\n“Having the shared experience of being underwhelmed with the Delve experience, and having the overall sense that something fishy was going on, we decided to pool resources and investigate together,” they wrote.\nTheir conclusion? That Delve “achieves its claim of being the fastest platform by producing fake evidence, generating auditor conclusions on behalf of certification mills that rubber stamp reports, and skipping major framework requirements while telling clients they have achieved 100% compliance.”\nDeepDelver went into considerable detail about those claims, accusing the startup of providing customers with “fabricated evidence of board meetings, tests, and processes that never happened,” then forcing those customers to “choose between adopting fake evidence or performing mostly manual work with little real automation or AI.”\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately\nOffer ends March 13.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nDeepDelver also claimed that virtually all of Delve’s clients seem to have "
+    },
+    {
+      "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-22T12:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Apple"
+      ],
+      "content": "Shortly after Amazon CEO Andy Jassy announced AWS’s\ngroundbreaking $50 billion investment deal\nwith OpenAI, Amazon invited me on a private tour of the chip development lab at the heart of the deal, at (mostly*) its own expense.\nIndustry experts are watching\nAmazon’s Trainium chip, created at that facility, for its implications for lower-cost AI inference and, potentially, a dent in Nvidia’s near monopoly.\nCurious, I agreed to go.\nMy tour guides for the day were the lab’s director, Kristopher King (pictured below right) and director of engineering Mark Carroll (below left), as well as the team’s PR person who arranged the visit, Doron Aronson (pictured with yours truly later in the story).\nAWS Chip lab leaders Mark Carroll and Kristopher King.\nImage Credits:\nTechCrunch/Julie Bort\nAWS has been Anthropic’s major cloud platform since the AI lab’s early days — a relationship significant enough to survive Anthropic later adding Microsoft as a cloud partner as well, and Amazon’s growing partnership with OpenAI.\nThe OpenAI deal makes AWS the exclusive provider of the model maker’s new AI agent builder, Frontier, which could become an important part of OpenAI’s business if agents become as big as Silicon Valley thinks they will. We’ll see if that exclusivity stands exactly as announced. The Financial Times\nreported this week\nthat Microsoft may believe OpenAI’s deal with Amazon violates its own deal with OpenAI, namely with Redmond getting access\nto all of OpenAI’s models and tech\n.\nWhat makes AWS so appealing to OpenAI? As part of this deal, the cloud giant has agreed to supply OpenAI with 2 gigawatts of Trainium computing capacity. This is a giant commitment, given that Anthropic and Amazon’s own Bedrock service are already consuming Trainium chips faster than Amazon can produce them.\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately\nOffer ends March 13.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nThere are 1.4 million Trainium chips deployed across all three generations, and Anthropic’s Claude runs on over 1 million of the Trainium2 chips deployed, the company said.\nIt’s worth noting that while Trainium was originally geared toward faster, cheaper model training (a bigger priority a couple of years ago), it’s now tuned and used for inference as well. Inference — the process of actuall"
+    },
+    {
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-22T06:20:43+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win.",
+      "tags": [],
+      "content": "This week, a topic that has been boomeranging around Silicon Valley bounced into the spotlight: AI tokens as compensation.\nThe idea is straightforward enough — rather than giving engineers only salary, equity, and bonuses, companies would also hand them a budget of AI tokens, the computational units that power tools like Claude, ChatGPT, and Gemini. Spend them to run agents, automate tasks, crank through code. The pitch is that access to more compute makes engineers more productive, and that more productive engineers are worth more. It’s an investment in the person holding them, is the idea.\nJensen Huang, the leather-jacket-wearing CEO of Nvidia, seemed to capture everyone’s imagination when he floated the notion at the company’s annual GTC event earlier this week that engineers should receive roughly half their base salary again — in tokens. His top people, by his math, might burn through\n$250,000 a year\nin AI compute. He called it a recruiting tool and predicted it would become standard across Silicon Valley.\nIt isn’t entirely clear where the idea was first, well, ideated. Tomasz Tunguz, a renowned VC in the Bay Area who runs Theory Ventures and focuses on AI, data, and SaaS startups — and whose writing on all things data has garnered a loyal following over the years — was talking about this in mid-February, writing that tech startups were already adding inference costs as a “\nfourth component\nto engineering compensation.” Using data from the compensation tracking site Levels.fyi, he put a top-quartile software engineer salary at $375,000. Add $100,000 in tokens and you’re at $475,000 fully loaded — meaning roughly one dollar in five is now compute.\nThat’s no coincidence. Agentic AI has been taking off, and the\nrelease of OpenClaw\nin late January accelerated the conversation considerably. OpenClaw is an open-source AI assistant designed to run continuously — churning through tasks, spawning sub-agents, and working through a to-do list while its user sleeps. It’s part of a broader shift toward systems that don’t just respond to prompts but take sequences of actions autonomously over time.\nThe practical consequence is that token consumption has exploded. Where someone writing an essay might use 10,000 tokens in an afternoon, an engineer running a swarm of agents can blow through millions in a day — automatically, in the background, without typing a word.\nBy this weekend, the New York Times had put together a\nsmart look\nat the so-called tokenmaxxing trend, finding that engineers at companies including Meta and OpenAI are competing on internal leaderboards that track token consumption. Generous token budgets are quietly becoming a standard job perk, the paper reported, the way dental insurance or free lunch once was. One Ericsson engineer in Stockholm told the Times he probably spends more on Claude than he earns in salary, though his employer picks up the tab.\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your"
+    },
+    {
+      "title": "Crimson Desert dev apologizes for use of AI art",
+      "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-03-22T17:34:34+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged that AI art was indeed used during the game's creation, but says that it was intended to be replaced before release. […]",
+      "tags": [],
+      "content": "Gaming\nAI\nNews\nCrimson Desert dev apologizes for use of AI art\nIt’s performing a ‘comprehensive audit’ to remove any AI assets.\nIt’s performing a ‘comprehensive audit’ to remove any AI assets.\nby\nTerrence O'Brien\nMar 22, 2026, 5:34 PM UTC\nLink\nShare\nGift\nThat’s some sloppy looking slop.\nImage: Rex_Spy / Reddit\nTerrence O'Brien\nis the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.\nReviews of\nCrimson Desert\nhave\nbeen\nmixed\n, but the bigger issue for the game has been the discovery of what\nappeared\nto be\nAI-generated assets\nin the\nfinal\nrelease. Now the developer has acknowledged that AI art was indeed used during the game’s creation, but says that it was intended to be replaced before release. In a\nstatement on X\n, the company said it was conducting a “comprehensive audit” to identify and replace any AI-generated content.\nThe company apologized for both its inclusion in the final release and for not being more transparent about its use during development. “We should have clearly disclosed our use of AI,” it said.\nThe use of generative AI in gaming has become a\nhot-button issue\nof the last couple of years as it’s made its way into several high-profile titles. While some large studios have\nembraced it\n, many smaller developers have revolted against the trend, proudly proclaiming their games to be “\nAI free\n.”\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nTerrence O'Brien\nAI\nGaming\nNews\nPC Gaming\nMost Popular\nMost Popular\nThe improved battery-powered Starlink Mini is here\nGemini task automation is slow, clunky, and super impressive\nThe new MacBook Pro is still fast as hell\nHalide co-founder is suing former partner for bringing source code to Apple\nThe gen AI Kool-Aid tastes like eugenics\nThe Verge Daily\nA free daily digest of the news that matters most.\nEmail (required)\nSign Up\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nAdvertiser Content From\nThis is the title for the native ad"
+    },
+    {
+      "title": "Musk says he’s building Terafab chip plant in Austin, Texas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-03-22T14:06:48+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and space-based data centers for Musk's various companies. Musk has expressed concern, as have other executives, about the chip industry's ability […]",
+      "tags": [
+        "robotics"
+      ],
+      "content": "AI\nNews\nTech\nMusk says he’s building Terafab chip plant in Austin, Texas\nBut there’s no timeline for his grand plan.\nBut there’s no timeline for his grand plan.\nby\nTerrence O'Brien\nMar 22, 2026, 2:06 PM UTC\nLink\nShare\nGift\nGrok, how do you make chips?\nImage: Laura Normand / The Verge\nTerrence O'Brien\nis the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.\nElon Musk announced plans to build a\nTerafab\nplant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence, and\nspace-based data centers\nfor Musk’s various companies.\nMusk has expressed concern, as have other executives, about the chip industry’s ability to\nkeep up with demand\nas the AI industry\nhas boomed\n. But building a chip fabrication plant is complex, requires billions of dollars, many years, and a ton of specialized equipment. And, as\nBloomberg\npoints out, Musk “has no background in semiconductor production and a history of over-promising on goals and timelines.”\nAccording to\nBloomberg\n, Musk said, “We either build the Terafab or we don’t have the chips, and we need the chips, so we build the Terafab,” before outlining plans to produce chips that could support up to 200 gigawatts per year of computing power on Earth, and up to a terawatt in space. While Musk gave some details about the scale of the computing power he expected Terafab to produce, he offered no timeline for when it might meet those goals, or even when the facility might come online.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nTerrence O'Brien\nAI\nElon Musk\nNews\nTech\nxAI\nMost Popular\nMost Popular\nThe improved battery-powered Starlink Mini is here\nGemini task automation is slow, clunky, and super impressive\nThe new MacBook Pro is still fast as hell\nHalide co-founder is suing former partner for bringing source code to Apple\nThe gen AI Kool-Aid tastes like eugenics\nThe Verge Daily\nA free daily digest of the news that matters most.\nEmail (required)\nSign Up\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nAdvertiser Content From\nThis is the title for the native ad"
+    },
+    {
+      "title": "AI was everywhere at gaming’s big developer conference — except the games",
+      "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-03-22T12:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent's AI tools. In […]",
+      "tags": [],
+      "content": "Gaming\nAI\nEntertainment\nAI was everywhere at gaming’s big developer conference — except the games\nOf the many developers I spoke to at GDC, nearly every one disavowed using AI in their projects.\nby\nJay Peters\nMar 22, 2026, 12:00 PM UTC\nLink\nShare\nGift\nIf you buy something from a Verge link, Vox Media may earn a commission.\nSee our ethics statement.\nPhoto by the GDC Festival of Gaming\nGaming\nAI\nEntertainment\nAI was everywhere at gaming’s big developer conference — except the games\nOf the many developers I spoke to at GDC, nearly every one disavowed using AI in their projects.\nby\nJay Peters\nMar 22, 2026, 12:00 PM UTC\nLink\nShare\nGift\nIf you buy something from a Verge link, Vox Media may earn a commission.\nSee our ethics statement.\nJay Peters\nis a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.\nAI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making\nAI-driven NPCs\nand\neven entire games from a chat box\n. On the show floor, I spent 10 minutes playing a demo of a pixel-art fantasy world generated by Tencent’s AI tools. In a briefing with Razer, I watched an AI assistant for QA automatically log issues in a shooter game. And there were\nmany\ntalks about AI, including\na standing-room only presentation\nby Google DeepMind researchers about playable AI-generated spaces.\nBut there was one key place where AI was missing: the games themselves. Of the many developers I spoke to at the conference, nearly every one was against the idea of using AI in their projects. “I feel like the human mind is so beautiful,”\nThe Melty Way\ndeveloper Gabriel Paquette told me. “Why not use it?”\nPhoto by the GDC Festival of Gaming\nIt was a common refrain. Those I spoke to, most of whom were indie developers, disavowed AI, and many said they would never use the technology as it detracted from the human element of development. That’s perhaps not surprising,\ngiven that\na recent GDC survey found that 52 percent of respondents think “generative AI is having a negative impact on the game industry,” which is up from 30 percent in 2025 and 18 percent in 2024. Some indie developers already go out of their way to show that\ntheir games are “AI free.”\nThe\nlargely negative reaction\nto Nvidia’s DLSS 5, which, in the publicly shown examples, added\nAI slop-like faces\nto recognizable game characters, almost certainly won’t make smaller developers more interested in the technology.\nThe general pitch for generative AI in gaming is that it might benefit both developers and players. In the most optimistic view of the technology, developers could use AI to help with tasks like debugging, QA, and idea generation, while players could use AI to help tailor games for themselves. Google Cloud executive Jack Buser, who helped launch Google Stadia and worked on PlayStation Now and PlayStation Home at Sony, says that generative AI is “the largest transformation in the "
+    },
+    {
+      "title": "Xiaomi launches three MiMo AI models to power agents, robots, and voice",
+      "url": "https://the-decoder.com/xiaomi-launches-three-mimo-ai-models-to-power-agents-robots-and-voice/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-22T15:52:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The Chinese technology company Xiaomi wants to build AI agents that can independently control software, shop in the browser and, in the future, also control robots. The in-house MiMo team has presented three models at the same time.\nThe article Xiaomi launches three MiMo AI models to power agents, robots, and voice appeared first on The Decoder.",
+      "tags": [
+        "speech",
+        "agents"
+      ],
+      "content": "Xiaomi launches three MiMo AI models to power agents, robots, and voice\nJonathan Kemper\nView the LinkedIn Profile of Jonathan Kemper\nMar 22, 2026\nXiaomi\nKey Points\nXiaomi has simultaneously released three AI models designed to form a complete platform for AI agents: a large language model, a multimodal model, and a speech synthesis model.\nThe flagship MiMo-V2-Pro nearly matches Anthropic's Claude Opus 4.6 on coding and agent tasks at a fraction of the API cost, while the multimodal MiMo-V2-Omni can see, hear, and act autonomously, for example, shopping in a browser or analyzing dashcam footage for hazards.\nBefore its official launch, MiMo-V2-Pro ran anonymously on the OpenRouter platform under the codename \"Hunter Alpha,\" topping the rankings for days, with many users mistakenly assuming it was a new model from DeepSeek.\nAsk about this article…\nSearch\nXiaomi wants to build AI agents that can control software on their own, navigate browsers, and eventually run robots. To get there, the company's in-house MiMo team just shipped three models at once.\nThe flagship\nMiMo-V2-Pro\nruns on a Mixture-of-Experts architecture with over one trillion total parameters, 42 billion of which are active per request. That's roughly three times the size of its predecessor, MiMo-V2-Flash, which launched in December 2025. Despite the jump in scale, a hybrid attention mechanism keeps things efficient, letting the model handle context windows up to one million tokens. It also generates multiple tokens at once instead of predicting one word at a time, giving it a noticeable speed boost.\nMiMo-V2-Pro ranks third globally on both PinchBench and ClawEval, trailing just behind Claude Opus 4.6. | Image: Xiaomi\nOn the\nArtificial Analysis Intelligence Index\n, MiMo-V2-Pro lands at seventh place worldwide, making it the top-performing Chinese model after GLM-5 and MiniMax-M2.7. It hits 78 percent on the coding benchmark SWE-bench Verified, just a hair below Claude Opus 4.6 (80.8) and within striking distance of Claude Sonnet 4.6 (79.6). On ClawEval, the agent benchmark, it pulls 81 points, nearly matching Claude Opus 4.6's 81.5, while GPT-5.2 sits at 77.\nAd\nMiMo-V2-Pro generates a 3D tower defense game with different tower types, enemy waves, and explosion effects from a single prompt. | Image: Xiaomi\nXiaomi undercuts Anthropic on pricing by a wide margin\nXiaomi is going after the competition hard on price. According to the\nplatform page\n, MiMo-V2-Pro costs one dollar per million input tokens and three dollars per million output tokens for context lengths up to 256,000 tokens. For comparison, Claude Sonnet 4.6 runs three or 15 dollars, and Claude Opus 4.6 goes for five or 25 dollars. Xiaomi is also waiving all cache writing costs for now.\nAd\nThe model is live through a public API. For the launch, Xiaomi has partnered with five agent frameworks: OpenClaw, OpenCode, KiloCode, Blackbox, and Cline. Developers worldwide get free API access for one week.\nMiMo-V2-Omni sees, hears, and acts"
+    },
+    {
+      "title": "Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results",
+      "url": "https://the-decoder.com/andrej-karpathy-says-humans-are-now-the-bottleneck-in-ai-research-with-easy-to-measure-results/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-22T11:44:24+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "AI developer Andrej Karpathy let an autonomous agent optimize his training setup overnight, and it found improvements he'd missed despite two decades of experience.\nThe article Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results appeared first on The Decoder.",
+      "tags": [
+        "agents"
+      ],
+      "content": "Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nMar 22, 2026\nKarpathy spent months hand-tuning his\nGPT-2 training setup\n.\nThen he let an autonomous agent take over for a single night. The agent discovered fine-grained adjustments Karpathy had overlooked, tweaks that also interact with each other in ways that are easy for a human to miss but straightforward for a\nsystematic search to catch\n.\nKarpathy's takeaway is that researchers should remove themselves from the loop, at least in areas where objective metrics exist. \"To get the most out of the tools that have become available now, you have to remove yourself as the bottleneck. You can't be there to prompt the next thing,\" Karpathy says. Researchers at major AI labs, he argues, place too much unfounded trust in their own intuition and are ultimately in the process of systematically automating themselves out of a job. Which, Karpathy notes,\nis also their stated goal\n.\nWhile models keep getting better at coding and other easy-to-verify tasks, Karpathy doesn't think these gains will carry over smoothly to less measurable domains. \"Anything that feels softer is, like, worse,\" he says.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nAs a\nTHE DECODER subscriber\n, you get ad-free reading, our\nweekly AI newsletter\n, the exclusive\n\"AI Radar\" Frontier Report 6× per year\n, access to comments, and our\ncomplete archive.\nSubscribe now\nSource:\nNo Priors Podcast\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "OpenAI publishes a prompting playbook that helps designers get better frontend results from GPT-5.4",
+      "url": "https://the-decoder.com/openai-publishes-a-prompting-playbook-that-helps-designers-get-better-frontend-results-from-gpt-5-4/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-22T10:51:07+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In a new guide, OpenAI explains how front-end designers can get better results from GPT-5.4 when building websites and apps and how to stop the model from falling back on generic designs.\nThe article OpenAI publishes a prompting playbook that helps designers get better frontend results from GPT-5.4 appeared first on The Decoder.",
+      "tags": [
+        "OpenAI",
+        "GPT"
+      ],
+      "content": "OpenAI publishes a prompting playbook that helps designers get better frontend results from GPT-5.4\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nMar 22, 2026\nNano Banana Pro prompted by THE DECODER\nAsk about this article…\nSearch\nOpenAI has published a set of prompting tips for frontend designers who want to generate UX/UI designs with GPT-5.4.\nIn a new\nguide\n, the company explains how GPT-5.4 can be used to build websites and apps. According to OpenAI, without clear instructions, the model tends to produce generic designs. The company recommends defining a design system upfront—colors, typography, layout—providing visual references or mood boards, and structuring the page as a narrative.\nOpenAI's starter prompt:\nAd\n## Frontend tasks\nAd\nWhen doing frontend design tasks, avoid generic, overbuilt layouts.\n**Use these hard rules:**\n- One composition: The first viewport must read as one composition, not a dashboard (unless it's a dashboard).\n- Brand first: On branded pages, the brand or product name must be a hero-level signal, not just nav text or an eyebrow. No headline should overpower the brand.\n- Brand test: If the first viewport could belong to another brand after removing the nav, the branding is too weak.\n- Typography: Use expressive, purposeful fonts and avoid default stacks (Inter, Roboto, Arial, system).\n- Background: Don't rely on flat, single-color backgrounds; use gradients, images, or subtle patterns to build atmosphere.\n- Full-bleed hero only: On landing pages and promotional surfaces, the hero image should be a dominant edge-to-edge visual plane or background by default. Do not use inset hero images, side-panel hero images, rounded media cards, tiled collages, or floating image blocks unless the existing design system clearly requires it.\n- Hero budget: The first viewport should usually contain only the brand, one headline, one short supporting sentence, one CTA group, and one dominant image. Do not place stats, schedules, event listings, address blocks, promos, \"this week\" callouts, metadata rows, or secondary marketing content in the first viewport.\n- No hero overlays: Do not place detached labels, floating badges, promo stickers, info chips, or callout boxes on top of hero media.\n- Cards: Default: no cards. Never use cards in the hero. Cards are allowed only when they are the container for a user interaction. If removing a border, shadow, background, or radius does not hurt interaction or understanding, it should not be a card.\n- One job per section: Each section should have one purpose, one headline, and usually one short supporting sentence.\n- Real visual anchor: Imagery should show the product, place, atmosphere, or context. Decorative gradients and abstract backgrounds do not count as the main visual idea.\n- Reduce clutter: Avoid pill clusters, stat strips, icon rows, boxed promos, schedule snippets, and multiple competing text blocks.\n- Use motion to create presence and hierarchy, not noise. Ship at least 2-3"
+    },
+    {
+      "title": "Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification",
+      "url": "https://the-decoder.com/terence-tao-says-ai-drives-idea-generation-cost-to-near-zero-but-shifts-the-bottleneck-to-verification/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-22T09:31:13+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Terence Tao compares AI's impact on mathematics to the automobile's effect on cities: new technology needs new infrastructure, or it just clogs the old roads. His analysis applies far beyond math.\nThe article Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification appeared first on The Decoder.",
+      "tags": [],
+      "content": "Terence Tao says AI drives idea generation cost to near zero but shifts the bottleneck to verification\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nMar 22, 2026\nNano Banana Pro prompted by THE DECODER\nAsk about this article…\nSearch\nMathematician Terence Tao compares the influence of AI and formalization on mathematical practice with the impact of the automobile on urban development. The analogy could apply just as well to other fields, including coding.\nCars were faster than any previous mode of transportation, but they clogged roads built for people, horses, and carriages. New roads and highways made fast travel possible but led to urban sprawl, traffic congestion, and environmental problems. Only thoughtful urban planning and traffic regulations could have united both worlds in a sensible way,\nTao writes\n.\nThe existing infrastructure of mathematics—journals, conferences, mentoring, citations—is like old, narrow roads: built for humans. Human proofs may be slow, but they generate valuable side effects: researchers develop expertise, map mathematical terrain, discover new research directions, and document instructive dead ends and detours.\nAd\nAI-assisted proofs, Tao argues, can lead efficiently from hypothesis to result but lose exactly these side effects along the way. They're often unsuitable for traditional journals because the expected narrative about the path to proof is almost entirely missing. Tao compares attempts to upgrade AI models so they produce publishable papers with trying to retrofit cars for streets designed for humans.\nAd\nMathematics needs new infrastructure built for machines\nRather than forcing AI into existing structures, Tao thinks the better approach is to create new machine-friendly mathematical infrastructure that complements rather than replaces human paths. As examples, he points to large mathematical challenges where solutions are verified by formal proof assistants or automatically generated libraries of rough proofs that humans then refine into higher-quality versions. Tao also suggests a new discipline of \"AI planning,\" modeled on urban planning, to preserve the \"walkable\" nature of mathematics.\nIn a\nconversation with Dwarkesh Patel\n, Tao expands on this view: AI does make his work \"richer and broader,\" through more graphics, code, and deeper literature research, for example. But he still does the core of his mathematical work with pen and paper. Without the additional elements that AI makes possible in the first place, a paper wouldn't come together much faster today than it did in the past, Tao says. AI hasn't sped up the actual work so much as opened up new possibilities.\nAd\n\"I think AI has driven the cost of idea generation down to almost zero, in a very similar way to how the internet drove the cost of communication down to almost zero. It's an amazing thing, but it doesn't create abundance by itself. Now the bottleneck is different. We're now in a situation where suddenly people can generate"
+    },
+    {
+      "title": "Math needs thinking time, everyday knowledge needs memory, and a new Transformer architecture aims to deliver both",
+      "url": "https://the-decoder.com/math-needs-thinking-time-everyday-knowledge-needs-memory-and-a-new-transformer-architecture-aims-to-deliver-both/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-22T08:31:07+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "A German research team lets Transformer models decide for themselves how many times they think about a problem. Combined with additional memory, the approach outperforms larger models on math problems.\nThe article Math needs thinking time, everyday knowledge needs memory, and a new Transformer architecture aims to deliver both appeared first on The Decoder.",
+      "tags": [],
+      "content": "Math needs thinking time, everyday knowledge needs memory, and a new Transformer architecture aims to deliver both\nJonathan Kemper\nView the LinkedIn Profile of Jonathan Kemper\nMar 22, 2026\nNano Banana Pro prompted by THE DECODER\nKey Points\nA new transformer architecture lets each layer autonomously decide how many times it repeats its computing block, while additional memory banks supply factual knowledge, allowing the model to dynamically allocate compute where it's needed most.\nWith only twelve layers, the looped model outperforms a conventional 36-layer model by 6.4 percent on math problems at the same computational cost. For everyday knowledge tasks, loops provide little benefit, but the memory banks effectively close the performance gap.\nDuring training, the system self-organizes: early layers rarely repeat, while late layers loop intensively and access memory more frequently. Notably, loops and memory function as complementary mechanisms rather than substitutes for each other.\nAsk about this article…\nSearch\nA German research team lets Transformer models decide for themselves how many times they think about a problem. Combined with additional memory, the approach clearly outperforms larger models on math problems.\nLanguage models can think step by step using chain-of-thought prompting, but each intermediate step requires additional tokens. Looped transformers offer an alternative: they run the same computation block multiple times on their internal representations without outputting intermediate steps as text. This saves parameters but costs storage capacity, because the model has fewer unique weights to store knowledge in.\nA research team from the\nLamarr Institute\n,\nFraunhofer IAIS\n, and the\nUniversity of Bonn\nwanted to find out whether this tradeoff can be resolved. Their architecture combines two mechanisms: adaptive looping, where each transformer layer uses a learned halt mechanism to decide how many times it repeats its computation block, and learned memory banks that provide additional knowledge.\nAd\nThe base architecture is a decoder-only transformer with 12 layers and about 200 million parameters, trained on 14 billion tokens from the deduplicated FineWeb Edu dataset. The looped variants allow each layer up to 3, 5, or 7 iterations. The memory banks include 1,024 local slots per layer and 512 global, shared slots, adding roughly 10 million extra parameters, according to the study.\nAd\nA conventional transformer (left) passes data through each layer once. The loop model (center) can repeat each block multiple times. The combined model (right) also taps into local and global memory. | Image: Frey et al.\nLooping boosts math, memory fills knowledge gaps\nThe results show that letting a model repeat its calculations up to three times makes it significantly better at math. The looped model scores 22 percent higher than the base model without loops. Demanding subcategories like Precalculus (31 percent improvement) and Intermediate Algebra (26"
+    },
+    {
+      "title": "Implementing Deep Q-Learning (DQN) from Scratch Using RLax JAX Haiku and Optax to Train a CartPole Reinforcement Learning Agent",
+      "url": "https://www.marktechpost.com/2026/03/22/implementing-deep-q-learning-dqn-from-scratch-using-rlax-jax-haiku-and-optax-to-train-a-cartpole-reinforcement-learning-agent/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-22T21:54:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In this tutorial, we implement a reinforcement learning agent using RLax, a research-oriented library developed by Google DeepMind for building reinforcement learning algorithms with JAX. We combine RLax with JAX, Haiku, and Optax to construct a Deep Q-Learning (DQN) agent that learns to solve the CartPole environment. Instead of using a fully packaged RL framework, […]\nThe post Implementing Deep Q-Learning (DQN) from Scratch Using RLax JAX Haiku and Optax to Train a CartPole Reinforcement Learning Agent appeared first on MarkTechPost.",
+      "tags": [
+        "Google",
+        "agents"
+      ],
+      "content": "Editors Pick\nAgentic AI\nAI Agents\nTechnology\nReinforcement Learning\nStaff\nTutorials\nIn this tutorial, we implement a reinforcement learning agent using\nRLax\n, a research-oriented library developed by Google DeepMind for building reinforcement learning algorithms with JAX. We combine RLax with JAX, Haiku, and Optax to construct a Deep Q-Learning (DQN) agent that learns to solve the CartPole environment. Instead of using a fully packaged RL framework, we assemble the training pipeline ourselves so we can clearly understand how the core components of reinforcement learning interact. We define the neural network, build a replay buffer, compute temporal difference errors with RLax, and train the agent using gradient-based optimization. Also, we focus on understanding how RLax provides reusable RL primitives that can be integrated into custom reinforcement learning pipelines. We use JAX for efficient numerical computation, Haiku for neural network modeling, and Optax for optimization.\nCopy Code\nCopied\nUse a different Browser\n!pip -q install \"jax[cpu]\" dm-haiku optax rlax gymnasium matplotlib numpy\n\nimport os\nos.environ[\"XLA_PYTHON_CLIENT_PREALLOCATE\"] = \"false\"\n\nimport random\nimport time\nfrom dataclasses import dataclass\nfrom collections import deque\n\nimport gymnasium as gym\nimport haiku as hk\nimport jax\nimport jax.numpy as jnp\nimport matplotlib.pyplot as plt\nimport numpy as np\nimport optax\nimport rlax\n\nseed = 42\nrandom.seed(seed)\nnp.random.seed(seed)\n\nenv = gym.make(\"CartPole-v1\")\neval_env = gym.make(\"CartPole-v1\")\n\nobs_dim = env.observation_space.shape[0]\nnum_actions = env.action_space.n\n\ndef q_network(x):\n   mlp = hk.Sequential([\n       hk.Linear(128), jax.nn.relu,\n       hk.Linear(128), jax.nn.relu,\n       hk.Linear(num_actions),\n   ])\n   return mlp(x)\n\nq_net = hk.without_apply_rng(hk.transform(q_network))\n\ndummy_obs = jnp.zeros((1, obs_dim), dtype=jnp.float32)\nrng = jax.random.PRNGKey(seed)\nparams = q_net.init(rng, dummy_obs)\ntarget_params = params\n\noptimizer = optax.chain(\n   optax.clip_by_global_norm(10.0),\n   optax.adam(3e-4),\n)\nopt_state = optimizer.init(params)\nWe install the required libraries and import all the modules needed for the reinforcement learning pipeline. We initialize the environment, define the neural network architecture using Haiku, and set up the Q-network that predicts action values. We also initialize the network and target network parameters, as well as the optimizer to be used during training.\nCopy Code\nCopied\nUse a different Browser\n@dataclass\nclass Transition:\n   obs: np.ndarray\n   action: int\n   reward: float\n   discount: float\n   next_obs: np.ndarray\n   done: float\n\nclass ReplayBuffer:\n   def __init__(self, capacity):\n       self.buffer = deque(maxlen=capacity)\n\n   def add(self, *args):\n       self.buffer.append(Transition(*args))\n\n   def sample(self, batch_size):\n       batch = random.sample(self.buffer, batch_size)\n       obs = np.stack([t.obs for t in batch]).astype(np.float32)\n       action = np.array([t.action f"
+    },
+    {
+      "title": "Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code",
+      "url": "https://www.marktechpost.com/2026/03/22/meet-gitagent-the-docker-for-ai-agents-that-is-finally-solving-the-fragmentation-between-langchain-autogen-and-claude-code/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-22T21:21:48+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The current state of AI agent development is characterized by significant architectural fragmentation. Software devs building autonomous systems must generally commit to one of several competing ecosystems: LangChain, AutoGen, CrewAI, OpenAI Assistants, or the more recent Claude Code. Each of these ‘Five Frameworks’ utilizes a proprietary method for defining agent logic, memory persistence, and tool […]\nThe post Meet GitAgent: The Docker for AI Agents that is Finally Solving the Fragmentation between LangChain, AutoGen, and Claude Code appeared first on MarkTechPost.",
+      "tags": [
+        "OpenAI",
+        "Claude",
+        "agents"
+      ],
+      "content": "Editors Pick\nAgentic AI\nAI Agents\nArtificial Intelligence\nAI Infrastructure\nTechnology\nAI Shorts\nApplications\nNew Releases\nOpen Source\nStaff\nTech News\nUncategorized\nThe current state of AI agent development is characterized by significant architectural fragmentation. Software devs building autonomous systems must generally commit to one of several competing ecosystems:\nLangChain\n,\nAutoGen\n,\nCrewAI\n,\nOpenAI Assistants\n, or the more recent\nClaude Code\n. Each of these ‘Five Frameworks’ utilizes a proprietary method for defining agent logic, memory persistence, and tool execution. This lack of a common standard creates high switching costs and technical debt, as moving an agent from one framework to another necessitates a near-total rewrite of the core codebase.\nGitAgent\n, an open-source specification and CLI tool introduces a framework-agnostic format designed to decouple an agent’s definition from its execution environment. By treating the agent as a structured directory within a Git repository, GitAgent aims to provide a ‘Universal Format’ that allows developers to define an agent once and export it to any of the major orchestration layers.\nThe Component-Based Architecture of GitAgent\nFor AI devs, GitAgent shifts the focus from writing framework-specific boilerplate to defining modular components. A GitAgent is defined by\na specific folder structure containing several key files that govern its behavior and state:\nagent.yaml\n: The central manifest file. It contains the metadata of the agent, including the model provider, versioning information, and environment dependencies.\nSOUL.md\n: A Markdown file that defines the agent’s core identity, personality, and tone. This replaces the unstructured “system prompts” often scattered across different Python files in traditional implementations.\nDUTIES.md\n: This file outlines the specific responsibilities and the\nSegregation of Duties (SOD)\n. It defines what the agent is permitted to do and, crucially, what it is restricted from doing.\nskills/ and tools/\n: These directories house the functional capabilities. ‘Skills’ refer to higher-level behavioral patterns, while ‘tools’ are the discrete Python functions or API definitions the agent can invoke to interact with external systems.\nrules/\n: A dedicated space for guardrails. This allows engineers to bake safety and organizational constraints directly into the agent’s definition, ensuring they are preserved regardless of which framework is used for deployment.\nmemory/\n: Unlike traditional agents that store history in volatile memory or obscure databases, GitAgent stores state in human-readable files like\ndailylog.md\nand\ncontext.md\n.\nSupervision and Versioning Layer\nOne of the primary technical challenges in deploying autonomous agents is the lack of transparency regarding how an agent’s behavior evolves over time. GitAgent addresses this by utilizing Git as the primary supervision layer.\nIn a standard GitAgent workflow, any update to the agent’s ‘internal state’—"
+    },
+    {
+      "title": "A Coding Implementation for Building and Analyzing Crystal Structures Using Pymatgen for Symmetry Analysis, Phase Diagrams, Surface Generation, and Materials Project Integration",
+      "url": "https://www.marktechpost.com/2026/03/21/a-coding-implementation-for-building-and-analyzing-crystal-structures-using-pymatgen-for-symmetry-analysis-phase-diagrams-surface-generation-and-materials-project-integration/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-22T04:46:37+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In this tutorial, we explore the capabilities of the pymatgen library for computational materials science using Python. We begin by constructing crystal structures such as silicon, sodium chloride, and a LiFePO₄-like material, and then investigate their lattice properties, densities, and compositions. Also, we analyze symmetry using space-group detection, examine atomic coordination environments, and apply oxidation-state […]\nThe post A Coding Implementation for Building and Analyzing Crystal Structures Using Pymatgen for Symmetry Analysis, Phase Diagrams, Surface Generation, and Materials Project Integration appeared first on MarkTechPost.",
+      "tags": [],
+      "content": "Technology\nArtificial Intelligence\nEditors Pick\nMachine Learning\nQuantum Machine Learning\nStaff\nTutorials\nIn this tutorial, we explore the capabilities of the\npymatgen\nlibrary for computational materials science using Python. We begin by constructing crystal structures such as silicon, sodium chloride, and a LiFePO₄-like material, and then investigate their lattice properties, densities, and compositions. Also, we analyze symmetry using space-group detection, examine atomic coordination environments, and apply oxidation-state decorations to better understand the structures’ chemistry. We also generate supercells, perturb atomic positions, and compute distance matrices to study structural relationships at larger scales. Along the way, we simulate X-ray diffraction patterns, construct a simple phase diagram, and demonstrate how disordered alloy structures can be approximated by ordered configurations. Finally, we extend the workflow to include molecule analysis, CIF export, and optional querying of the Materials Project database, thereby illustrating how pymatgen can serve as a powerful toolkit for materials modeling and data analysis.\nCopy Code\nCopied\nUse a different Browser\n!pip -q install pymatgen mp-api spglib\n\nimport os\nimport json\nimport warnings\nimport sys\n\nwarnings.filterwarnings(\"ignore\")\n\nimport numpy as np\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nfrom pymatgen.core import Lattice, Structure, Molecule\nfrom pymatgen.core.surface import SlabGenerator\nfrom pymatgen.core.composition import Composition\nfrom pymatgen.symmetry.analyzer import SpacegroupAnalyzer\nfrom pymatgen.analysis.local_env import CrystalNN\nfrom pymatgen.analysis.diffraction.xrd import XRDCalculator\nfrom pymatgen.analysis.phase_diagram import PDEntry, PhaseDiagram\nfrom pymatgen.transformations.standard_transformations import (\n   SupercellTransformation,\n   OrderDisorderedStructureTransformation,\n   OxidationStateDecorationTransformation,\n)\nfrom pymatgen.io.cif import CifWriter\n\nprint(\"Python:\", sys.version.split()[0])\nprint(\"NumPy:\", np.__version__)\nprint(\"pandas:\", pd.__version__)\n\ntry:\n   import pymatgen\n   print(\"pymatgen:\", pymatgen.__version__)\nexcept Exception:\n   import importlib.metadata\n   print(\"pymatgen:\", importlib.metadata.version(\"pymatgen\"))\n\ndef line():\n   print(\"=\" * 100)\n\ndef header(title):\n   line()\n   print(title)\n   line()\n\nheader(\"1. BUILD EXAMPLE STRUCTURES\")\n\nsi = Structure(\n   Lattice.cubic(5.431),\n   [\"Si\", \"Si\"],\n   [[0, 0, 0], [0.25, 0.25, 0.25]],\n)\n\nnacl = Structure(\n   Lattice.cubic(5.64),\n   [\"Na\", \"Cl\"],\n   [[0, 0, 0], [0.5, 0.5, 0.5]],\n)\n\nli_fe_po4 = Structure(\n   Lattice.orthorhombic(10.33, 6.01, 4.69),\n   [\"Li\", \"Fe\", \"P\", \"O\", \"O\", \"O\", \"O\"],\n   [\n       [0.0, 0.0, 0.0],\n       [0.5, 0.5, 0.5],\n       [0.1, 0.25, 0.2],\n       [0.22, 0.04, 0.28],\n       [0.72, 0.54, 0.78],\n       [0.31, 0.66, 0.12],\n       [0.81, 0.16, 0.62],\n   ],\n)\n\nfor name, s in [(\"Si\", si), (\"NaCl\", nacl), (\"LiFePO4-like\", li_fe_po4)]:\n   print(f\"{name}: fo"
+    },
+    {
+      "title": "Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing)",
+      "url": "https://www.marktechpost.com/2026/03/21/safely-deploying-ml-models-to-production-four-controlled-strategies-a-b-canary-interleaved-shadow-testing/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-21T23:02:13+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Deploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the existing production model can be risky. Offline evaluation rarely captures the full complexity of real-world environments—data distributions may shift, user behavior can […]\nThe post Safely Deploying ML Models to Production: Four Controlled Strategies (A/B, Canary, Interleaved, Shadow Testing) appeared first on MarkTechPost.",
+      "tags": [],
+      "content": "Technology\nAI Shorts\nArtificial Intelligence\nApplications\nEditors Pick\nMachine Learning\nStaff\nTech News\nTutorials\nDeploying a new machine learning model to production is one of the most critical stages of the ML lifecycle. Even if a model performs well on validation and test datasets, directly replacing the existing production model can be risky. Offline evaluation rarely captures the full complexity of real-world environments—data distributions may shift, user behavior can change, and system constraints in production may differ from those in controlled experiments.\nAs a result, a model that appears superior during development might still degrade performance or negatively impact user experience once deployed. To mitigate these risks, ML teams adopt controlled rollout strategies that allow them to evaluate new models under real production conditions while minimizing potential disruptions.\nIn this article, we explore four widely used strategies—A/B testing, Canary testing, Interleaved testing, and Shadow testing—that help organizations safely deploy and validate new machine learning models in production environments.\nA/B Testing\nA/B testing\nis one of the most widely used strategies for safely introducing a new machine learning model in production. In this approach, incoming traffic is split between two versions of a system: the existing\nlegacy model\n(control) and the\ncandidate model\n(variation). The distribution is typically non-uniform to limit risk—for example, 90% of requests may continue to be served by the legacy model, while only 10% are routed to the candidate model.\nBy exposing both models to real-world traffic, teams can compare downstream performance metrics such as click-through rate, conversions, engagement, or revenue. This controlled experiment allows organizations to evaluate whether the candidate model genuinely improves outcomes before gradually increasing its traffic share or fully replacing the legacy model.\nCanary Testing\nCanary testing\nis a controlled rollout strategy where a new model is first deployed to a small subset of users before being gradually released to the entire user base. The name comes from an old mining practice where miners carried canary birds into coal mines to detect toxic gases—the birds would react first, warning miners of danger. Similarly, in machine learning deployments, the\ncandidate model\nis initially exposed to a limited group of users while the majority continue to be served by the\nlegacy model\n.\nUnlike A/B testing, which randomly splits traffic across all users, canary testing targets a specific subset and progressively increases exposure if performance metrics indicate success. This gradual rollout helps teams detect issues early and roll back quickly if necessary, reducing the risk of widespread impact.\nInterleaved Testing\nInterleaved testing\nevaluates multiple models by mixing their outputs within the same response shown to users. Instead of routing an entire request to either the legacy or cand"
+    },
+    {
+      "title": "affaan-m / everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-22T22:34:25.973235+00:00",
+      "score": 3735,
+      "comments": null,
+      "summary": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "tags": [
+        "Claude",
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-22T22:34:25.973235+00:00",
+      "score": 1108,
+      "comments": null,
+      "summary": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "tags": [
+        "LLM",
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "jarrodwatts / claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-22T22:34:25.973235+00:00",
+      "score": 832,
+      "comments": null,
+      "summary": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "tags": [
+        "Claude",
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "url": "https://github.com/danveloper/flash-moe",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-22T11:30:03+00:00",
+      "score": 279,
+      "comments": 98,
+      "summary": null,
+      "tags": [],
+      "content": "Flash-MoE: Running a 397B Parameter Model on a Laptop\nRead the paper\n— Full technical details, 90+ experiments, and the story of how an AI and a human built this in 24 hours.\nPure C/Metal inference engine that runs\nQwen3.5-397B-A17B\n(a 397 billion parameter Mixture-of-Experts model) on a MacBook Pro with 48GB RAM at\n4.4+ tokens/second\nwith production-quality output including tool calling.\nThe entire 209GB model streams from SSD through a custom Metal compute pipeline. No Python. No frameworks. Just C, Objective-C, and hand-tuned Metal shaders.\nResults\nConfiguration\ntok/s\nQuality\nNotes\n4-bit experts, FMA kernel\n4.36\nExcellent\nCurrent best. Full tool calling. 209GB on disk.\n4-bit experts, baseline\n3.90\nExcellent\nBefore FMA kernel optimization.\n2-bit experts, trust OS\n5.74\nGood*\n120GB on disk. *Breaks JSON/tool calling.\n2-bit peak single token\n7.05\nGood*\nWarm cache burst. *Not suitable for tool use.\n*2-bit quantization produces\n\\name\\\ninstead of\n\"name\"\nin JSON output, making tool calling unreliable. 4-bit is the production configuration.\nHardware\nMachine\n: MacBook Pro, Apple M3 Max\nChip\n: 16-core CPU (12P + 4E), 40-core GPU, 16-core ANE\nMemory\n: 48 GB unified (~400 GB/s bandwidth)\nSSD\n: 1TB Apple Fabric,\n17.5 GB/s sequential read\n(measured)\nmacOS\n: 26.2 (Darwin 25.2.0)\nArchitecture\nThe model has 60 transformer layers: 45 GatedDeltaNet (linear attention) + 15 standard full attention. Each layer has 512 experts, of which K=4 are activated per token (plus one shared expert). Hidden dimension is 4096.\nKey Techniques\nSSD Expert Streaming\n— Expert weights (209GB at 4-bit) are read from NVMe SSD on demand via parallel\npread()\nwith GCD dispatch groups. Only the K=4 active experts per layer are loaded (~6.75MB each). The OS page cache manages caching — no custom cache needed (\"Trust the OS\" principle). Inspired by Apple's \"LLM in a Flash\" paper.\nFMA-Optimized Dequant Kernel\n— The inner loop of the 4-bit dequantized matrix-vector multiply rearranges the math from\n(nibble * scale + bias) * x\nto\nfma(nibble, scale*x, bias*x)\n. Pre-computing\nscale*x\nand\nbias*x\nlets the GPU fused multiply-add unit do dequant+multiply in one instruction. 12% faster than the naive formulation.\nMetal Compute Shaders\n— Hand-written Metal kernels for:\n4-bit and 2-bit dequantized matrix-vector multiply (tiled, SIMD-reduced, shared input cache, FMA-optimized)\nFused SwiGLU activation\nRMS normalization (two-pass: sum-of-squares reduction + apply)\nBatched GPU attention (Q@K^T, softmax, scores@V) for full attention layers\nGPU RoPE (fused with Q deinterleave and K normalization)\nMoE combine + residual + sigmoid gate (fused kernel)\nDeferred GPU Expert Compute\n— CMD3 (expert forward pass) is submitted without waiting. The GPU executes it while the CPU prepares the next layer. The combine + residual + norm are also on GPU, feeding directly into the next layer's attention projections.\nAccelerate BLAS for Linear Attention\n— The GatedDeltaNet recurrence uses\ncblas_sscal\n,\ncblas_sgemv\n, and\ncblas_sg"
+    },
+    {
+      "title": "jamwithai / production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-22T22:34:25.973235+00:00",
+      "score": 235,
+      "comments": null,
+      "summary": null,
+      "tags": [
+        "RAG",
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "hsliuping / TradingAgents-CN",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-22T22:34:25.973235+00:00",
+      "score": 215,
+      "comments": null,
+      "summary": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "tags": [
+        "LLM"
+      ],
+      "content": ""
+    },
+    {
+      "title": "HKUDS / LightRAG",
+      "url": "https://github.com/HKUDS/LightRAG",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-22T22:34:25.973235+00:00",
+      "score": 203,
+      "comments": null,
+      "summary": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "tags": [
+        "RAG"
+      ],
+      "content": ""
+    },
+    {
+      "title": "A case against currying",
+      "url": "https://emi-h.com/articles/a-case-against-currying.html",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-22T13:03:55+00:00",
+      "score": 86,
+      "comments": 109,
+      "summary": null,
+      "tags": [],
+      "content": "A Case Against Currying\nCurried functions are probably one of the first new things you come across if you go from an imperative language to\n                a functional language. In purely functional languages, the convention is to define an n-parameter function\n                inductively by staggering the parameters: applying the function to argument #1 returns a function that takes\n                parameters 2..n, which in turn can be applied to argument #2 to return a function that takes parameters 3..n, etc.\n                until all the arguments are given and the result is returned. For instance, we can define a 3-parameter\nadd\nfunction that adds three numbers:\nadd x y z = x + y + z\n-- this is syntactic sugar for:\nadd = \\x -> (\\y -> (\\z -> x + y + z))\n-- add has the following type:\nadd :: Int -> (Int -> (Int -> Int))\n-- you can apply left-to-right:\n((add\n1\n)\n2\n)\n3\n-- returns 6\nWe make the arrow\n->\nright-associative, so we can write\nInt -> Int -> Int -> Int\n.\n                Additionally, we make function application left-associative, so we can write\nadd 1 2 3\nand minimize\n                our use of parentheses.\nI want to argue that when you define functions in this style, although it is nice and elegant, there are also some\n                things that are lost.\nThere are roughly three different \"styles\" that programming languages offer for writing multi-parameter function\n                definitions with. Firstly, there is the imperative style which I will call the \"parameter list\" style. Here,\n                multiple parameters is a baked-in feature of functions. This is the default in imperative languages like Rust:\nfn\nf(p1:\nP1\n, p2:\nP2\n, p3:\nP3\n) ->\nR\n{ ... }\n// definition\nf(a1, a2, a3)\n// call\nf :\nfn\n(\nP1\n,\nP2\n,\nP3\n) ->\nR\n// type\nAnother form is the \"curried\" style, offered in pure functional languages like Haskell:\nf p1 p2 p3 = ...\n-- definition\nf a1 a2 a3\n-- call\nf ::\nP1\n->\nP2\n->\nP3\n->\nR\n-- type\nFinally, there is the \"tuple\" style. It looks similar to the parameter list style, but the multiple parameters are\n                not part of the functions itself. The function just has one parameter, but that parameter is a tuple so it\n                effectively carries multiple values. This is usually possible in functional languages like Haskell as well but not\n                the standard:\nf(p1, p2, p3) = ...\n-- definition\nf(a1, a2, a3)\n-- call\nf :: (\nP1\n,\nP2\n,\nP3\n) ->\nR\n-- type\nNote that some imperative languages also offer these functional styles, but it gets a bit unwieldy. For instance,\n                we can do the curried style in JavaScript:\nconst\nf = p1 => p2 => p3 => ...;\nf(a1)(a2)(a3)\nWe can also do the tuple style in Rust:\nfn\nf((p1, p2, p3): (\nP1\n,\nP2\n,\nP3\n)) ->\nR\n{ ... }\nf((a1, a2, a3))\nf :\nfn\n((\nP1\n,\nP2\n,\nP3\n)) ->\nR\nUltimately, even though these styles have different practical use cases, they are equivalent in theory: the types\n(P1, P2) -> R\nand\nP1 -> P2 -> R\nare\nisomorphic\n, which means there is a one-to-one mapping\n     "
+    },
+    {
+      "title": "Show HN: Revise – An AI Editor for Documents",
+      "url": "https://revise.io",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-22T13:28:45+00:00",
+      "score": 56,
+      "comments": 48,
+      "summary": null,
+      "tags": [],
+      "content": "Use the leading AI models\nChoose between the latest models from OpenAI, Anthropic, and xAI.\nGPT 5.4 Mini\nGPT 5.4\nGPT 5.4 Pro\nClaude Haiku 4.5\nClaude Sonnet 4.6\nClaude Opus 4.6"
+    },
+    {
+      "title": "Teaching Claude to QA a mobile app",
+      "url": "https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-22T19:04:00+00:00",
+      "score": 46,
+      "comments": 2,
+      "summary": null,
+      "tags": [
+        "Claude"
+      ],
+      "content": "Christopher Meiklejohn\nhome\nresearch\ncourses\npublications\nvideos\ncode\ncurriculum vitae\nTeaching Claude to QA a Mobile App\n22 Mar 2026\n“When life looks like Easy Street, there is danger at your door”\n— Grateful Dead, “Uncle John’s Band”\n(A note on picking this quote: I asked Claude to find me a Grateful Dead lyric that fit the theme. It couldn’t — searching for “dead lyrics” triggers the content filtering policy:\nAPI Error: 400 {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Output blocked by content filtering policy\"}\n. I had to pick this one myself.)\nI build Zabriskie alone — no team, no investors, just me in my bedroom shipping a community app because I think the internet needs better gathering places. My first lesson about building a “product”: if it’s not in the App Store, it doesn’t exist. I had early users who loved the web version but wouldn’t touch it daily because it wasn’t “an app.” It might as well not be real. So I needed to ship on three platforms — web for fast iteration and testing, iOS and Android because that’s where people actually live.\nThe problem is I’m one person. I can’t write and maintain three separate codebases. The answer was\nCapacitor\n: it takes the React web app I’d already built and wraps it in a native shell — a WebView on Android, a WKWebView on iOS — so the same code runs everywhere. Combined with the server-driven UI architecture (the backend sends screen layouts as JSON, and the client just renders them), I can push changes to all three platforms without waiting for App Store review. One codebase, three platforms, one developer. It’s the only way this works.\nBut Capacitor puts you in a testing no-man’s-land. Playwright can’t reach inside the native shell — it’s not a browser tab anymore, it’s an app. Native testing frameworks like XCTest and Espresso can’t interact with the content — it’s HTML inside a WebView, not native UI elements. You’re too native for web tools and too web for native tools. Every testing approach in this post exists because of that gap.\nZabriskie runs on all three platforms. The web gets tested by Playwright — 150+ E2E tests that run on every push. But the mobile apps had nothing. No automated QA, no visual regression checks, no way to know if either client was rendering correctly without manually clicking through every screen. I decided to fix that by teaching Claude to drive both mobile platforms, take screenshots, analyze them for issues, and file its own bug reports.\nAndroid took 90 minutes. iOS took over six hours. The difference says everything about the state of mobile automation tooling in 2026.\nAndroid: The Easy One\nThe first challenge was connectivity. Inside the Android emulator,\nlocalhost\nrefers to the emulator itself, not the host Mac. When the Capacitor app tries to reach\nlocalhost:3000\nor\nlocalhost:8080\n, it gets nothing. The fix is\nadb reverse\n:\nadb reverse tcp:3000 tcp:3000\nadb reverse tcp:8080 tcp:8080\nSimple, but you have to re-run it every time the emu"
+    },
+    {
+      "title": "What Young Workers Are Doing to AI-Proof Themselves",
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-22T18:18:01+00:00",
+      "score": 42,
+      "comments": 38,
+      "summary": null,
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "GrapheneOS will remain usable by anyone without requiring personal information",
+      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-22T21:14:11+00:00",
+      "score": 19,
+      "comments": 1,
+      "summary": null,
+      "tags": [],
+      "content": "To use the Mastodon web application, please enable JavaScript. Alternatively, try one of the\nnative apps\nfor Mastodon for your platform."
+    },
+    {
+      "title": "Rust Project Perspectives on AI",
+      "url": "https://nikomatsakis.github.io/rust-project-perspectives-on-ai/feb27-summary.html",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-22T22:19:03+00:00",
+      "score": 10,
+      "comments": 0,
+      "summary": null,
+      "tags": [],
+      "content": "Diverse perspectives on AI from Rust contributors and maintainers\nStarting on Feb 6, the project\nbegan collecting perspectives around AI\ninto a shared document. This document is a summary of those comments, authored by nikomatsakis on Feb 27 or so.\nThe goal of this document is to cover the full range of points made so that we can understand the landscape of opinion and the kinds of arguments on each side. For the most part I attempted to minimize summarization and to let people’s quotes speak for themselves. If you would like to read the original comments, you can\nfind them here\n.\nBe careful when characterizing this summary.\nThe comments within do not represent “the Rust project’s view” but rather the views of the individuals who made them. The Rust project does not, at present, have a coherent view or position around the usage of AI tools; this document is one step towards hopefully forming one.\nThe discussion is also not split between “AI use on rust-lang crates” and “AI use by Rust developers elsewhere”. Many quotes assume one or the other or both, so care must be taken when interpreting them.\nAI is a tool that one must learn to wield well\nThose who get the best results from AI point out that it takes real engineering to get there. It is not a matter of “AI working well” or “AI not working well”, but a matter of\nmaking\nAI work well:\nIt takes care and careful engineering to produce good results.  One must work to keep the models within the\nflight envelope\n.  One has to carefully structure the problem, provide the right context and guidance, and give appropriate tools and a good environment.  One must think about optimizing the context window; one must be aware of its limitations.\n–\nTC\nWhat’s more, the models are constantly improving:\nSomething that might not be obvious is how much things have changed over the last 2-3 months.  At one time, it was hard to justify the use of models for serious work. But the state-of-the-art models are now\ntoo good to ignore\n.\n–\nTC\nThis helps explain why people’s experiences with AI seem to be so different:\nI had been struggling with some cognitive dissonance where I see people I deeply respect finding value in these tools while at the same time finding 99% of the value people claim from these tools to be all smoke and no substance and wondering whether that is the case with people like Niko. But from Jayans point I can see how inputs and the way these tools are used can still have an impact which could cause ppl like Niko to have better outcomes vs random people with no engineering background trying to use these tools.\n–\nyaahc\nMany people find value in AI for non-coding tasks\nMuch of the discussion around AI focuses on coding, which obscures the fact that many–though not all–people are using AI successfully for other kinds of tasks.\nSearching and discovery\nSeveral people noted that AIs can be helpful when navigating unfamiliar codebases or documentation:\nI do find them valuable for research-y things. We have some"
+    }
+  ]
+}
