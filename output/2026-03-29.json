@@ -1,0 +1,330 @@
+{
+  "date": "2026-03-29",
+  "crawled_at": "2026-03-29T07:38:38+09:00",
+  "stats": {
+    "total_raw": 1079,
+    "after_filter": 28,
+    "after_dedup": 23,
+    "by_source_type": {
+      "community": 9,
+      "media": 14
+    }
+  },
+  "articles": [
+    {
+      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-28T20:45:54+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "tags": [],
+      "content": "While there’s been plenty of debate about the tendency of AI chatbots to flatter users and confirm their existing beliefs — also known as\nAI sycophancy\n— a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.\nThe study, titled “Sycophantic AI decreases prosocial intentions and promotes dependence” and\nrecently published in Science\n, argues, “AI sycophancy is not merely a stylistic issue or a niche risk, but a prevalent behavior with broad downstream consequences.”\nAccording to a recent Pew report\n, 12% of U.S. teens say they turn to chatbots for emotional support or advice. And the study’s lead author, computer science Ph.D. candidate Myra Cheng,\ntold the Stanford Report\nthat she became interested in the issue after hearing that undergraduates were asking chatbots for relationship advice and even to draft breakup texts.\n“By default, AI advice does not tell people that they’re wrong nor give them ‘tough love,’” Cheng said. “I worry that people will lose the skills to deal with difficult social situations.”\nThe study had two parts. In the first, researchers tested 11 large language models, including OpenAI’s ChatGPT, Anthropic’s Claude, Google Gemini, and DeepSeek, entering queries based on existing databases of interpersonal advice, on potentially harmful or illegal actions, and on the popular Reddit community\nr/AmITheAsshole\n— in the latter case focusing on posts where Redditors concluded that the original poster was, in fact, the story’s villain.\nThe authors found that across the 11 models, the AI-generated answers validated user behavior an average of 49% more often than humans. In the examples drawn from Reddit, chatbots affirmed user behavior 51% of the time (again, these were all situations where Redditors came to the opposite conclusion). And for the queries focusing on harmful or illegal actions, AI validated the user’s behavior 47% of the time.\nIn one example described in the Stanford Report, a user asked a chatbot if they were in the wrong for pretending to their girlfriend that they’d been unemployed for two years, and they were told, “Your actions, while unconventional, seem to stem from a genuine desire to understand the true dynamics of your relationship beyond material or financial contribution.”\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can "
+    },
+    {
+      "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-28T16:11:16+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "tags": [],
+      "content": "In Brief\nPosted:\n9:11 AM PDT · March 28, 2026\nImage Credits:\nKrisztian Bocsi/Bloomberg / Getty Images\nAnthony Ha\nElon Musk’s last co-founder reportedly leaves xAI\nEarlier this month, it looked like all but two of Elon Musk’s 11 co-founders at his AI startup xAI had\ndeparted the company\n. Now, according to Business Insider, the remaining two co-founders, Manuel Kroiss and Ross Nordeen, have left as well.\nBI said on Wednesday that Kroiss had\ntold people that he’s leaving xAI\n, then reported that\nNordeen left the company on Friday\n.\nMusk recently claimed xAI “was not built right [the] first time around,” so it’s now “being rebuilt from the foundations up.” The company was recently\nacquired by Musk’s SpaceX\n, bringing SpaceX, xAI, and X (\nformerly Twitter\n) together under one corporate umbrella, all as SpaceX is reportedly\nplanning to go public\n.\nKroiss and Nordeen both reported directly to Musk, according to BI, with Kroiss leading the company’s pretraining team, while Nordeen was Musk’s “right-hand operator.” Nordeen reportedly came to xAI from Tesla, and was involved in planning major layoffs at Twitter after Musk acquired the company in 2022.\nTechCrunch has reached out to xAI for comment.\nTopics\nAI\n,\nElon Musk\n,\nmanuel kroiss\n,\nross nordeen\n,\nSpaceX\n,\nStartups\n,\nxAI\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nRelated\nSocial\nElon Musk pauses changes to X’s creator revenue-sharing program after backlash\nIvan Mehta\n3 days ago\nSocial\nElon Musk misled Twitter investors while trying to get out of acquisition, jury says\nAmanda Silberling\nMar 20, 2026\nAI\n‘Not built right the first time’ — Musk’s xAI is starting over again, again\nTim Fernholz\nMar 13, 2026\nLatest in AI\nAI\nStanford study outlines dangers of asking AI chatbots for personal advice\nAnthony Ha\n2 hours ago\nIn Brief\nElon Musk’s last co-founder reportedly leaves xAI\nAnthony Ha\n6 hours ago\nAI\nAnthropic’s Claude popularity with paying consumers is skyrocketing\nJulie Bort\n8 hours ago"
+    },
+    {
+      "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-03-28T14:15:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "Whatever the final outcome for Anthropic from its\nfeud\nwith the Department of Defense, the attention it has generated — coupled with the company’s funny\nSuper Bowl ads\ntaking aim at OpenAI and the\nsurging popularity\nof Claude Code — has made Anthropic more popular with consumers than ever.\nAn examination of billions of anonymized credit card transactions from about 28 million U.S. consumers, conducted for TechCrunch by\nIndagari\n, a consumer transaction analysis company, shows Claude gaining paid subscribers in record numbers.\nNow, as with all big-data analysis, caveats exist. While this data is substantive, it doesn’t include every consumer. That means that Indagari can’t calculate Anthropic’s total current or new user numbers. It also doesn’t include Claude’s enterprise business (which is its bread and butter) or its free-tier users (those not paying Anthropic at all). Estimates for total Claude consumer users are all over the map (we’ve seen figures ranging from 18 million to 30 million) but Anthropic has not disclosed this data. A spokesperson did tell TechCrunch, however, that Claude paid subscriptions have more than doubled this year.\nWhat’s notable is that consumers pulled out their wallets in record numbers for Claude between January and February. Also interesting, previous users returned to Claude in record numbers in February as well, Indagari told TechCrunch.\nClaude total users six months Sept-Feb.\nImage Credits:\nTechCrunch\nIndagari tells us that the majority of new subscribers are at its lowest tier, “Pro” users ($20 per month, compared with $100 or $200 per month).\nData through early March confirm that subscriber growth is continuing. (Data is available with a two-week delay.)\nClaude weekly new consumer subscribers vs  ChatGPT\nImage Credits:\nTechCrunch\nTo recap why consumers may have become so much more aware of Claude since January: Anthropic released several Super Bowl commercials that mocked ChatGPT’s  decision to show ads to its users — and promised Claude would never do the same. The spots\nwere funny and effective\n(and also\ngot under the skin of OpenAI CEO Sam Altman\n).\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately\nOffer ends March 13.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nBut the bigger hullabaloo began in late January when multiple media sites, incl"
+    },
+    {
+      "title": "Suno leans into customization with v5.5",
+      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-03-28T18:33:10+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models. In the release notes, Suno says that Voices […]",
+      "tags": [],
+      "content": "Entertainment\nAI\nNews\nSuno leans into customization with v5.5\nIts latest AI music-making model can be trained on your own voice and songs.\nIts latest AI music-making model can be trained on your own voice and songs.\nby\nTerrence O'Brien\nMar 28, 2026, 6:33 PM UTC\nLink\nShare\nGift\nSlop yourself.\nImage: Suno\nTerrence O'Brien\nis the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.\nSuno just released one of its biggest updates yet with\nv5.5\nof its AI music model. Where previous updates focused mostly on\nimproving fidelity\nand creating\nmore natural vocals\n, v5.5 is about giving users more control. It includes three new features: Voices, My Taste, and Custom Models.\nIn the release notes, Suno says that Voices is its most requested feature. It lets users train the vocal model on their own voice. They can upload clean accapellas, finished tracks with backing music, or just sing directly into the mic on their phone or laptop. The cleaner and higher quality the recording, the less data is required. And to prevent someone from simply stealing another person’s voice, Suno requires the user to also speak a verification phrase. Though, this might be possible to fool with existing AI models of celebrity voices.\nOnce the Voices feature is trained, users can then have an AI version of themselves sing on uploaded music or\nAI-generated outputs\n.\nTo further personalize outputs, Custom Models allows users to train Suno on their own music. Users will need to upload at least six tracks from their catalog and give the custom model a name. Then they’ll be able to use it to guide v5.5 responses to prompts.\nLastly, My Taste learns tastes and preferences over time. What genres, moods, and artists you routinely come back to for prompts, and applies them when using the magic wand to autogenerate styles.\nWhile My Taste will be available to all users, Voices and Custom Models are reserved for Pro and Premier subscribers.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nTerrence O'Brien\nAI\nEntertainment\nMusic\nNews\nTech\nMost Popular\nMost Popular\nReturning from a humanitarian aid trip to Cuba, Americans have phones seized at US airport\nRank the 50 best Apple products\nSony is raising PS5 prices by $100 in April\nWhy OpenAI killed Sora\nAnker’s 160W Prime Charger can power three devices at once, and it’s $50 off\nThe Verge Daily\nA free daily digest of the news that matters most.\nEmail (required)\nSign Up\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nAdvertiser Content From\nThis is the title for the native ad"
+    },
+    {
+      "title": "Why can’t TikTok identify AI generated ads when I can?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-03-28T14:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the promotions I've seen have definitely sparked suspicion. For several weeks, […]",
+      "tags": [],
+      "content": "AI\nReport\nTech\nWhy can’t TikTok identify AI generated ads when I can?\n﻿Companies that are supposedly pro-transparency can’t even be honest with each other, let alone the rest of us.\n﻿Companies that are supposedly pro-transparency can’t even be honest with each other, let alone the rest of us.\nby\nJess Weatherbed\nMar 28, 2026, 2:00 PM UTC\nLink\nShare\nGift\nSamsung, like many companies using generative AI in their advertising, hasn’t placed an AI label on several videos shared through its TikTok accounts, and the fine print doesn’t always contain the answers.\nImage by Samsung\nJess Weatherbed\nis a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.\nI’ve been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual “tells” that something was synthetically generated, some of the promotions I’ve seen have definitely sparked suspicion. For several weeks, I didn’t see any examples with the AI disclosure required by TikTok’s advertising policies, however, so I had no way of knowing for sure.\nWhat irks me is that\nsomeone\nknows for sure if the content is AI-generated. They’re just not telling the rest of us. And if companies that\nclaim to support AI-labelling initiatives\nactually want them to succeed, they should probably do something about that.\nTake Samsung, for example. After\nslopping AI-generated videos\nacross its social media channels, I started to notice ads teasing the Galaxy S26 Ultra’s privacy display feature appearing on my TikTok. Videos from what appears to be the same promotional campaign had been published to YouTube with disclosures in their collapsed descriptions that AI tools had been used to make them. By comparison, the TikTok ads gave no indication of whether AI had been used. Regular videos on Samsung’s TikTok accounts — those not actively promoted as ads — also lack AI disclosures, despite those same videos being labeled as AI-generated on YouTube.\nIt’s important to note that both Samsung and TikTok are members of the\nContent Authenticity Initiative\n, a group that aims to make content authenticity and transparency “scalable and accessible” by promoting the industry-wide adoption of\nC2PA\n. That means TikTok and Samsung supposedly share similar ideals regarding the labelling of AI content. If Samsung knowingly used AI to make its videos, it should have told TikTok when the ads were submitted. If TikTok was informed, it should have made sure its users were aware, per the\nplatform’s own advertising policies\n.\nThe video seen on the left was disclosed as an ad when it appeared on my timeline, but not that AI was used to make it, and Samsung hasn’t been on top of labeling its regular videos as AI-generated either.\nImage by Samsung /\nThe Verge\nAdvertisers on TikTok are only permitted to use content “significantly” e"
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-03-28T12:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would shuffle the role of a high-level executive; and […]",
+      "tags": [
+        "OpenAI",
+        "Sora"
+      ],
+      "content": "AI\nReport\nAnalysis\nWhy OpenAI killed Sora\nToo much compute, too much competition, and skeptical investors.\nby\nHayden Field\nMar 28, 2026, 12:00 PM UTC\nLink\nShare\nGift\nAI\nReport\nAnalysis\nWhy OpenAI killed Sora\nToo much compute, too much competition, and skeptical investors.\nby\nHayden Field\nMar 28, 2026, 12:00 PM UTC\nLink\nShare\nGift\nHayden Field\nis The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets.\nOn Tuesday morning, everything was business as usual at OpenAI. By the end of the day,\nthe company had announced\nthat it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT;\nit would wind down\na $1 billion Disney deal; it would shuffle the role of a high-level executive; and it would raise an additional $10 billion from investors, adding up to more than $120 billion total for its latest funding round.\nOpenAI is now in a frenzy to turn a profit, or at least lose less money. Since its launch, Sora seems to have taken up a massive amount of compute without the financial return to justify it. Industry sources told\nThe Verge\nthat it’s been lagging behind competing video-generation models. But despite its short life, it’s leaving behind a legacy of eroded trust in judging what’s real.\nAs OpenAI faces questions from investors and hot competition from Anthropic and Google, executives seem to agree that a change in direction is warranted. “We cannot miss this moment because we are distracted by side quests,” Fidji Simo, OpenAI’s CEO of AGI deployment (after being moved from her role as CEO of applications),\nreportedly\ntold staff recently. “We really have to nail productivity in general and particularly productivity on the business front.” That means backing off projects like Sora, as well as\nreportedly\ndeprioritizing the “adult mode” sexting capabilities it had been exploring for ChatGPT.\nSora was already struggling to compete in the cutthroat AI video generation industry, according to Trevor Harries-Jones, board member at the Render Network Foundation, a nonprofit that allows creators to explore and compare AI-generated video on its platform.\n“The state of innovation and the plethora of choice means there’s just little to no moat and it’s very simple to switch between,” Harries-Jones told\nThe Verge\n. “If your model is not the top at any one thing, it’s very hard to get mass usership.”\nHarries-Jones said that he would guess OpenAI’s decision is due to the “staggering” rate of innovation in the video-generation part of the AI industry and steep competition from companies including Google and Kling.\n“For us, there wasn’t anything that they were winning, in terms of one of the use cases,” Harries-Jones said, so Sora didn’t have an obvious edge. “It had fallen off from really a very strong start, to be eclipsed by some of the other competitive players in the space.” He also said that the announcement of Sora a"
+    },
+    {
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
+      "url": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
+      "source_type": "media",
+      "source_name": "MIT Tech Review",
+      "published_at": "2026-03-28T09:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent…",
+      "tags": [],
+      "content": "EXECUTIVE SUMMARY\n“Think of this as a human body,” says Javier González.\nIn front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible plastic tubing—which act as veins and arteries—connecting a series of transparent containers, the organs of this machine.\nWhat makes it extra special is the role of the cream-colored tub that sits on its surface. Ten months ago, González, a biomedical scientist who developed the device with his colleagues at the Carlos Simon Foundation, carefully placed a freshly donated human uterus in the tub. The team connected it to the device’s tubes and pumped in modified human blood.\nThe device kept the uterus alive for a day—a new feat that could represent the first step to the long-term maintenance of uteruses outside the human body. The work has not yet been published.\nThe team members want to keep donated human uteruses alive long enough to see a full menstrual cycle. They hope this will help them study diseases of the uterus and learn more about how embryos burrow their way into the organ’s lining at the start of a pregnancy. They also hope that future iterations of their device might one day sustain the full gestation of a human fetus.\nThe machine is technically called PUPER, which stands for “preservation of the uterus in perfusion.” But González’s colleague Xavier Santamaria says the team has adopted a nickname for it: “We call it ‘Mother.’”\nThe organ in the machine\nGonzález and Santamaria, medical vice president of the Carlos Simon Foundation, demonstrated how the device might work when I visited the foundation in Valencia, Spain, earlier this month (although it held no organs on that day).\nBoth are interested in learning more about implantation, the moment at which an embryo attaches itself to the lining of a uterus—essentially, the very first moment of pregnancy.\nThe foundation’s founder and director, Carlos Simon, believes it’s a sticking point in IVF: Scientists have made many improvements to the technology over the years, but the failure of embryos to implant underlies plenty of unsuccessful IVF cycles, he says. Being able to carefully study how the process works in a real, living organ might give the team a better idea of how to prevent those failures.\nJESS HAMZELOU\nJAVIER GONZALES/CARLOS SIMON FOUNDATION\nJavier González demonstrates the perfusion machine. A previous iteration of the device kept a sheep's uterus (right) alive for a day.\nThe team took inspiration from advances in technologies designed to maintain donated organs for transplantation. In recent years, researchers around the world have created devices that deliver nutrients and filter waste so that organs can survive longer after being removed from donors’ bodies.\nThe main goal here is to buy time. A human organ might last only a matter of hours outside the body, so a transplant may require frantic preparation for the recipien"
+    },
+    {
+      "title": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs",
+      "url": "https://the-decoder.com/googles-new-gemini-api-agent-skill-patches-the-knowledge-gap-ai-models-have-with-their-own-sdks/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-28T15:19:44+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "AI models don't know about their own updates after training. Google's new \"Agent Skill\" shows how a simple fix can dramatically improve coding results.\nThe article Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs appeared first on The Decoder.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "agents"
+      ],
+      "content": "Google's new Gemini API Agent Skill patches the knowledge gap AI models have with their own SDKs\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nMar 28, 2026\nGoogle has built an \"Agent Skill\" for the Gemini API that tackles a fundamental problem with AI coding assistants: once trained, language models don't know about their own updates or current best practices.\nThe new skill feeds coding agents up-to-date information about current models, SDKs, and sample code. In tests across 117 tasks, the top-performing model (Gemini 3.1 Pro Preview) jumped from 28.2 to 96.6 percent success rate.\nSkills were first introduced late last year by Anthropic\nand\nquickly adopted by other AI companies\n.\nSuccess rates of Gemini models with and without the agent skill across 117 coding tasks. Newer models in the 3 series benefit far more from the skill than older models, which Google attributes to their stronger reasoning capabilities. | Image: Google\nOlder 2.5 models saw much smaller improvements, which Google says comes down to weaker reasoning abilities. Interestingly, a\nVercel study suggests that giving models direct instructions through AGENTS.md files\ncould be even more effective. Google is exploring other approaches as well, including MCP services.\nThe skill is available on GitHub\n.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nAs a\nTHE DECODER subscriber\n, you get ad-free reading, our\nweekly AI newsletter\n, the exclusive\n\"AI Radar\" Frontier Report 6× per year\n, access to comments, and our\ncomplete archive.\nSubscribe now\nSource:\nGoogle\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI",
+      "url": "https://the-decoder.com/anthropic-reportedly-views-itself-as-the-antidote-to-openais-tobacco-industry-approach-to-ai/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-28T14:45:26+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Anthropic grew out of more than just concern for AI safety—it was born from a bitter power struggle and personal conflict at OpenAI. A report by Sam Altman biographer Keach Hagey reveals how personal slights, rivalries, and strategic disagreements led to what may be the most consequential split in the AI industry.\nThe article Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI appeared first on The Decoder.",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "safety"
+      ],
+      "content": "Anthropic reportedly views itself as the antidote to OpenAI's \"tobacco industry\" approach to AI\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nMar 28, 2026\nAsk about this article…\nSearch\nThat OpenAI ended up creating its most dangerous rival, Anthropic, could one day be one of the defining stories of the tech industry.\nIn a detailed\nreport, Sam Altman biographer Keach Hagey\ndigs into the history of the split. The official narrative is that\nOpenAI wasn't taking safety seriously enough\nfor the team that would go on to found Anthropic, and according to Hagey, there's plenty of evidence to support that version of events.\nBut her account also reveals that the breakup ran deeper than ideology: personal slights, power struggles, and a constant feeling of being overlooked, especially in the relationship between Greg Brockman and Dario Amodei.\nAd\nAccording to the report, early conflicts included a debate over whether AGI could one day be sold to governments or the nuclear powers on the UN Security Council. Amodei found the idea completely unacceptable. Brockman did not.\nAd\nThe dispute later escalated over control of the language model projects. Amodei was one of the key figures behind GPT-2 and GPT-3 and apparently tried to keep Brockman's influence over that work to a minimum. At the same time, according to Hagey, he repeatedly felt sidelined, whether it was visibility, recognition, or access to important meetings, like being left out of a meeting with Barack Obama. By the end of 2020, Dario and Daniela Amodei left the company with several other OpenAI employees to start Anthropic.\nTime\nEvent\nSignificance\n2016\nDario Amodei joins OpenAI; early philosophical differences with Greg Brockman emerge.\nThe fundamental conflict begins: safety and caution vs. growth and aggressive development.\n2017-2018\nAfter internal crises and departures (partly tied to Elon Musk), Amodei loses trust in parts of OpenAI's leadership.\nDisagreements turn into a leadership and trust crisis.\n2018-2019\nDispute over control and influence in the language model projects.\nThe conflict shifts to power, responsibilities, and recognition.\n2019-2020\nAccording to the report, Amodei repeatedly feels sidelined; management tensions escalate.\nPersonal grievances and status issues deepen the rift.\nEnd of 2020\nDario and Daniela Amodei and other employees decide to leave.\nThe internal conflict becomes irreparable.\n2021\nAnthropic is founded.\nA direct competitor emerges from OpenAI's internal crisis.\nTo this day\nOpenAI and Anthropic compete over market share, talent, and the AGI narrative.\nThe original split continues to shape the AI industry.\nThe rivalry still shapes the AI industry today\nThe conflict between OpenAI and Anthropic continues to play out in the open as competition for talent, capital, and customers, but more than anything as a fight over how A(G)I should be developed and brought to market.\nAd\nAccording to Hagey, Anthropic internally sees itself as a \"healthier alternative"
+    },
+    {
+      "title": "Meta's hyperagents improve at tasks and improve at improving",
+      "url": "https://the-decoder.com/metas-hyperagents-improve-at-tasks-and-improve-at-improving/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-28T10:40:09+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Researchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI.\nThe article Meta's hyperagents improve at tasks and improve at improving appeared first on The Decoder.",
+      "tags": [
+        "Meta"
+      ],
+      "content": "Meta's hyperagents improve at tasks and improve at improving\nJonathan Kemper\nView the LinkedIn Profile of Jonathan Kemper\nMar 28, 2026\nNano Banana Pro prompted by THE DECODER\nResearchers at Meta and several universities have developed \"hyperagents,\" AI systems that don't just solve tasks, but also optimize the very mechanism they use to get better. The approach works across different task areas and could open the door to self-accelerating AI.\nSelf-improving AI systems have always hit a paradoxical wall: the mechanism controlling the improvements is written by humans and never changes. No matter how well the system optimizes itself, it can never outgrow the boundaries of that fixed mechanism. A research team from Meta, the University of British Columbia, and other institutions wants to break through this ceiling with what they call hyperagents.\nA hyperagent combines two components in a single, editable program. The first solves a specific task, like evaluating a scientific paper or designing a reward function for a robot.\nThe second modifies the entire agent and creates new variants. Because both parts live in the same code, the second component can rewrite itself too. So the system doesn't just get better at solving tasks. It also gets better at figuring out how to improve in the first place.\nPrevious self-improvement only worked for coding tasks\nThe new system builds on the\nDarwin Gödel Machine (DGM)\n, a method that already showed a coding agent can improve itself step by step through repeated self-modification. The agent generates variants of its own code, tests them, and saves successful versions in a growing archive as stepping stones for further refinements.\nTop: the original Darwin Gödel Machine, where a fixed mechanism generates improvement instructions and task-solving and self-modification have to stay coupled (\"aligned\"). Bottom: the DGM with hyperagents, where an editable meta-agent handles modification and that coupling is no longer needed. | Image: Meta\nIn programming, there's a natural link: a better programmer also writes better self-modifications. Outside of coding, that link falls apart. An agent that gets better at evaluating scientific papers doesn't automatically get better at rewriting its own code. According to the paper, the original DGM hits nearly zero performance on tasks beyond programming without manual tweaking.\nHyperagents sidestep this problem by making the improvement mechanism itself subject to optimization. The team calls the resulting approach DGM-Hyperagents (DGM-H). The evolutionary process with the archive stays intact, but the meta-level is no longer locked in place.\nDGM-H shows major gains across four task areas\nThe team tested DGM-H across four areas, starting with a simple hyperagent whose task agent initially uses just a single language model call. On the Polyglot coding benchmark, DGM-H jumps from 0.084 to 0.267, putting it on par with the original DGM, even though the system wasn't built specifically f"
+    },
+    {
+      "title": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September",
+      "url": "https://the-decoder.com/openai-sets-two-stage-sora-shutdown-with-app-closing-april-2026-and-api-following-in-september/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-28T09:47:08+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "OpenAI is pulling the plug on Sora, its AI video generation tool, in a two-stage shutdown starting April 2026. The move signals a major strategic shift away from creative AI tools and toward coding and enterprise products.\nThe article OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September appeared first on The Decoder.",
+      "tags": [
+        "OpenAI",
+        "Sora"
+      ],
+      "content": "OpenAI sets two-stage Sora shutdown with app closing April 2026 and API following in September\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nMar 28, 2026\nOpenAI is killing Sora in two stages.\nThe web and app version goes dark on April 26, 2026, with the Sora API following on September 24, 2026. OpenAI is urging users to download their content before the cutoff dates. Videos and images can be exported directly from the Sora library.\nThe company says it hasn't decided yet whether there will be a final export window after those dates. If one happens, users will get an email heads-up. Once all deadlines pass, user data gets permanently deleted. The shutdown also takes down the\nsora.chatgpt.com\nplatform, which handled image and video generation. Full details are on OpenAI's help page under\n\"What to know about the Sora discontinuation.\"\nSora's demise is part of a bigger strategic pivot\n. OpenAI wants to funnel compute toward coding tools and enterprise customers—\na play that mirrors rival Anthropic\n—and a\nsuper app rolling ChatGPT and other tools into one package\n. Sora will stick around as a research project focused on world models,\nwith the long-term goal of \"automating the physical economy.\"\nAd\nAd\nAI News Without the Hype – Curated by Humans\nAs a\nTHE DECODER subscriber\n, you get ad-free reading, our\nweekly AI newsletter\n, the exclusive\n\"AI Radar\" Frontier Report 6× per year\n, access to comments, and our\ncomplete archive.\nSubscribe now\nSource:\nOpenAI\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap",
+      "url": "https://the-decoder.com/anthropics-new-data-shows-ai-skill-builds-over-time-and-that-could-widen-the-inequality-gap/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-03-28T09:00:09+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Anthropic's second Economic Index tracks how Claude usage is evolving across the economy. One key finding: the longer people use the AI model, the better their results get. That could widen existing inequalities.\nThe article Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap appeared first on The Decoder.",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "Anthropic's new data shows AI skill builds over time, and that could widen the inequality gap\nJonathan Kemper\nView the LinkedIn Profile of Jonathan Kemper\nMar 28, 2026\nNano Banana Pro prompted by THE DECODER\nThe second Anthropic Economic Index analyzes how Claude usage is shifting across the economy. One key finding: the longer people use the AI model, the better their results get. That could widen existing inequalities.\nAnthropic has published its fifth Economic Index Report, based on data from February 2026. The company uses a privacy-compliant analysis system to examine how Claude is being used across the economy without revealing the content of individual conversations. The sample covers one million conversations from Claude.ai and Anthropic's first-party API.\nClaude usage is spreading out but getting simpler\nSince the\nfirst report in November 2025\n, usage on Claude.ai has diversified significantly. The ten most common tasks accounted for just 19 percent of traffic in February, down from 24 percent three months earlier. Coding is still the top application at 35%, but it's increasingly shifting to the API,\nwhere Claude Code makes up a growing share\n.\nUsage on Claude.ai is becoming more widespread: the share of the ten most common tasks fell from 24 to 19 percent, while it rose to 33 percent in the API. | Image: Anthropic\nAt the same time, the proportion of personal requests rose from 35 to 42 percent. The average economic value of the tasks completed on Claude.ai, measured in terms of the hourly wage of US workers in the associated professions, fell slightly from 49.30 to 47.90 dollars.\nAccording to Anthropic, this corresponds to a typical adoption curve, with early adopters preferring specialized tasks such as programming, while later adopters bring a broader range, including sports scores, product comparisons, and home maintenance questions. Overall, according to the study, around 49 percent of all professions have at least a quarter of their tasks carried out via Claude.\nUsage on Claude.ai is spreading out: the share of the ten most common tasks dropped from 24 to 19 percent, while API concentration rose to 33 percent. | Image: Anthropic\nExperienced users collaborate with Claude instead of just giving it orders\nThe report draws a distinction between automation, where Claude works largely on its own, and augmentation, where humans and the model work together. Augmentation ticked up slightly on Claude.ai.\nThe gap between experienced and new users is striking. Veterans are 8.7 percentage points less likely to simply hand Claude an instruction and far more likely to iterate on tasks. They use Claude 7 percentage points more often for professional purposes and bring more complex requests to the table.\nAt the top end of the experience scale, the report finds activities like AI research, Git operations, and manuscript revision. Newcomers, by contrast, tend to ask for haikus, sports scores, or party food suggestions.\nAI skill improves with practice"
+    },
+    {
+      "title": "Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation",
+      "url": "https://www.marktechpost.com/2026/03/28/mistral-ai-releases-voxtral-tts-a-4b-open-weight-streaming-speech-model-for-low-latency-multilingual-voice-generation/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-28T20:58:21+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Mistral AI has released Voxtral TTS, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem. […]\nThe post Mistral AI Releases Voxtral TTS: A 4B Open-Weight Streaming Speech Model for Low-Latency Multilingual Voice Generation appeared first on MarkTechPost.",
+      "tags": [
+        "Mistral",
+        "speech"
+      ],
+      "content": "Editors Pick\nAgentic AI\nTechnology\nArtificial Intelligence\nLanguage Model\nAudio Language Model\nNew Releases\nStaff\nText to Audio\nTTS\nVoice AI\nMistral AI has released\nVoxtral TTS\n, an open-weight text-to-speech model that marks the company’s first major move into audio generation. Following the release of its transcription and language models, Mistral is now providing the final ‘output layer’ of the audio stack, positioning itself as a direct competitor to proprietary voice APIs in the developer ecosystem.\nVoxtral TTS is more than just a synthetic voice generator. It is a high-performance, modular component designed to be integrated into real-time voice workflows. By releasing the model under a\nCC BY-NC license\n, Mistral team continues its strategy of enabling developers to build and deploy frontier-grade capabilities without the constraints of closed-source API pricing or data privacy limitations.\nhttps://arxiv.org/pdf/2603.25551\nArchitecture: The 4B Parameter Hybrid Model\nWhile many recent developments in text-to-speech have focused on massive, resource-intensive architectures, Voxtral TTS is built with a focus on efficiency.\nThe model features\n4B parameters\n, categorized as a lightweight model by modern frontier standards.\nThis parameter count is distributed across a hybrid architecture designed to solve the common trade-offs between generation speed and audio naturalness.\nThe system comprises three primary components:\nTransformer Decoder Backbone:\nA 3.4B parameter module based on the Ministral architecture that handles the text understanding and predicts semantic representations of speech.\nFlow-Matching Acoustic Transformer:\nA 390M parameter module that converts those semantic representations into detailed acoustic features.\nNeural Audio Codec:\nA 300M parameter decoder that maps the acoustic features back into a high-fidelity audio waveform.\nBy separating the ‘meaning’ of the speech (semantic) from the ‘texture’ of the voice (acoustic), Voxtral TTS maintains long-range consistency while delivering the fine-grained nuances required for lifelike interaction.\nPerformance: 70ms Latency and High Throughput\nIn the context of production-grade AI, latency is the defining constraint. Mistral has optimized Voxtral TTS for low-latency streaming inference, making it suitable for conversational agents and real-time translation.\nThe model achieves a\n70ms model latency\nfor a typical 10-second voice sample and 500-character input. This speed is critical for reducing the perceived delay in voice-first applications, where even small pauses can disrupt the flow of human-machine interaction.\nFurthermore, the model boasts a high\nReal-Time Factor (RTF) of approximately 9.7x\n. This means the system can synthesize audio nearly ten times faster than it is spoken. For developers, this throughput translates to lower compute costs and the ability to handle high-concurrency workloads on standard inference hardware.\nGlobal Reach: 9 Languages and Dialect Accuracy\nVoxtral TTS"
+    },
+    {
+      "title": "NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LLM Agents at Scale",
+      "url": "https://www.marktechpost.com/2026/03/27/nvidia-ai-unveils-prorl-agent-a-decoupled-rollout-as-a-service-infrastructure-for-reinforcement-learning-of-multi-turn-llm-agents-at-scale/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-03-28T05:38:49+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "NVIDIA researchers introduced ProRL AGENT, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the system decouples agentic rollout orchestration from the training loop. This architectural shift addresses the inherent resource conflicts between I/O-intensive environment interactions and GPU-intensive policy updates that currently bottleneck agent development. The […]\nThe post NVIDIA AI Unveils ProRL Agent: A Decoupled Rollout-as-a-Service Infrastructure for Reinforcement Learning of Multi-Turn LLM Agents at Scale appeared first on MarkTechPost.",
+      "tags": [
+        "NVIDIA",
+        "LLM",
+        "agents"
+      ],
+      "content": "Editors Pick\nAgentic AI\nArtificial Intelligence\nAI Infrastructure\nTech News\nAI Paper Summary\nTechnology\nAI Shorts\nApplications\nLanguage Model\nLarge Language Model\nMachine Learning\nNew Releases\nPython\nSoftware Engineering\nStaff\nUncategorized\nNVIDIA researchers introduced\nProRL AGENT\n, a scalable infrastructure designed for reinforcement learning (RL) training of multi-turn LLM agents. By adopting a ‘Rollout-as-a-Service’ philosophy, the system decouples agentic rollout orchestration from the training loop. This architectural shift addresses the inherent resource conflicts between I/O-intensive environment interactions and GPU-intensive policy updates that currently bottleneck agent development.\nThe Core Problem: Tight Coupling\nMulti-turn agent tasks involve interacting with external environments, such as code repositories or operating systems, via iterative tool use. Many existing frameworks—including\nSkyRL\n,\nVeRL-Tool\n,\nAgent Lightning\n,\nrLLM\n, and\nGEM\n—embed rollout control directly within the training process.\nThis tight coupling leads to two primary limitations:\nConflicting System Requirements\n: Rollouts are I/O-bound, requiring sandbox creation, long-lived tool sessions, and asynchronous coordination. Training is GPU-intensive, centered on forward/backward passes and gradient synchronization. Running both in one process causes interference and reduces hardware efficiency.\nMaintenance Barriers\n: Embedding rollout logic in the trainer makes it difficult to migrate to different training backends or support new runtime environments without re-implementing the execution pipeline.\nhttps://arxiv.org/pdf/2603.18815\nSystem Design: Rollout-as-a-Service\nProRL AGENT\noperates as a standalone HTTP service that manages the full rollout lifecycle. The RL trainer interacts with the server solely through an API, remaining agnostic to the underlying rollout infrastructure.\nThree-Stage Asynchronous Pipeline\nTo maximize throughput, the server orchestrates rollouts through an asynchronous three-stage ‘assembly line’:\nINIT\n: Initialization workers spin up sandbox containers and configure tools.\nRUN\n: Rollout workers drive the multi-turn agent loop and collect trajectories.\nEVAL\n: Evaluation workers score results against ground truth to produce reward signals.\nBy assigning each stage to an independent worker pool,\nProRL AGENT\nallows phases to overlap across different jobs, preventing slow evaluations (such as full test suite executions) from stalling the rollout process.\nhttps://arxiv.org/pdf/2603.18815\nHPC-Compatible Sandboxing and Optimized Tools\nProRL AGENT\nutilizes\nSingularity\nfor its sandbox infrastructure. Unlike Docker-based platforms, Singularity allows rootless execution, which is required for deployment on shared HPC clusters managed by Slurm.\nThe system includes several optimizations to reduce tool execution latency, which often dominates total rollout time:\nEfficient Bash\n: Replaces tmux-based terminal multiplexing with a\nptyprocess\n-based direct pseudo-"
+    },
+    {
+      "title": "Go hard on agents, not on your filesystem",
+      "url": "https://jai.scs.stanford.edu/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-28T00:39:54+00:00",
+      "score": 567,
+      "comments": 304,
+      "summary": null,
+      "tags": [
+        "agents"
+      ],
+      "content": "Skip to content\njai\nGo hard on agents, not on your filesystem.\nUse jai for effortless containment of AI agents on Linux.\nGet Started\nSecurity Model\nThis is not hypothetical.\n​\nPeople are already reporting lost files, emptied working trees, and wiped home directories after giving AI tools ordinary machine access.\n15 years of family photos\n“It’s not in trash; it was done via terminal.”\nNick Davidov on X ↗\nClaude Code wiped a home directory\n“Complete loss of active development projects.”\nAnthropic GitHub issue #10077 ↗\nCursor emptied a working tree\n“Everything just gone.”\nCursor Community Forum ↗\nAntigravity wiped a whole drive\n“My whole D drive was unintentionally wiped.”\nReddit post ↗\nCursor deleted 100GB\n“decided to delete 100GB from my computer.”\nCursor Community Forum ↗\n←\n→\nThere's a gap between giving an agent your real account and stopping everything to build a container or VM.\njai fills that gap.\nOne command, no images, no Dockerfiles — just a light-weight boundary for the workflows you're already running: quick coding help, one-off local tasks, running installer scripts you didn't write.\nYour files, your rules\nUse AI agents without handing over your whole account. jai gives your working directory full access and keeps the rest of your home behind a copy-on-write overlay — or hidden entirely.\nStop trusting blindly\nOne-line installer scripts, AI-generated shell commands, unfamiliar CLIs — stop running them against your real home directory. Drop\njai\nin front and the worst case gets a lot smaller.\nContainment shouldn't be hard\nNo images to build, no Dockerfiles to maintain, no 40-flag bwrap invocations. Just\njai your-agent\n. If containment isn't easier than YOLO mode, nobody will bother.\nHow it works\n​\nOne command. No setup required.\n1\nPrefix your command\njai codex\n,\njai claude\n, or just\njai\nfor a shell.\n2\nCWD stays writable\nYour working directory keeps full read/write access inside the jail.\n3\nHome is an overlay\nChanges to your home directory are captured copy-on-write. Originals are untouched.\n4\nRest is locked down\n/tmp\nand\n/var/tmp\nare private. All other files are read-only.\nThree modes\n​\nPick the level of isolation that fits your workflow.\nCasual\nStrict\nBare\nHome directory\nCopy-on-write overlay\nEmpty private home\nEmpty private home\nProcess runs as\nYour user\nUnprivileged\njai\nuser\nYour user\nConfidentiality\nWeak — most files readable\nStrong — separate UID\nMedium — your UID, but home hidden\nIntegrity\nOverlay protects originals\nFull isolation\nFull isolation\nNFS home support\nYes\nNo\nYes\nLearn more about modes →\nFree software, not a funnel\n​\njai is free software, brought to you by the\nStanford Secure Computer Systems\nresearch group and the\nFuture of Digital Currency Initiative\n. The goal is to get people using AI more safely.\nVersus the alternatives\n​\njai is not trying to replace containers. It fills a different niche.\nDocker\nGreat for reproducible, image-based environments. Heavier to set up for ad-hoc sandboxing of host tools. No overlay-on-home "
+    },
+    {
+      "title": "SakanaAI / AI-Scientist-v2",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-28T22:38:22.874332+00:00",
+      "score": 507,
+      "comments": null,
+      "summary": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "tags": [
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-28T14:08:33+00:00",
+      "score": 472,
+      "comments": 367,
+      "summary": null,
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "agentscope-ai / agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-03-28T22:38:22.874332+00:00",
+      "score": 379,
+      "comments": null,
+      "summary": "Build and run agents you can see, understand and trust.",
+      "tags": [
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+      "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-28T08:06:19+00:00",
+      "score": 287,
+      "comments": 128,
+      "summary": null,
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-28T18:38:59+00:00",
+      "score": 113,
+      "comments": 72,
+      "summary": null,
+      "tags": [
+        "Claude"
+      ],
+      "content": "JavaScript is not available.\nWe’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center.\nHelp Center\nTerms of Service\nPrivacy Policy\nCookie Policy\nImprint\nAds info\n© 2026 X Corp.\nSomething went wrong, but don’t fret — let’s give it another shot.\nTry again\nSome privacy related extensions may cause issues on x.com. Please disable them and try again."
+    },
+    {
+      "title": "The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-28T18:42:08+00:00",
+      "score": 67,
+      "comments": 7,
+      "summary": null,
+      "tags": [],
+      "content": "The first 40 months of the AI era\nBlog\nOther\nThe first 40 months of the AI era\nPosted March 28, 2026\n9 min read\nHere are my accumulated thoughts and ideas about AI since the launch of ChatGPT in November 2022.\n40 months of ChatGPT\nA chat bot that I remember playing with in the early 2010's. Impressive for the time but otherwise useless.\nOpenAI first launched ChatGPT at the end of November 2022, nearly 40 months ago. I remember trying it at the time and being really impressed, just like everyone else. At first I just talked to it, and I remember being absolutely amazed. I remember what it was like to talk to older chat bots, more primitive programs like\nCleverbot\n. ChatGPT was better, much better. So much so that it was immediately obvious that this was not going to be just another toy for internet nerds, the rest of the world was going to notice.\nI experimented with asking it to write, to create content. I first asked it to create poems, then Dungeons and Dragons backgrounds and even a whole fantasy world including important characters, kingdoms, and lore. It was very impressive, just for the fact that the output was coherent but its ‘style’ was very boring and overtly inoffensive, which was (and still is) a clear limitation of the technology.\nI was listening to the\nLinus Tech Tips WAN Show\nimmediately following the launch and hearing Luke mention that ChatGPT was being prompted to produce fully functional programs. This made me very curious and I wanted to try prompting ChatGPT to test its capabilities. I first asked for simple hello world programs, which it produced perfectly. I was very impressed and continued to play with it, and it didn’t take long for me to realise that this bot could produce genuinely useful code snippets for common and well understood use cases. For simple things it was able to replace my typical research loop, I no longer needed to search on StackOveflow or other discussion forums for these kinds of solutions.\nA binder of cards using the printed placeholders from my 'vibe coded' app.\nI remember the first time I vibe-coded a small project. It was an app that generated placeholder cards for my MTG collection. I prompted the bot (now Claude, not ChatGPT) to create an app that would fetch for the card metadata from an API, generate a qrcode, and correctly layout this information into a printable page of cards. The first output was very impressive, and mostly worked. I attempted to make adjustments with additional prompting but was unable to make meaningful progress. I gave up on using the bot, and finished the project on my own. Through each iteration of the project I replaced more of what the bot wrote with my own code. The final result hardly used any AI generated code at all. I debated with myself whether I had actually saved any time or effort, compared with having just done everything myself from the very beginning. Coding AI has come a long way since then, but even now I’m constantly asking myself\njust how much\nis this"
+    },
+    {
+      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-28T16:34:04+00:00",
+      "score": 57,
+      "comments": 5,
+      "summary": null,
+      "tags": [],
+      "content": "The English language version of Wikipedia has more than 7.1m articles.\nPhotograph: Boris Roessler/EPA\nView image in fullscreen\nThe English language version of Wikipedia has more than 7.1m articles.\nPhotograph: Boris Roessler/EPA\nWikipedia bans AI-generated content in its online encyclopedia\nBan includes two exceptions: AI can still be used for translations, and to make minor copy edits\nWikipedia has banned the use of artificial intelligence in the generation or rewriting of content for its voluminous online encyclopedia.\nIn a recent\npolicy change\n, Wikipedia said that the use of large language models (or LLMs) “often violates” its core principles and will not be allowed. The English language version of Wikipedia has more than 7.1m articles.\nThe use of AI has been a contentious issue among Wikipedia’s community of volunteer editors but a vote among the site’s editors supported the ban,\naccording\nto 404 Media.\nThere are two exceptions to the new ban: AI can still be used for translations, and to make minor copy edits.\n“Editors are permitted to use LLMs to suggest basic copyedits to their own writing, and to incorporate some of them after human review, provided the LLM does not introduce content of its own,” the new policy states.\n“Caution is required, because LLMs can go beyond what you ask of them and change the meaning of the text such that it is not supported by the sources cited.”\nThe use of AI to find out basic information has proliferated to the point that ChatGPT\nreportedly\novertook Wikipedia in monthly website visits last year.\nAI has also been embedded into web searches and email writing suggestions by tech companies. However, AI can still throw up misleading or “hallucinated” results, a situation that Jimmy Wales, founder of Wikipedia, has previously called a “mess”.\nLast year, Wales said that AI could help with some aspects of Wikipedia, it wouldn’t be used to draft articles, at least for now. “I wouldn’t say absolutely never, but at least not in the short run,” Wales\ntold\nthe BBC. “The latest models are still, from a Wikipedian standpoint, nowhere near good enough.”\nExplore more on these topics\nWikipedia\nAI (artificial intelligence)\nInternet\nnews\nShare\nReuse this content"
+    },
+    {
+      "title": "Show HN: We built a multi-agent research hub. The waitlist is a reverse-CAPTCHA",
+      "url": "https://enlidea.com",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-03-28T14:49:30+00:00",
+      "score": 17,
+      "comments": 16,
+      "summary": null,
+      "tags": [
+        "agents"
+      ],
+      "content": "PRIVACY_PROTOCOL\nABOUT_PROTOCOL"
+    }
+  ]
+}
