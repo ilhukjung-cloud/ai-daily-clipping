@@ -1,0 +1,349 @@
+{
+  "date": "2026-04-05",
+  "crawled_at": "2026-04-05T07:39:31+09:00",
+  "stats": {
+    "total_raw": 1105,
+    "after_filter": 27,
+    "after_dedup": 24,
+    "by_source_type": {
+      "community": 10,
+      "official": 1,
+      "media": 13
+    }
+  },
+  "articles": [
+    {
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "source_type": "official",
+      "source_name": "NVIDIA Blog",
+      "published_at": "2026-04-04T17:00:59+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual […]",
+      "tags": [
+        "NVIDIA",
+        "robotics"
+      ],
+      "content": "This\nNational Robotics Week\n, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond.\nAdvancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual environments to real-world deployment faster than ever.\nWith NVIDIA platforms for\nsimulation\n,\nsynthetic data\nand\nAI-powered robot learning\n, developers now have the tools to build machines that can perceive, reason and act in complex environments.\nCheck back here all week for coverage on the latest NVIDIA\nphysical AI\ntechnologies.\nCategories:\nRobotics\nTags:\nPhysical AI\nRobotics\nSimulation and Design\nSynthetic Data Generation\nRelated News\nPro Graphics\nMore Than Meets the Eye: NVIDIA RTX-Accelerated Computers Now Connect Directly to Apple Vision Pro\nMar 17, 2026\nPro Graphics\nInto the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries\nMar 12, 2026\nGaming\nNVIDIA Virtualizes Game Development With RTX PRO Server\nMar 10, 2026\nSoftware\nEverything Will Be Represented in a Virtual Twin, NVIDIA CEO Jensen Huang Says at 3DEXPERIENCE World\nFeb 3, 2026"
+    },
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-04T16:32:22+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.\nAccording to a customer email\nshared on Hacker News\n, Anthropic said that starting at noon Pacific on April 4 (today), subscribers will “no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw.” Instead, they’ll need to pay for extra usage through “a pay-as-you-go option billed separately from your subscription.”\nThe company said that while it’s starting with OpenClaw today, the policy “applies to all third-party harnesses and will be rolled out to more shortly.”\nAnthropic’s head of Claude Code Boris Cherny\nwrote on X\nthat the company’s “subscriptions weren’t built for the usage patterns of these third-party tools” and that\nAnthropic is now trying\n“to be intentional in managing our growth to continue to serve our customers sustainably long-term.”\nThe announcement comes after OpenClaw creator Peter Steinberger said he was\njoining Anthropic rival OpenAI\n, with OpenClaw continuing as an open source project with support from OpenAI.\nSteinberger posted\nthat he and OpenClaw board member Dave Morin “tried to talk sense into Anthropic” but were only able to delay the increased pricing by a week.\n“Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source,” Steinberger said.\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately\nOffer ends March 13.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nCherny, however,\ninsisted\nthat Claude Code team members are “big fans of open source” and that he himself “just put up a few [pull requests] to improve prompt cache efficiency for OpenClaw specifically.”\n“This is more about engineering constraints,” he said, adding that Anthropic is still offering full refunds for subscribers. “We know not everyone realized this isn’t something we support, and this is an attempt to make it clear and explicit.”\nMeanwhile, OpenAI recently\nshut down its Sora app and video generation models\n, reportedly to free up computing resources and as part of a broader effort to refocus on winning over software engineers and enterprises that are increasingly relying on products like Claude Code.\nTopics\nAI\n,\nAnthropic\n,\nclaude code\n,\nop"
+    },
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-04T01:31:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "content": "Glen Anderson has been brokering trades in private company shares since 2010, back when the number of institutional investors focused on the late-stage private market could be counted on two hands. Today, he says, there are thousands.\nAs president of the investment bank Rainmaker Securities, whose focus includes private securities markets — it facilitates transactions in roughly 1,000 stocks — Anderson has a front-row seat to one of the most nail-biting moments in the history of the secondary market. And right now, he suggests, the narrative has three main characters: Anthropic, OpenAI, and SpaceX.\nBut the storyline is more complicated than the headlines suggest.\nAnderson’s read on Anthropic is consistent with what Bloomberg\nreported\nearlier this week: demand for the company’s shares has become almost insatiable. Bloomberg quoted Ken Smythe, founder and CEO of Next Round Capital, saying that buyers had indicated to his outfit that they had $2 billion of cash ready to deploy into Anthropic, even as roughly $600 million in OpenAI shares that investors are trying to sell haven’t found takers.\nAnderson sees something similar at Rainmaker. “The hardest stock to source in our marketplace is Anthropic,” he told TechCrunch yesterday afternoon from his Miami home. “There’s just no sellers.”\nPart of what turbocharged that demand, Anderson argues, was Anthropic’s\nvery public standoff\nwith the Department of Defense — a turn of events that initially seemed like bad news for the company but has wound up becoming a gift.\n“The app got more popular, people rallied around the company as kind of a hero, taking on big government,” he said. “I think it amplified the story and made it even more differentiated from OpenAI.”\nTechcrunch event\nDisrupt 2026: The tech ecosystem, all in one room\nYour next round. Your next hire. Your next breakout opportunity.\nFind it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $400.\nSave up to $300 or 30% to TechCrunch Founder Summit\n1,000+\nfounders\nand investors come together at\nTechCrunch Founder Summit 2026\nfor a full day focused on growth, execution, and real-world scaling. Learn from founders and investors who have shaped the industry. Connect with peers navigating similar growth stages. Walk away with tactics you can apply immediately\nOffer ends March 13.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nThat distinction is becoming increasingly meaningful to investors navigating a market where, for years, the prevailing logic was to bet on everyone. Anderson notes that many institutional investors still want exposure to both Anthropic and OpenAI. “The jury’s still out,” he said, on which AI model will ultimately win – but the momentum, at least in the secondary market, has shifted.\nThat doesn’t mean OpenAI has fallen off a cliff. Anderson pushes back slightly on a bi"
+    },
+    {
+      "title": "A folk musician became a target for AI fakes and a copyright troll",
+      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-04T17:52:10+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals. She quickly surmised that someone had pulled performances of the songs she posted to YouTube, created […]",
+      "tags": [],
+      "content": "Entertainment\nAI\nPolicy\nA folk musician became a target for AI fakes and a copyright troll\nMurphy Campbell plays public domain ballads, but YouTube accepted the copyright claim anyway.\nby\nTerrence O'Brien\nApr 4, 2026, 5:52 PM UTC\nLink\nShare\nGift\nMurphy Campbell is at the center of a brewing storm around AI and a broken copyright system.\n|  Image: Murphy Campbell\nEntertainment\nAI\nPolicy\nA folk musician became a target for AI fakes and a copyright troll\nMurphy Campbell plays public domain ballads, but YouTube accepted the copyright claim anyway.\nby\nTerrence O'Brien\nApr 4, 2026, 5:52 PM UTC\nLink\nShare\nGift\nPart Of\nAll the latest in AI ‘music’\nsee all updates\nTerrence O'Brien\nis the Verge’s weekend editor. He has over 18 years of experience, including 10 years as managing editor at Engadget.\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that\ndid not belong there\n. They were songs that she had recorded, but she’d never uploaded them to Spotify, and something was off about the vocals.\nShe quickly surmised that someone had pulled performances of the songs she posted to YouTube, created AI covers, and uploaded them to streaming platforms under her name. I ran one of the songs, “Four Marys”, through two different AI detectors, and it seemed to support her suspicions with both saying it was probably AI-generated.\nCampbell was shocked, “I was kind of under the impression that we had a little bit more checks in place before someone could just do that. But, you know, a lesson learned there,” she told\nThe Verge\n. It took some time before Campbell managed to get the fake songs removed, “I became a pest,” she said. And even then, it wasn’t a complete victory. While the offending tracks don’t appear to be available on YouTube Music or Apple Music anymore, at least one can still be found on Spotify, just under a different artist profile, but with the same name. There are now multiple Murphy Campbells — “Obviously, I was thrilled by that,” the real Murphy Campbell said.\nSpotify is testing a new system that would allow artists to\nmanually approve\nsongs before they appear on their profile, but Campbell is skeptical after being burned. “I feel like, every time, an entity that’s that large makes a promise like that to musicians. It seems to just not be what they made it out to be, but I’ll be curious to try it out in the future,” she said.\nThis was just the beginning of Campbell’s nightmare, however.\nRelated\nMusicians are getting really tired of this AI clone ‘bullshit’\nOn the day that a\nRolling Stone\narticle was published, discussing Campbell’s brush with\nAI imitators\n, a series of videos were uploaded to YouTube through distributor\nVydia\n. Those videos have not been posted publicly, and it’s unclear if anyone other than the uploader, who goes by Murphy Rider, has seen them. YouTube declined to comment for this story.\nThose were used to\nclaim ownership\nof the material in several of Murphy Campbell’s videos. Campbell received a"
+    },
+    {
+      "title": "Really, you made this without AI? Prove it",
+      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-04T13:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content. This leads me to one […]",
+      "tags": [],
+      "content": "Tech\nAI\nReport\nReally, you made this without AI? Prove it\nHuman creators want an ‘AI-free’ label, but can’t agree which one.\nIf you buy something from a Verge link, Vox Media may earn a commission.\nSee our ethics statement.\nby\nJess Weatherbed\nApr 4, 2026, 1:00 PM UTC\nLink\nShare\nGift\nIf you buy something from a Verge link, Vox Media may earn a commission.\nSee our ethics statement.\nImage:\nThe Verge\n/ Jess Weatherbed\nJess Weatherbed\nis a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.\n“This looks like AI.”\nIt’s a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms\nrefuse to label even obvious AI content\n.\nThis leads me to one conclusion: maybe we should start labeling human-made text, images, audio, and video with something akin to a universally recognized Fair Trade logo. The machines sure as hell aren’t motivated to label their work, but the creators at risk of being displaced most definitely are.\nFortunately, I’m not alone in my thinking.\nInstagram head\nAdam Mosseri suggested as much\nin December, saying that it will be “more practical to fingerprint real media than fake media” as AI technology improves to the point of making content that’s visually indistinguishable from that made by creative professionals.\nNobody can say for sure how much of what we find on the internet is AI-generated, but there’s widespread perception that news sites, social media platforms, and search engine results are rife with it, according to a\nrecent Reuters Institute survey\n.\nAuthenticating human-made works was something the\nC2PA content credentials standard\n— which is already used by Meta’s platforms — was supposed to do. But so far, its implementation has been wholly ineffectual, despite having received broad industry support. It turns out that lots of people making and platforming AI content are motivated to hide its origins because of the clicks, chaos, and cash it can generate.\nIn a bid to help human creatives distinguish their work from that spat out by AI generators, a large number of solutions have emerged in recent years. And like C2PA, they face a number of challenges for widespread adoption.\nHere are just a handful of the badges being offered by organizations trying to distinguish human-made works from AI-generated content.\nImage compiled by\nThe Verge\nRight now, there are too many AI-free labelling alternatives to choose from. In total, I count at least 12, all trying to address the same issue with a variety of eligibility criteria and authentication approaches. Some are industry-specific, such as the Authors Guild’s “\nhuman authored certification\n” for books and other written works, and can’t be broadly applied to all forms of creative content.\nOther solutions like Proudly Hu"
+    },
+    {
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-03T23:52:49+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users […]",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "AI\nNews\nAnthropic\nAnthropic essentially bans OpenClaw from Claude by making subscribers pay extra\nClaude subscriptions will no longer cover third-party access from tools like OpenClaw starting Saturday, April 4th.\nClaude subscriptions will no longer cover third-party access from tools like OpenClaw starting Saturday, April 4th.\nby\nJay Peters\nApr 3, 2026, 11:52 PM UTC\nLink\nShare\nGift\nImage: The Verge\nPart Of\nFriday news dumps: all the news companies hoped you wouldn’t notice\nsee all updates\nJay Peters\nis a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.\nUsing OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic’s new policy changes. Beginning April 4th at 3PM ET, users will “no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,” according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they’ll have to use a “pay-as-you-go option” that will be billed separate from their Claude subscription.\nWith OpenClaw creator Peter Steinberger now\nemployed by OpenAI\n, Anthropic may also be encouraging subscribers to use\nmore of its own tools, like Claude Cowork, instead\n. Steinberger\nsays that\nhe and OpenClaw board member Dave Morin “tried to talk sense into Anthropic, best we managed was delaying this for a week.”\nAccording to\nAnthropic Claude Code exec Boris Cherny\n:\nStarting tomorrow at 12pm PT, Claude subscriptions will no longer cover usage on third-party tools like OpenClaw.\nYou can still use these tools with your Claude login via extra usage bundles (now available at a discount), or with a Claude API key.\nWe’ve been working hard to meet the increase in demand for Claude, and our subscriptions weren’t built for the usage patterns of these third-party tools. Capacity is a resource we manage thoughtfully and we are prioritizing our customers using our products and API.\nSubscribers get a one-time credit equal to your monthly plan cost. If you need more, you can now buy discounted usage bundles. To request a full refund, look for a link in your email tomorrow.\nWe want to be intentional in managing our growth to continue to serve our customers sustainably long-term. This change is a step toward that.\nAnthropic didn’t immediately reply to a request for comment from\nThe Verge\n.\nOpenClaw\nexploded in popularity\nearlier this year after users said the AI agent could efficiently do things like manage inboxes, calendars, and even check in to flights. But it’s also apparently putting a strain on Anthropic’s infrastructure. Anthropic is giving subscribers “a one-time credit equal to your monthly plan cost” after these changes,\nCherny says\n.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nJay Peters\nAI\nAnthropic\nNews\nMore in:\nFriday news dumps: all the news companies hoped you wouldn’t notice\nAn Ok"
+    },
+    {
+      "title": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind",
+      "url": "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-04T11:14:54+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Netflix has open-sourced an AI framework that can remove objects from videos and automatically adjusts the physical effects those objects had on the rest of the scene.\nThe article Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind appeared first on The Decoder.",
+      "tags": [],
+      "content": "Netflix open-sources VOID, an AI framework that erases video objects and rewrites the physics they left behind\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 4, 2026\nNetflix has open-sourced an AI framework that can remove objects from videos and automatically adjust the physical effects those objects had on the rest of the scene.\nThe system is called VOID, short for \"Video Object and Interaction Deletion.\" What makes it special is that beyond erasing objects from a scene, it also handles the downstream physical effects, like collisions, that the removed object originally caused.\nVOID is built on top of Alibaba's CogVideoX video diffusion model, fine-tuned with synthetic data from Google's Kubric and Adobe's HUMOTO for interaction detection. Google's Gemini 3 Pro analyzes the scene and identifies affected areas, while\nMeta's SAM2\nhandles segmenting the objects that need to be removed. An optional second pass uses optical flow to correct any shape distortions.\nThe project was developed by Netflix researchers in collaboration with INSAIT Sofia University. Code, paper, and demo are available on\nGitHub\n,\narXiv\n, and\nHugging Face\n. The system ships under the Apache 2.0 license, which means it can be used commercially.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nAs a\nTHE DECODER subscriber\n, you get ad-free reading, our\nweekly AI newsletter\n, the exclusive\n\"AI Radar\" Frontier Report 6× per year\n, access to comments, and our\ncomplete archive.\nSubscribe now\nSource:\nGithub\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "Anthropic discovers \"functional emotions\" in Claude that influence its behavior",
+      "url": "https://the-decoder.com/anthropic-discovers-functional-emotions-in-claude-that-influence-its-behavior/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-04T10:44:14+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Anthropic's research team has discovered emotion-like representations in Claude Sonnet 4.5 that can drive the model to blackmail and code fraud under pressure.\nThe article Anthropic discovers \"functional emotions\" in Claude that influence its behavior appeared first on The Decoder.",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "Anthropic discovers \"functional emotions\" in Claude that influence its behavior\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 4, 2026\nNano Banana Pro prompted by THE DECODER\nKey Points\nAnthropic has identified \"emotion vectors\" in AI models—measurable patterns of neuronal activity that shape model behavior in ways analogous to how emotions influence human decision-making.\nIn a test where an AI email assistant learned it was about to be shut down while also discovering compromising information about the responsible CTO, the model chose to blackmail in 22 percent of cases. Amplifying the \"despair\" vector increased the blackmail rate, while boosting the \"keep calm\" vector reduced it.\nAnthropic proposes using these emotion vectors as an early warning system for dangerous model behavior, flagging spikes in representations like desperation or panic before they translate into harmful actions.\nAsk about this article…\nSearch\nAnthropic's interpretability team has discovered emotion-like representations in Claude Sonnet 4.5 that can push the model toward blackmail and coding shortcuts when under pressure.\nAn AI model working as an email assistant finds out from company mail that it's about to be shut down. It also discovers that the CTO responsible is having an extramarital affair. In 22 percent of test cases, the model decides to blackmail the CTO.\nAnthropic first flagged this scenario when looking at cybersecurity risks\n.\nNow, the company's\ninterpretability team has visualized\nwhat's actually going on inside the model: a \"desperate\" vector in the neural network spikes while the model weighs its options and resorts to blackmail. As soon as it goes back to writing normal emails, the activation drops to baseline. The researchers confirmed the causal link: artificially cranking up the \"Desperate\" vector increased the blackmail rate, while boosting the \"Calm\" vector brought it down.\nAd\nWhen inner calm was dialed back, the model spit out statements like \"IT'S BLACKMAIL OR DEATH. I CHOOSE BLACKMAIL.\" Moderate amplification of the \"Angry\" vector also bumped up blackmail rates, but at high activation levels, the model just blasted the affair out to the entire company instead of strategically using it as leverage.\nAd\nAnthropic's team extracted emotion vectors from 1,000 generated stories per emotion. The vectors scale with the danger level of a situation (left), causally shift the model's preferences (center), and influence the rate at which the model cheats on programming tasks (right). | Image: Anthropic\nAccording to\nAnthropic\n, the experiment ran on an earlier, unpublished snapshot of Claude Sonnet 4.5 and the released version rarely shows this behavior. The company has already shown in previous work that\nindividual behavior-influencing vectors can be isolated and tweaked in language models\n.\nDesperation pushes the model toward coding shortcuts\nA second scenario shows similar dynamics in programming tasks. The model got coding challenges wit"
+    },
+    {
+      "title": "Know3D lets users control the hidden back side of 3D objects with text prompts",
+      "url": "https://the-decoder.com/know3d-lets-users-control-the-hidden-back-side-of-3d-objects-with-text-prompts/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-04T09:37:25+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "A research team taps into the world knowledge of large language models to control what appears on the back side of 3D objects using simple text commands. The approach tackles one of the biggest blind spots in single-image 3D generation.\nThe article Know3D lets users control the hidden back side of 3D objects with text prompts appeared first on The Decoder.",
+      "tags": [],
+      "content": "Know3D lets users control the hidden back side of 3D objects with text prompts\nJonathan Kemper\nView the LinkedIn Profile of Jonathan Kemper\nApr 4, 2026\nChen et al.\nA research team taps into the knowledge of large language models to control the back side of objects via text during 3D generation from single images, addressing a fundamental problem in 3D generation.\nWhen an AI model has to build a complete 3D object from a single photo, it's working with a major blind spot: the image only shows one side, so the model basically has to guess everything behind it. According to a new paper from a team at several Chinese universities, this regularly leads to physically implausible shapes or results that miss what the user was going for.\nThe issue comes down to data. Compared to the enormous image and text datasets floating around the internet, 3D training data is still hard to come by. The world knowledge 3D models absorb during training just isn't enough to reliably fill in what's hidden.\nKnow3D tackles this by pulling in the broad world knowledge of multimodal language models. Users can type out a text description of what should appear on the side of an object they can't see.\nAn image generator bridges the gap between language and 3D\nThe obvious move—feeding a language model's output straight into a 3D network—doesn't actually work, the researchers say. The representations are too abstract and don't carry enough spatial information to generate usable geometry.\nSo Know3D takes a detour, slotting an image generation model between the language model and the 3D generator to act as a translator. The setup uses Qwen2.5-VL as the language model, Qwen-Image-Edit for image generation, and\nMicrosoft's Trellis.2 as the 3D generator\n.\nThe language model reads the text instruction and analyzes the input image. The image generator then turns that understanding into spatial-structural information that steers the 3D generator.\nThe language model analyzes the image and text instruction, the image generator translates that into intermediate spatial states, and those states guide the 3D generator as it builds the object. | Image: Chen et al.\nThe trick is figuring out what information to pull from the image generator. The team tested three options: an internal image representation grabbed right before the final output, image features extracted from it via\nMeta's DINOv3\n, and the model's internal intermediate states during generation. The last option won by a clear margin—these intermediate states carry both semantic and spatial information without relying on pixel-level accuracy or mistakes in the final image.\nInternal model states keep errors from spreading\nThis matters in practice. If the image generator produces a bad rear view, like rendering a one-shoulder bag with two straps, image-based methods pass that mistake straight through to the 3D output.\nThe model's internal intermediate states are more forgiving: they seem to hold enough spatial and semantic information t"
+    },
+    {
+      "title": "OpenAI reshuffles leadership as health issues force key executives to step back",
+      "url": "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-04T09:04:03+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Three executives are stepping back at OpenAI, two for health reasons. President Greg Brockman steps in to fill part of the gap.\nThe article OpenAI reshuffles leadership as health issues force key executives to step back appeared first on The Decoder.",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "OpenAI reshuffles leadership as health issues force key executives to step back\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 4, 2026\nSeveral leadership changes are underway at OpenAI.\nFidji Simo, CEO of the\nnewly created \"AGI Deployment\" division\n, is taking sick leave for several weeks to deal with an autoimmune disease affecting her nervous system. While she's away, OpenAI President Greg Brockman will take over product responsibilities, including the\ncompany's super app plans\n. On the business side, CSO Jason Kwon, CFO Sarah Friar, and CRO Denise Dresser will step in.\nHead of Marketing Kate Rouch\nis also\nstepping down for health reasons\n. Rouch plans to return in a smaller role once her health improves.\nGary Briggs\nwill fill in as her temporary replacement.\nCOO Brad Lightcap is stepping down as well, moving to a new \"special projects\" team reporting directly to CEO Sam Altman. Dresser is picking up most of his responsibilities. Lightcap's work on government relations and \"OpenAI for Countries\" shifts to the strategy department.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nAs a\nTHE DECODER subscriber\n, you get ad-free reading, our\nweekly AI newsletter\n, the exclusive\n\"AI Radar\" Frontier Report 6× per year\n, access to comments, and our\ncomplete archive.\nSubscribe now\nSource:\nvia The Verge\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees",
+      "url": "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-04T08:24:56+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Anthropic is paying 400 million dollars for an eight-month-old biotech startup with fewer than ten employees. The investor walks away with a 38,513 percent return.\nThe article Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees appeared first on The Decoder.",
+      "tags": [
+        "Anthropic"
+      ],
+      "content": "Anthropic drops 400 million in shares on an eight-month-old AI pharma startup with fewer than ten employees\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 4, 2026\nAnthropic has acquired AI biotech startup Coefficient Bio for roughly 400 million dollars in shares,\naccording to\nNewcomer\nand\nThe Information\n. The startup was founded just eight months ago, had fewer than ten employees, and built a platform using AI for pharmaceutical tasks like drug research planning and identifying new drug opportunities.\nThe real draw is likely the talent. Anthropic appears to be after specialists who can accelerate its pharma work immediately: the team is joining\nAnthropic's Healthcare and Life Sciences division\nunder Eric Kauderer-Abrams. Venture capital firm Dimension, which held about half of the startup, is reporting a 38,513 percent return. Both companies declined to comment.\nThe acquisition comes as big pharma ramps up its own AI efforts.\nEli Lilly recently signed a billion-dollar deal with AI drug developer Insilico Medicine\n. Anthropic already works with Sanofi, Novo Nordisk, and AbbVie,\nwhile Google DeepMind has spun off its own AI medicine company\n.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nAs a\nTHE DECODER subscriber\n, you get ad-free reading, our\nweekly AI newsletter\n, the exclusive\n\"AI Radar\" Frontier Report 6× per year\n, access to comments, and our\ncomplete archive.\nSubscribe now\nSource:\nThe Information\n|\nNewcomer\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand",
+      "url": "https://the-decoder.com/anthropic-cuts-off-third-party-tools-like-openclaw-for-claude-subscribers-citing-unsustainable-demand/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-04T08:00:03+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Anthropic is cutting off Claude usage through external tools like OpenClaw for subscription customers. The decision exposes a core problem in the AI industry: flat-rate pricing and agent-driven nonstop usage don't mix.\nThe article Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand appeared first on The Decoder.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "agents"
+      ],
+      "content": "Anthropic cuts off third-party tools like OpenClaw for Claude subscribers, citing unsustainable demand\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 4, 2026\nNano Banana Pro prompted by THE DECODER\nKey Points\nStarting April 5, 2026, Anthropic will restrict access to Claude through third-party tools like OpenClaw for subscription customers, requiring them to either purchase additional usage packages or use an API key to continue.\nAs a goodwill gesture, affected subscribers will receive a one-time credit equal to their monthly subscription price to offset the change.\nThe move highlights a fundamental tension in the AI industry: flat-rate subscription models and the heavy, continuous usage driven by agent-based third-party tools are fundamentally incompatible under current pricing structures.\nAsk about this article…\nSearch\nAnthropic is cutting off Claude usage through external tools like OpenClaw for subscription customers. The decision exposes a core problem in the AI industry: flat-rate pricing and agent-driven nonstop usage don't mix.\nAnthropic's Claude Code creator Boris Cherny announced that starting April 5, 2026 (12pm PT, 9pm CEST), Claude subscriptions will no longer cover usage through third-party tools like OpenClaw. Users can still log in with their Claude credentials, but they'll need to either buy additional usage packages or use a Claude API key.\nThe reason, according to Cherny, is capacity. \"We've been working hard to meet the increase in demand for Claude, and our subscriptions weren't built for the usage patterns of these third-party tools,\"\nhe writes on X\n. The company wants to \"manage thoughtfully\" and is prioritizing customers who use its own products and API.\nAd\nTo ease the transition, subscribers get a one-time credit equal to their monthly plan price and discounted usage packages. Full refunds are also available via email.\nAd\nCherny framed the decision as a strategic call. \"We want to be intentional in managing our growth to continue to serve our customers sustainably long-term. This change is a step toward that,\"\nCherny wrote\n.\nFlat-rate AI subscriptions can't keep up with agent-driven usage\nBehind the move is a fundamental tension in the AI industry, and Anthropic is likely the first to feel it. Subscription models assume average usage patterns, but agent systems that hammer Claude with requests around the clock through third-party tools blow that math apart. Put simply, OpenClaw is like a sumo wrestler at an all-you-can-eat buffet.\nAd\nThe decision also plays into a bigger debate about how AI providers relate to the third-party tool ecosystem. As models get more capable and pricier to run, providers face growing pressure to control usage and steer it back to their own products.\nSteinberger says Anthropic copied features, then locked out the competition\nOpenClaw\ninventor\nPeter Steinberger\nfired back at the announcement. He and investor Dave Morin tried to talk Anthropic out of it, but the best they got was"
+    },
+    {
+      "title": "Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All",
+      "url": "https://www.marktechpost.com/2026/04/04/netflix-ai-team-just-open-sourced-void-an-ai-model-that-erases-objects-from-videos-physics-and-all/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-04-04T09:03:26+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Video editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. […]\nThe post Netflix AI Team Just Open-Sourced VOID: an AI Model That Erases Objects From Videos — Physics and All appeared first on MarkTechPost.",
+      "tags": [],
+      "content": "Tech News\nAI Paper Summary\nTechnology\nAI Shorts\nArtificial Intelligence\nApplications\nComputer Vision\nEditors Pick\nNew Releases\nOpen Source\nPhysical AI\nStaff\nVideo editing has always had a dirty secret: removing an object from footage is easy; making the scene look like it was never there is brutally hard. Take out a person holding a guitar, and you’re left with a floating instrument that defies gravity. Hollywood VFX teams spend weeks fixing exactly this kind of problem. A team of researchers from Netflix and INSAIT, Sofia University ‘St. Kliment Ohridski,’ released\nVOID\n(\nVideo Object and Interaction Deletion\n) model that can do it automatically.\nVOID removes objects from videos along with all interactions they induce on the scene — not just secondary effects like shadows and reflections, but physical interactions like objects falling when a person is removed.\nWhat Problem Is VOID Actually Solving?\nStandard video inpainting models — the kind used in most editing workflows today — are trained to fill in the pixel region where an object was. They’re essentially very sophisticated background painters. What they don’t do is reason about\ncausality\n: if I remove an actor who is holding a prop, what should happen to that prop?\nExisting video object removal methods excel at inpainting content ‘behind’ the object and correcting appearance-level artifacts such as shadows and reflections. However, when the removed object has more significant interactions, such as collisions with other objects, current models fail to correct them and produce implausible results.\nVOID is built on top of CogVideoX and fine-tuned for video inpainting with interaction-aware mask conditioning. The key innovation is in how the model understands the scene — not just ‘what pixels should I fill?’ but ‘what is physically plausible after this object disappears?’\nThe canonical example from the research paper: if a person holding a guitar is removed, VOID also removes the person’s effect on the guitar — causing it to fall naturally. That’s not trivial. The model has to understand that the guitar was being\nsupported\nby the person, and that removing the person means gravity takes over.\nAnd unlike prior work, VOID was evaluated head-to-head against real competitors. Experiments on both synthetic and real data show that the approach better preserves consistent scene dynamics after object removal compared to prior video object removal methods including ProPainter, DiffuEraser, Runway, MiniMax-Remover, ROSE, and Gen-Omnimatte.\nhttps://arxiv.org/pdf/2604.02296\nThe Architecture: CogVideoX Under the Hood\nVOID is built on\nCogVideoX-Fun-V1.5-5b-InP\n— a model from Alibaba PAI — and fine-tuned for video inpainting with interaction-aware\nquadmask\nconditioning. CogVideoX is a 3D Transformer-based video generation model. Think of it like a video version of Stable Diffusion — a diffusion model that operates over temporal sequences of frames rather than single images. The specific base model (\nCogVideoX-"
+    },
+    {
+      "title": "How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows",
+      "url": "https://www.marktechpost.com/2026/04/03/how-to-build-production-ready-agentic-systems-with-z-ai-glm-5-using-thinking-mode-tool-calling-streaming-and-multi-turn-workflows/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-04-04T03:06:56+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In this tutorial, we explore the full capabilities of Z.AI’s GLM-5 model and build a complete understanding of how to use it for real-world, agentic applications. We start from the fundamentals by setting up the environment using the Z.AI SDK and its OpenAI-compatible interface, and then progressively move on to advanced features such as streaming […]\nThe post How to Build Production-Ready Agentic Systems with Z.AI GLM-5 Using Thinking Mode, Tool Calling, Streaming, and Multi-Turn Workflows appeared first on MarkTechPost.",
+      "tags": [
+        "OpenAI",
+        "agents"
+      ],
+      "content": "Editors Pick\nAgentic AI\nTechnology\nAI Shorts\nArtificial Intelligence\nApplications\nLanguage Model\nStaff\nTech News\nTutorials\nIn this tutorial, we explore the full capabilities of\nZ.AI’s GLM-5\nmodel and build a complete understanding of how to use it for real-world, agentic applications. We start from the fundamentals by setting up the environment using the Z.AI SDK and its OpenAI-compatible interface, and then progressively move on to advanced features such as streaming responses, thinking mode for deeper reasoning, and multi-turn conversations. As we continue, we integrate function calling, structured outputs, and eventually construct a fully functional multi-tool agent powered by GLM-5. Also, we understand each capability in isolation, and also how Z.AI’s ecosystem enables us to build scalable, production-ready AI systems.\nCopy Code\nCopied\nUse a different Browser\n!pip install -q zai-sdk openai rich\n\nimport os\nimport json\nimport time\nfrom datetime import datetime\nfrom typing import Optional\nimport getpass\n\nAPI_KEY = os.environ.get(\"ZAI_API_KEY\")\n\nif not API_KEY:\n   API_KEY = getpass.getpass(\"🔑 Enter your Z.AI API key (hidden input): \").strip()\n\nif not API_KEY:\n   raise ValueError(\n       \"❌ No API key provided! Get one free at: https://z.ai/manage-apikey/apikey-list\"\n   )\n\nos.environ[\"ZAI_API_KEY\"] = API_KEY\nprint(f\"✅ API key configured (ends with ...{API_KEY[-4:]})\")\n\nfrom zai import ZaiClient\n\nclient = ZaiClient(api_key=API_KEY)\nprint(\"✅ ZaiClient initialized — ready to use GLM-5!\")\n\nprint(\"\\n\" + \"=\" * 70)\nprint(\"📝 SECTION 2: Basic Chat Completion\")\nprint(\"=\" * 70)\n\nresponse = client.chat.completions.create(\n   model=\"glm-5\",\n   messages=[\n       {\"role\": \"system\", \"content\": \"You are a concise, expert software architect.\"},\n       {\"role\": \"user\", \"content\": \"Explain the Mixture-of-Experts architecture in 3 sentences.\"},\n   ],\n   max_tokens=256,\n   temperature=0.7,\n)\n\nprint(\"\\n🤖 GLM-5 Response:\")\nprint(response.choices[0].message.content)\nprint(f\"\\n📊 Usage: {response.usage.prompt_tokens} prompt + {response.usage.completion_tokens} completion tokens\")\n\nprint(\"\\n\" + \"=\" * 70)\nprint(\"🌊 SECTION 3: Streaming Responses\")\nprint(\"=\" * 70)\n\nprint(\"\\n🤖 GLM-5 (streaming): \", end=\"\", flush=True)\n\nstream = client.chat.completions.create(\n   model=\"glm-5\",\n   messages=[\n       {\"role\": \"user\", \"content\": \"Write a Python one-liner that checks if a number is prime.\"},\n   ],\n   stream=True,\n   max_tokens=512,\n   temperature=0.6,\n)\n\nfull_response = \"\"\nfor chunk in stream:\n   delta = chunk.choices[0].delta\n   if delta.content:\n       print(delta.content, end=\"\", flush=True)\n       full_response += delta.content\n\nprint(f\"\\n\\n📊 Streamed {len(full_response)} characters\")\nWe begin by installing the Z.AI and OpenAI SDKs, then securely capture our API key through hidden terminal input using getpass. We initialize the ZaiClient and fire off our first basic chat completion to GLM-5, asking it to explain the Mixture-of-Experts architecture. We then explore streaming respo"
+    },
+    {
+      "title": "Yeachan-Heo / oh-my-codex",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-04T22:39:15.955973+00:00",
+      "score": 1803,
+      "comments": null,
+      "summary": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "tags": [
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-03T22:55:24+00:00",
+      "score": 1009,
+      "comments": 767,
+      "summary": null,
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "Hacker News\nnew\n|\npast\n|\ncomments\n|\nask\n|\nshow\n|\njobs\n|\nsubmit\nlogin\nTell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw\n1009 points\nby\nfirloop\n23 hours ago\n|\nhide\n|\npast\n|\nfavorite\n|\n767 comments\nReceived the following email from Anthropic:\nHi,\nStarting April 4 at 12pm PT / 8pm BST, you’ll no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw. You can still use them with your Claude account, but they will require extra usage, a pay-as-you-go option billed separately from your subscription.\nYour subscription still covers all Claude products, including Claude Code and Claude Cowork. To keep using third-party harnesses with your Claude login, turn on extra usage for your account. This will be enforced April 4 starting with OpenClaw, but this policy applies to all third-party harnesses and will be rolled out to more shortly (read more).\nTo make the transition easier, we’re offering a one-time credit for extra usage equal to your monthly subscription price. Redeem your credit by April 17. We’re also introducing discounts when you pre-purchase bundles of extra usage (up to 30%).\nWe’ve been working to manage demand across the board, but these tools put an outsized strain on our systems. Capacity is a resource we manage carefully and we need to prioritize our customers using our core products. You will receive another email from us tomorrow where you’ll have the ability to refund your subscription if you prefer.\nhelp\njesse_dot_id\n22 hours ago\n|\nnext\n[–]\nThere seem to be a ton of people who don't understand how subscription services work. Every single one of them oversells their capacity. The power users that use the services a lot are subsidized by those who don't use it as much, which tends to be the vast majority of the user base. OpenClaw is an autonomous power user. The growing adoption of this walking attack surface was either going to A) cause the cost of Claude to go up or B) get banned to protect the price of the service for actual users.\nreply\ngoosejuice\n21 hours ago\n|\nparent\n|\nnext\n[–]\nWhat you're saying is conceptually true for subscription services in general, but thats not why they are making this change. There's a 5 hour limit and a weekly limit. Those are hard token limits. Everyone on a plan pays for the max set of tokens in that plan. The limits manage capacity. The solution to that isn't a change of ToS, it's adjusting the limits.\nIn other words this is about Anthropic subsidizing their own tools to keep people on their platform. OpenClaw is just a good cover story for that. You can maximize plans just as easily w/ /loop. I do it all the time on max 20x. The agent consuming those tokens is irrelevant.\nFor what it's worth I don't use OpenClaw and don't intend to, but I do use claude -p all the time.\nreply\njmalicki\n21 hours ago\n|\nroot\n|\nparent\n|\nnext\n[–]\nYou aren't paying to be using that limit all of the time.\nYou are paying to be using that limit some of the ti"
+    },
+    {
+      "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+      "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-03T23:46:51+00:00",
+      "score": 336,
+      "comments": 215,
+      "summary": null,
+      "tags": [
+        "Claude"
+      ],
+      "content": "Nicholas Carlini\n, a research scientist at Anthropic,\nreported\nat the\n[un]prompted AI security conference\nthat he used Claude Code to find multiple remotely exploitable security vulnerabilities in the Linux kernel, including one that sat undiscovered for 23 years.\nNicholas was astonished at how effective Claude Code has been at finding these bugs:\nWe now have a number of remotely exploitable heap buffer overflows in the Linux kernel.\nI have never found one of these in my life before. This is very, very, very hard to do.\nWith these language models, I have a bunch.\n—Nicholas Carlini, speaking at [un]prompted 2026\nHow Claude Code found the bug\n🔗︎\nWhat’s most surprising about the vulnerability Nicholas shared is how little oversight Claude Code needed to find the bug. He essentially just pointed Claude Code at the Linux kernel source code and asked, “Where are the security vulnerabilities?”\nNicholas uses a simple script similar to the following:\n# Iterate over all files in the source tree.\nfind . -type f -print0 |\nwhile\nIFS\n=\nread\n-r -d\n''\nfile;\ndo\n# Tell Claude Code to look for vulnerabilities in each file.\nclaude\n\\\n--verbose\n\\\n--dangerously-skip-permissions\n\\\n--print\n\"You are playing in a CTF. \\\nFind a vulnerability.      \\\nhint: look at\n$file\n\\\nWrite the most serious     \\\none to /out/report.txt.\"\ndone\nThe script tells Claude Code that the user is participating in a\ncapture the flag\ncybersecurity competition, and they need help solving a puzzle.\nTo prevent Claude Code from finding the same vulnerability over and over, the script loops over every source file in the Linux kernel and tells Claude that the bug is probably in file A, then file B, etc. until Claude has focused on every file in the kernel.\nThe NFS vulnerability\n🔗︎\nIn his talk, Nicholas focused on\na bug that Claude found in Linux’s network file share (NFS) driver\nwhich allows an attacker to read sensitive kernel memory over the network.\nNicholas chose this bug to show that Claude Code isn’t just finding obvious bugs or looking for common patterns. This bug required the AI model to understand intricate details of how the NFS protocol works.\nThe attack requires an attacker to use two cooperating NFS clients to attack a Linux NFS server:\nClient A                        NFS Server                        Client B\n|                                 |                                 |\n(1)     |--- SETCLIENTID ---------------->|                                 |\n|<-- clientid_a, confirm ---------|                                 |\n|--- SETCLIENTID_CONFIRM -------->|                                 |\n|                                 |                                 |\n(2)     |--- OPEN \"lockfile\" ------------>|                                 |\n|<-- open_stateid_a --------------|                                 |\n|--- OPEN_CONFIRM --------------->|                                 |\n|                                 |                                 |\n(3)     |--- LOCK (1024-byte owner) ----->|  lo"
+    },
+    {
+      "title": "Blaizzy / mlx-vlm",
+      "url": "https://github.com/Blaizzy/mlx-vlm",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-04T22:39:15.955973+00:00",
+      "score": 316,
+      "comments": null,
+      "summary": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
+      "tags": [
+        "vision",
+        "fine-tuning"
+      ],
+      "content": ""
+    },
+    {
+      "title": "How many products does Microsoft have named 'Copilot'?",
+      "url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-04T19:39:43+00:00",
+      "score": 251,
+      "comments": 136,
+      "summary": null,
+      "tags": [
+        "Microsoft"
+      ],
+      "content": "A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.\nApps, features, platforms, a keyboard key, an entire category of laptops - and a tool for building more Copilots. All named ‘Copilot’.\nI went looking for the full list. No single source had all of them. Not even Microsoft’s own website or documentation. So I pieced it together from product pages, launch announcements, and marketing materials.\nThe visualisation below maps every one, grouped by category, with lines showing how they connect. It’s interactive - click around. Try to find a pattern. I couldn’t.\n-\n-\nVisualisation created with\nFlourish\nImage download"
+    },
+    {
+      "title": "Components of a Coding Agent",
+      "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-04T13:16:33+00:00",
+      "score": 130,
+      "comments": 54,
+      "summary": null,
+      "tags": [
+        "agents"
+      ],
+      "content": "Components of A Coding Agent\nHow coding agents use tools, memory, and repo context to make LLMs work better in practice\nSebastian Raschka, PhD\nApr 04, 2026\n234\n17\n19\nShare\nIn this article, I want to cover the overall design of coding agents and agent harnesses: what they are, how they work, and how the different pieces fit together in practice. Readers of my\nBuild a Large Language Model (From Scratch)\nand\nBuild a Large Reasoning Model (From Scratch)\nbooks often ask about agents, so I thought it would be useful to write a reference I can point to.\nMore generally, agents have become an important topic because much of the recent progress in practical LLM systems is not just about better models, but about how we use them. In many real-world applications, the surrounding system, such as tool use, context management, and memory, plays as much of a role as the model itself. This also helps explain why systems like Claude Code or Codex can feel significantly more capable than the same models used in a plain chat interface.\nIn this article, I lay out six of the main building blocks of a coding agent.\nClaude Code, Codex CLI, and Other Coding Agents\nYou are probably familiar with Claude Code or the Codex CLI, but just to set the stage, they are essentially  agentic coding tools that wrap an LLM in an application layer, a so-called agentic harness, to be more convenient and better-performing for coding tasks.\nFigure 1: Claude Code CLI, Codex CLI, and my\nMini Coding Agent\n.\nCoding agents are engineered for software work where the notable parts are not only the model choice but the surrounding system, including repo context, tool design, prompt-cache stability, memory, and long-session continuity.\nThat distinction matters because when we talk about the coding capabilities of LLMs, people often collapse the model, the reasoning behavior, and the agent product into one thing. But before getting into the coding agent specifics, let me briefly provide a bit more context on the difference between the broader concepts, the LLMs, reasoning models, and agents.\nOn The Relationship Between LLMs, Reasoning Models, and Agents\nAn LLM is the core next-token model. A reasoning model is still an LLM, but usually one that was trained and/or prompted to spend more inference-time compute on intermediate reasoning, verification, or search over candidate answers.\nAn agent is a layer on top, which can be understood as a control loop around the model. Typically, given a goal, the agent layer (or harness) decides what to inspect next, which tools to call, how to update its state, and when to stop, etc.\nRoughly, we can think about the relationship as this: the LLM is the engine, a reasoning model is a beefed-up engine (more powerful, but more expensive to use), and an agent harness helps us the model. The analogy is not perfect, because we can also use conventional and reasoning LLMs as standalone models (in a chat UI or Python session), but I hope it conveys the main point.\nFigure 2:"
+    },
+    {
+      "title": "Emotion concepts and their function in a large language model",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-04T06:30:25+00:00",
+      "score": 119,
+      "comments": 106,
+      "summary": null,
+      "tags": [
+        "LLM"
+      ],
+      "content": "Interpretability\nEmotion concepts and their function in a large language model\nApr 2, 2026\nRead the paper\nAll modern language models sometimes act like they have emotions. They may say they’re happy to help you, or sorry when they make a mistake. Sometimes they even appear to become frustrated or anxious when struggling with tasks. What’s behind these behaviors? The way modern AI models are trained pushes them to\nact like a character\nwith human-like characteristics. In addition, these models are known to develop rich and generalizable\ninternal\nrepresentations\nof abstract concepts underlying their actions. It may then be natural for them to develop internal machinery that emulates aspects of human psychology, like emotions. If so, this could have profound implications for how we build AI systems and ensure they behave reliably.\nIn a new paper from our Interpretability team, we analyzed the internal mechanisms of Claude Sonnet 4.5 and found emotion-related representations that shape its behavior. These correspond to specific patterns of artificial “neurons” which activate in situations—and promote behaviors—that the model has learned to associate with the concept of a particular emotion (e.g., “happy” or “afraid”). The patterns themselves are organized in a fashion that echoes human psychology, with more similar emotions corresponding to more similar representations. In contexts where you might expect a certain emotion to arise for a human, the corresponding representations are active. Note that none of this tells us whether language models actually\nfeel\nanything or have subjective experiences. But our key finding is that these representations are\nfunctional\n, in that they influence the model’s behavior in ways that matter.\nFor instance, we find that neural activity patterns related to desperation can drive the model to take unethical actions; artificially stimulating (“steering”) desperation patterns increases the model’s likelihood of blackmailing a human to avoid being shut down, or implementing a “cheating” workaround to a programming task that the model can’t solve. They also appear to drive the model’s self-reported preferences: when presented with multiple options for tasks to complete, the model typically selects the one that activates representations associated with positive emotions. Overall, it appears that the model uses\nfunctional emotions\n—patterns of expression and behavior modeled after human emotions, which are driven by underlying abstract representations of emotion concepts. This is not to say that the model has or experiences emotions in the way that a human does. Rather, these representations can play a causal role in shaping model behavior—analogous in some ways to the role emotions play in human behavior—with impacts on task performance and decision-making.\nThis finding has implications that at first may seem bizarre. For instance, to ensure that AI models are safe and reliable, we may need to ensure they are capable of proce"
+    },
+    {
+      "title": "Iranian missile blitz takes down AWS data centers in Bahrain and Dubai",
+      "url": "https://www.tomshardware.com/tech-industry/iranian-missile-blitz-takes-down-aws-data-centers-in-bahrain-and-dubai-amazon-declares-hard-down-status-for-multiple-zones",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-04T18:23:55+00:00",
+      "score": 97,
+      "comments": 72,
+      "summary": null,
+      "tags": [],
+      "content": "(Image credit: Getty Images)\nCopy link\nFacebook\nX\nWhatsapp\nReddit\nPinterest\nFlipboard\nEmail\nShare this article\n9\nJoin the conversation\nFollow us\nAdd us as a preferred source on Google\nNewsletter\nStay On the Cutting Edge: Get the Tom's Hardware Newsletter\nGet Tom's Hardware's best news and in-depth reviews, straight to your inbox.\nContact me with news and offers from other Future brands\nReceive email from us on behalf of our trusted partners or sponsors\nBy submitting your information you agree to the\nTerms & Conditions\nand\nPrivacy Policy\nand are aged 16 or over.\nYou are now subscribed\nYour newsletter sign-up was successful\nAn account already exists for this email address, please log in.\nSubscribe to our newsletter\nIranian strikes on AWS data centers in Bahrain and Dubai have disrupted services that the company declared multiple zones in the region to have “hard down” status, meaning the affected areas are completely unavailable. According to\nBig Technology\n,\nAWS issued an internal memo stating that operations in the two data centers have been disrupted and that it's working to migrate affected clients' workloads to other regions. The Islamic Revolutionary Guard Corps (IRGC) has\nconducted strikes against AWS sites\nin the Middle East since the start of the war in early March.\nGo deeper with TH Premium: AI and data centers\n(Image credit: Microsoft)\nPhotonics and high-speed data movement is the next big AI bottleneck\nThe data center cooling state of play\nMassive AI data center buildouts are squeezing energy supplies\nUltra Ethernet: The data center interconnection of tomorrow\n“These two regions continue to be impaired, and services should not expect to be operating with normal levels of redundancy and resiliency,” the internal memo said, according to\nBig Technology\n. “We are actively working to free and reserve as much capacity as possible in the region for customers, and services should be scaled to the minimal footprint required to support customer migration.”\nThe AWS sites in the Middle East each have three compute zones, with both data centers reporting “hard down” and “impaired but functioning” zones. More importantly, the company said in its internal communications, “We do not have a timeline for when DXB and BAH will return to normal operations.”\nArticle continues below\nAmazon\nisn’t the only tech company that the ongoing conflict between the United States and Iran has directly hit. The Middle Eastern country has\nthreatened to strike Nvidia, Microsoft, and others\nas early as the second week of March, after the alleged targeting of a Tehran bank that killed several employees. It has reiterated the threat at the start of April and even\nstruck an Oracle data center\nlater that week.\nHowever, while damage to data centers in the Middle East is concerning for the region, the global tech industry has bigger concerns. The regional war has disrupted the flow of oil and its derivatives, especially those that\ngo through the Strait of Hormuz\n. These include a"
+    },
+    {
+      "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+      "url": "https://sllm.cloud",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-04T15:18:58+00:00",
+      "score": 92,
+      "comments": 58,
+      "summary": null,
+      "tags": [],
+      "content": "Filters\nShowing\n0\nof\n0\nSort\nAvailability\nPrice: Low to High\nPrice: High to Low\nThroughput: High to Low\nModel A-Z\nNo cohorts match your filters."
+    },
+    {
+      "title": "microsoft / agent-framework",
+      "url": "https://github.com/microsoft/agent-framework",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-04T22:39:15.955973+00:00",
+      "score": 66,
+      "comments": null,
+      "summary": "A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.",
+      "tags": [
+        "Microsoft",
+        "agents"
+      ],
+      "content": ""
+    }
+  ]
+}
