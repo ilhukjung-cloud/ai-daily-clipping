@@ -1,0 +1,657 @@
+{
+  "date": "2026-04-11",
+  "crawled_at": "2026-04-11T07:48:28+09:00",
+  "stats": {
+    "total_raw": 1118,
+    "after_filter": 70,
+    "after_dedup": 50,
+    "by_source_type": {
+      "community": 12,
+      "media": 20,
+      "official": 18
+    }
+  },
+  "articles": [
+    {
+      "title": "Research with ChatGPT",
+      "url": "https://openai.com/academy/search-and-deep-research",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to research with ChatGPT using search and deep research to find up-to-date information, analyze sources, and generate structured insights.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Working with files in ChatGPT",
+      "url": "https://openai.com/academy/working-with-files",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to upload and work with files in ChatGPT to analyze data, summarize documents, and generate content from PDFs, spreadsheets, and more.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Using custom GPTs",
+      "url": "https://openai.com/academy/custom-gpts",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to build and use custom GPTs to automate workflows, maintain consistent outputs, and create purpose-built AI assistants.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Analyzing data with ChatGPT",
+      "url": "https://openai.com/academy/data-analysis",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to analyze data with ChatGPT by exploring datasets, generating insights, creating visualizations, and turning findings into actionable decisions.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Prompting fundamentals",
+      "url": "https://openai.com/academy/prompting",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn prompting fundamentals and how to write clear, effective prompts to get better, more useful responses from ChatGPT.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "ChatGPT for research",
+      "url": "https://openai.com/academy/research",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to use ChatGPT for research to gather sources, analyze information, and create structured, citation-backed insights.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Using skills",
+      "url": "https://openai.com/academy/skills",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to create and use ChatGPT skills to build reusable workflows, automate recurring tasks, and ensure consistent, high-quality outputs.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Applications of AI at OpenAI",
+      "url": "https://openai.com/academy/applications-of-ai",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Explore how OpenAI products like ChatGPT, Codex, and APIs bring AI into real-world use for work, development, and everyday tasks.",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": ""
+    },
+    {
+      "title": "Brainstorming with ChatGPT",
+      "url": "https://openai.com/academy/brainstorming",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to use ChatGPT to brainstorm ideas, organize thinking, and turn rough concepts into structured, actionable plans.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "ChatGPT for finance teams",
+      "url": "https://openai.com/academy/finance",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how finance teams use ChatGPT to streamline reporting, analyze data, improve forecasts, and communicate insights more clearly.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Financial services",
+      "url": "https://openai.com/academy/financial-services",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Explore AI resources for financial services, including prompt packs, GPTs, guides, and tools to help institutions deploy and scale AI securely.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Personalizing ChatGPT",
+      "url": "https://openai.com/academy/personalization",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to personalize ChatGPT using custom instructions and memory to get more relevant, consistent, and tailored responses.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Using projects in ChatGPT",
+      "url": "https://openai.com/academy/projects",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to use orojects in ChatGPT to organize chats, files, and instructions, manage ongoing work, and collaborate more effectively.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Healthcare",
+      "url": "https://openai.com/academy/healthcare",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Explore how clinicians use ChatGPT to support diagnosis, documentation, and patient care with secure, HIPAA-compliant AI tools.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Responsible and safe use of AI",
+      "url": "https://openai.com/academy/responsible-and-safe-use",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how to use AI responsibly with best practices for safety, accuracy, and transparency when using tools like ChatGPT.",
+      "tags": [
+        "safety"
+      ],
+      "content": ""
+    },
+    {
+      "title": "ChatGPT for customer success teams",
+      "url": "https://openai.com/academy/customer-success",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-10T00:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Learn how customer success teams use ChatGPT to manage accounts, improve communication, reduce churn, and drive adoption and renewals.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "url": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "source_type": "official",
+      "source_name": "NVIDIA Blog",
+      "published_at": "2026-04-10T19:40:59+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "This National Robotics Week, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond. Advancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual […]",
+      "tags": [
+        "NVIDIA",
+        "robotics"
+      ],
+      "content": "This\nNational Robotics Week\n, NVIDIA is highlighting the breakthroughs that are bringing AI into the physical world — as well as the growing wave of robots transforming industries, from agricultural and manufacturing to energy and beyond.\nAdvancements in robot learning, simulation and foundation models are accelerating development, enabling robots to move from training in virtual environments to real-world deployment faster than ever.\nWith NVIDIA platforms for\nsimulation\n,\nsynthetic data\nand\nAI-powered robot learning\n, developers now have the tools to build machines that can perceive, reason and act in complex environments.\nCheck back here all week for coverage on the latest NVIDIA\nphysical AI\ntechnologies.\nFrom Words to Motion: NVIDIA NemoClaw Brings Natural Language Commands to Isaac Sim\n🔗\nNVIDIA Omniverse developer Umang Chudasama has\nintegrated\nNVIDIA NemoClaw with\nNVIDIA Isaac Sim\nto navigate a Nova Carter autonomous robot using plain natural language commands — no manual coding required. NemoClaw translates text instructions (like “move two meters forward”) into executable Python scripts, which are then sent to Isaac Sim via a custom REST application programming interface in real time.\nhttps://blogs.nvidia.com/wp-content/uploads/2026/04/nemoclaw-isaacsim.mp4\nThe entire system runs within Isaac Sim, giving the robot a realistic, physics-accurate warehouse environment to operate in before ever touching the real world. Pairing Isaac Sim with NemoClaw means faster development, safer testing and a smarter path to deployment. Rather than programming robots line by line, developers can now simply talk to them, marking a meaningful shift toward truly collaborative, language-driven robotics.\nOceanSim: A GPU-Accelerated Underwater Robot Perception Simulation Framework\n🔗\nUnderwater simulators are crucial for developing reliable perception systems, but they still struggle with accurate physics‑based sensor modeling and fast rendering.\nHelping close this gap is\nOceanSim\n, a GPU‑accelerated, high‑fidelity simulator developed by researchers at the University of Michigan. It uses advanced physics‑based rendering techniques to make synthetic underwater images look more realistic. Using GPUs, the simulator can render imaging sonar in real time and generate synthetic data quickly.\nOceanSim uses\nNVIDIA Isaac Sim\nand plugs into\nNVIDIA Omniverse\nlibraries, creating a seamless link between robot‑learning research and underwater robotics. This integration lets developers easily develop and deploy embodied AI techniques for underwater applications.\nRoboLab: Benchmarking the Next Generation of Generalist Robots\n🔗\nRoboLab\nis a high-fidelity simulation benchmark for developing and evaluating generalist robot policies — powering systems designed to perform diverse tasks across environments.\nhttps://blogs.nvidia.com/wp-content/uploads/2026/04/Put_the_onion_in_the_wood_bowl_0_viewport_3X.mp4\nBuilt on\nNVIDIA Isaac\nand\nNVIDIA Omniverse\nsimulation technologies, RoboLab taps"
+    },
+    {
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-10T09:22:06+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor of a \"writing tools\" menu. The Copilot button in the Snipping Tool app also no longer appears when you select an area to […]",
+      "tags": [
+        "Microsoft"
+      ],
+      "content": "News\nAI\nTech\nMicrosoft starts removing Copilot buttons from Windows 11 apps\nThe unnecessary Copilot buttons are disappearing from Notepad, Snipping Tool, Photos, and Widgets.\nThe unnecessary Copilot buttons are disappearing from Notepad, Snipping Tool, Photos, and Widgets.\nby\nTom Warren\nApr 10, 2026, 9:22 AM UTC\nLink\nShare\nGift\nScreenshot by Tom Warren / The Verge\nTom Warren\nis a senior editor and author of\nNotepad\n, who has been covering all things Microsoft, PC, and tech for over 20 years.\nMicrosoft is\nstarting to remove\n“unnecessary” Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor of a “writing tools” menu. The Copilot button in the Snipping Tool app also no longer appears when you select an area to capture.\nThe change is part of “reducing unnecessary Copilot entry points, starting with apps like Snipping Tool, Photos, Widgets and Notepad,” that Microsoft promised to complete as part of its broader\nplan to fix Windows 11\n. While Copilot buttons are being removed, it looks like the underlying AI features are here to stay, though.\nThe Copilot button in Notepad is going away, but the AI features will remain.\nScreenshots by Tom Warren / The Verge\nThe Copilot button has been removed from Notepad, but the writing tools replacement still uses AI-powered features and looks like the identical menu of options that existed before. I still think these features are largely unnecessary in what’s supposed to be a lightweight text app, but removing the superfluous Copilot branding is a good first step.\nI’m now waiting to see if Microsoft decides to remove the\nCopilot button requirement\nfrom laptop keyboards, or whether it will go further and remove the other\nunnecessary Copilot buttons\nthat it has added into\nvarious parts\nof Windows 11 in recent months.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nTom Warren\nAI\nMicrosoft\nNews\nTech\nWindows\nMost Popular\nMost Popular\nThe MacBook Neo is the best thing to happen to Windows in years\nI tested three Windows laptops in the MacBook Neo’s price range — there’s no contest\nContinuous glucose monitoring made me continuously crazy\nMicrosoft starts removing Copilot buttons from Windows 11 apps\nYouTube Premium is getting pricier\nThe Verge Daily\nA free daily digest of the news that matters most.\nEmail (required)\nSign Up\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nAdvertiser Content From\nThis is the title for the native ad"
+    },
+    {
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-10T20:16:57+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect's description was seen making threats outside OpenAI's […]",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "AI\nNews\nTech\n20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman’s house\n﻿The suspect allegedly made threats outside OpenAI’s offices later Friday morning.\n﻿The suspect allegedly made threats outside OpenAI’s offices later Friday morning.\nby\nStevie Bonifield\nApr 10, 2026, 8:16 PM UTC\nLink\nShare\nGift\nPhoto: Justin Sullivan via Getty Images\nStevie Bonifield\nis a news writer covering all things consumer tech. Stevie started out at Laptop Mag writing news and reviews on hardware, gaming, and AI.\nSan Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman’s Russian Hill house early Friday morning,\nThe San Francisco Standard\nreports. The incident was caught on surveillance cameras shortly before 7AM ET. Later that morning, someone matching the suspect’s description was seen making threats outside OpenAI’s Mission Bay offices, where he was arrested around 9AM ET.\nOpenAI spokesperson Jamie Radice confirmed the incident in a statement to\nThe Verge\n, saying, “Thankfully, no one was hurt. We deeply appreciate how quickly SFPD responded and the support from the city in helping keep our employees safe. The individual is in custody, and we’re assisting law enforcement with their investigation.”\nThe San Francisco police department shared\na post on X\non Friday about what appears to be the same incident, stating that the suspect was “threatening to burn down the building” outside a business in “the 1400 block of 3rd street.” OpenAI’s headquarters are located at 1455 3rd Street. According to the post, the investigation is ongoing and “charges are still pending at this time.” The SFPD did not immediately respond to a request for comment.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nStevie Bonifield\nAI\nNews\nOpenAI\nTech\nMost Popular\nMost Popular\nThe MacBook Neo is the best thing to happen to Windows in years\nI tested three Windows laptops in the MacBook Neo’s price range — there’s no contest\nContinuous glucose monitoring made me continuously crazy\nMicrosoft starts removing Copilot buttons from Windows 11 apps\nYouTube Premium is getting pricier\nThe Verge Daily\nA free daily digest of the news that matters most.\nEmail (required)\nSign Up\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nAdvertiser Content From\nThis is the title for the native ad"
+    },
+    {
+      "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-10T20:27:52+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "“Yeah folks, it’s gonna be harder in the future to ensure OpenClaw still works with Anthropic models,” OpenClaw creator Peter Steinberger\nposted on X early Friday morning\n, along with a photo of a message from Anthropic saying his account had been suspended over “suspicious” activity.\nThe ban didn’t last long. A few hours later, after the post went viral, Steinberger said his account had been reinstated. Among hundreds of comments — many of them in conspiracy theory land, given that Steinberger is\nnow employed\nby Anthropic rival OpenAI — was one by an Anthropic engineer. The engineer told the famed developer that Anthropic has never banned anyone for using OpenClaw and offered to help.\nYeah folks, it's gonna be harder in the future to ensure OpenClaw still works with Anthropic models.\npic.twitter.com/U6F8GZvPcH\n— Peter Steinberger 🦞 (@steipete)\nApril 10, 2026\nIt’s not clear if that was the key that restored the account. (We’ve asked Anthropic about it.) But the whole message string was enlightening on many levels.\nTo recap the recent history: This ban followed news last week that\nsubscriptions to Anthropic’s Claude would no longer cover\n“third-party harnesses including OpenClaw,” the AI model company said.\nOpenClaw users now have to pay for that usage separately, based on consumption, through Claude’s API. In essence, Anthropic, which offers its own agent, Cowork, is now charging a “claw tax.” Steinberger said he was following this new rule and using his API but was banned anyway.\nAnthropic said it instituted the pricing change because subscriptions weren’t built to handle the “usage patterns” of claws. Claws can be\nmore compute-intensive\nthan prompts or simple scripts because they may run continuous reasoning loops, automatically repeat or retry tasks, and tie into a lot of other third-party tools.\nSteinberger, however, wasn’t buying that excuse. After Anthropic changed the pricing,\nhe posted\n, “Funny how timings match up, first they copy some popular features into their closed harness, then they lock out open source.” Though he didn’t specify, he may have been referring to features added to Claude’s Cowork agent, such as Claude Dispatch,\nwhich lets users remotely control agents and assign tasks\n. Dispatch rolled out a couple of weeks before Anthropic changed its OpenClaw pricing policy.\nSteinberger’s frustration with Anthropic was again on display Friday.\nOne person implied that some of this is on him for taking a job at OpenAI instead of Anthropic, posting, “You had the choice, but you went to the wrong one.” To which Steinberger replied: “One welcomed me, one sent legal threats.”\nOuch\n.\nWhen multiple people asked him why he’s using Claude instead of his employer’s models at all, he explained that he only uses it for testing, to ensure updates to OpenClaw won’t break things for Claude users.\nHe explained: “You need to separate two things. My work at the OpenClaw Foundation where we wanna make OpenClaw work great for *any* model provider, and m"
+    },
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-10T16:41:34+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "OpenAI ignored three warnings that a ChatGPT user was dangerous — including its own mass-casualty flag — while he stalked and harassed his ex-girlfriend, a new lawsuit alleges.",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "After months of conversations with ChatGPT,  a 53-year-old Silicon Valley entrepreneur became convinced he’d discovered a cure for sleep apnea and that powerful people were coming after him, according to a new lawsuit filed in California Superior Court in San Francisco County. He then allegedly used the tool to stalk and harass his ex-girlfriend.\nNow the ex-girlfriend is suing OpenAI, alleging the company’s technology enabled the acceleration of her harassment, TechCrunch has exclusively learned. She claims OpenAI ignored three separate warnings that the user posed a threat to others, including an internal flag classifying his account activity as involving mass-casualty weapons.\nThe plaintiff, referred to as Jane Doe to protect her identity, is suing for punitive damages. She also filed a temporary restraining order Friday asking the court to force OpenAI to block the user’s account, prevent him from creating new ones, notify her if he attempts to access ChatGPT, and preserve his complete chat logs for discovery.\nOpenAI has agreed to suspend the user’s account but has refused the rest, according to Doe’s lawyers. They say the company is withholding information about specific plans for harming Doe and other potential victims the user may have discussed with ChatGPT.\nThe lawsuit lands amid growing concern over the real-world risks of sycophantic AI systems. GPT-4o, the model cited in this and many other cases, was\nretired from ChatGPT in February\n.\nThe case is brought by Edelson PC, the firm behind the wrongful death suits involving teenager\nAdam Raine\n, who died by suicide after months of conversations with ChatGPT, and\nJonathan Gavalas\n, whose family alleges Google’s Gemini fueled his delusions and potential mass-casualty event before his death. Lead attorney Jay Edelson has warned that AI-induced psychosis is escalating from\nindividual harm toward mass-casualty events\n.\nThat legal pressure is now colliding directly with OpenAI’s legislative strategy: The company is\nbacking an Illinois bill\nthat would shield AI labs from liability even in cases involving mass deaths or catastrophic financial harm.\nTechcrunch event\nThis Week Only: Save up to $500 for Disrupt 2026\nOffer ends April 10, 11:59 p.m. PT\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to secure these savings.\nThis Week Only: Save up to $500 for Disrupt 2026\nOffer ends April 10, 11:59 p.m. PT\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to secure these savings.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nOpenAI did not respond in time to c"
+    },
+    {
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-10T16:38:43+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.",
+      "tags": [
+        "robotics"
+      ],
+      "content": "TechCrunch is partnering with\nSusHi Tech Tokyo 2026\n, Asia’s largest global innovation conference, taking place April 27–29 at Tokyo Big Sight. And we’re not just showing up to cover it — our very own Startup Battlefield program manager, Isabelle Johannessen, will be on the ground as a judge for the SusHi Tech Challenge, the conference’s flagship global pitch competition.\nFor the winner, the stakes couldn’t be higher: The SusHi Tech Challenge Grand Prix recipient will be automatically entered into the TechCrunch Disrupt Startup Battlefield Top 200 — making them eligible to pitch on one of the most coveted stages in the startup world.\nImage Credits:\nKimberly White / Getty Images\nWhat is SusHi Tech Tokyo?\nNow in its fourth year,\nSusHi Tech Tokyo\n— short for\nSus\ntainable\nHi\ngh City Tech Tokyo — has grown into the largest innovation conference in Asia, drawing startups, investors, corporate partners, and city leaders from around the world. This year’s edition is the biggest yet: 750 startup exhibitors from 60 countries, more than 10,000 facilitated business meetings, and an expected 60,000 attendees across three days.\nThe conference is organized by the Tokyo Metropolitan Government with a clear mission: bring together the world’s best innovators to build the sustainable cities of the future.\nOn the expo floor, 62 corporate partners — including Sony, Google, Microsoft, and Mizuho — are hosting reverse pitches and actively seeking startup collaborators, making it as much a live dealmaking marketplace as a conference. And the programming reflects that ambition.\nFour domains at the frontier\nSusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving’s software revolution, deep dives into cyber defense and climate tech, and candid conversations about how AI is rewriting the global music and anime industries.\nSpeakers include Howard Wright (Nvidia), Rob Chu (AWS), Eva Chen (Trend Micro), Qasar Younis (Applied Intuition), Christine Tsai (500 Global), Kathy Matsui (MPower Partners), and Tokyo governor Yuriko Koike, among many others. Roughly 60% of speakers come from outside Japan, and approximately half are women.\nTechcrunch event\nThis Week Only: Save up to $500 for Disrupt 2026\nOffer ends April 10, 11:59 p.m. PT\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to secure these savings.\nThis Week Only: Save up to $500 for Disrupt 2026\nOffer ends April 10, 11:59 p.m. PT\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining in"
+    },
+    {
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-10T14:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "This is it. Tonight is your last chance to lock in savings of up to $500 for your TechCrunch Disrupt 2026 pass. These discounts end at 11:59 p.m. PT.",
+      "tags": [],
+      "content": "This is it. The clock is running out. Tonight is your last chance to lock in savings of up to $500 for your\nTechCrunch Disrupt 2026\npass. These discounts end at 11:59 p.m. PT.\nRegister here to secure yours with the limited-time offer.\nWhat Disrupt delivers year after year\nThis year,\nDisrupt\ntakes over San Francisco’s Moscone West from October 13–15, bringing together 10,000 founders, VCs, operators, and tech leaders for a tightly curated, three-day experience focused on real outcomes.\nAttendees return for:\nHigh-signal access to people actively building and investing.\nConversations that turn into deals, partnerships, and hires.\nTactical insights you can use immediately.\nA front-row view into the future of tech before it breaks mainstream.\nWith\n300+ startups\nexpected to showcase their innovations across the venue, the intensity of the live pitch competition\nStartup Battlefield 200\n, and curated networking designed to drive results, Disrupt isn’t just another conference. It’s where momentum is built.\nImage Credits:\nEric Slomonson, The Photo Group\nA more curated way to experience a tech event\nDisrupt isn’t about wandering between sessions. It’s about intentional connections and curated experiences designed for how people actually grow in tech. If you’re hands-on in tech, Disrupt was built for you.\nFounders meet investors actively backing breakthrough ideas. VCs cut through the noise to discover startups aligned with their investment focus. Operators exchange real-world lessons on building, scaling, and shipping what’s next. Aspiring innovators get a front-row seat to tomorrow’s tech.\nTechcrunch event\nThis Week Only: Save up to $500 for Disrupt 2026\nOffer ends April 10, 11:59 p.m. PT\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to secure these savings.\nThis Week Only: Save up to $500 for Disrupt 2026\nOffer ends April 10, 11:59 p.m. PT\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to secure these savings.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nImage Credits:\nTechCrunch\nInsights delivered straight to you from tech’s top voices\nEach Disrupt brings together 250+ of the most influential names in tech, leaders who have shaped the industry and continue to define what’s next. Keep an eye on the\nDisrupt 2026 event page\nas the agenda goes live to see who will take the stage this year. Past speakers include:\nChris Barman\n, CEO,\nSlate Auto\n.\nMary Barra\n, CEO,\nGeneral Motors\n.\nRoelof Botha\n, managing partner,\nSequoia Capital\n.\nPhoebe Gates\nand\nSophia Kianni\n, co-founders,\nPhia\n.\nVinod Khosla\n, founder,\nKhosl"
+    },
+    {
+      "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-10T17:30:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Donald Trump has spun the recent rescue of a downed airman whose fighter jet was destroyed behind Iranian borders as a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US […]",
+      "tags": [],
+      "content": "AI\nEntertainment\nPolicy\nThe Iranian Lego AI video creators credit their virality to ‘heart’\n﻿Explosive Media is going up against the White House in a meme war.\nby\nCharles Pulliam-Moore\nApr 10, 2026, 5:30 PM UTC\nLink\nShare\nGift\nImage: Explosive Media\nCharles Pulliam-Moore\nis a reporter focusing on film, TV, and pop culture. Before The Verge, he wrote about comic books, labor, race, and more at io9 and Gizmodo for almost five years.\nDonald Trump has spun the\nrecent rescue of a downed airman\nwhose fighter jet was\ndestroyed behind Iranian borders\nas a resounding success. But the story is very different in one of the many viral, AI-generated Lego videos that have been produced by Iranian content creation group Explosive Media in the weeks since the US and Israel began dropping bombs on the country. In Explosive Media’s music video take on how things played out, the US military is a joke for\nlosing multiple planes and helicopters\n, and spending “$100 million just to save one guy.”\nThe video’s shots of Lego jets exploding into $100 bills and golden coins reinforce the idea that the US is wasting taxpayer dollars just to be outmaneuvered by Iranian forces. And the accompanying AI-generated lyrics send a clear message about Iran being ready to do it all again\nif and when the US strikes next\n.\nExplosive Media’s content plainly reads as propaganda. But the simplicity of its messaging has helped turn the group’s videos to a viral phenomenon. The videos are being shared across the internet, and people — many of them located within the US — are praising them for the way\nthey humiliate Trump\nand urge viewers to remember that\nbefore this war began\n, the Trump administration was busy downplaying the president’s\nties to Jeffrey Epstein\n. On TikTok, unofficial uploads of the videos have racked up thousands of comments from people cheering Explosive Media on and saying that their videos and surprisingly catchy AI songs are more informative than what’s being reported by Western outlets.\nBy playing into the public’s disdain for Trump and his peers, groups like Explosive Media are helping Iran win a meme-fueled war of ideas and perceptions. And at a time when the White House has tried to present itself as having a deep understanding of how to shape online discourse, it seems very much like the Iranians have Trump outgunned.\nExplosive Media’s official YouTube and Instagram pages were both recently taken down — YouTube says that their videos violated\nthe platform’s policies\nregarding spam, deceptive practices, and scams. But it’s not hard to find the group’s AI-generated shorts lambasting the US and Israel’s attacks on Iran. Even if you aren’t keeping up with news about the war, you’ve probably seen some of Explosive Media’s work while doomscrolling through X or TikTok. The way Explosive Media has been consistently putting out new videos almost every day that explicitly comment on recent events —\ndespite the internet blackout\n— makes the group seem like it could be a lar"
+    },
+    {
+      "title": "Fear and loathing at OpenAI",
+      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-10T12:23:18+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman, his time at OpenAI, and the questions […]",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "Podcasts\nAI\nTech\nFear and loathing at OpenAI\nOn The Vergecast: what it takes to be in charge of AI, some vibe-coding and DIY work, and Brendan Carr.\nOn The Vergecast: what it takes to be in charge of AI, some vibe-coding and DIY work, and Brendan Carr.\nby\nDavid Pierce\nApr 10, 2026, 12:23 PM UTC\nLink\nShare\nGift\nDavid Pierce\nis editor-at-large and Vergecast co-host with over a decade of experience covering consumer tech. Previously, at Protocol, The Wall Street Journal, and Wired.\nSam Altman’s tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week,\nThe New Yorker\npublished a deep look at Altman\n, his time at OpenAI, and the questions about whether he’s the right person to be in charge of a technology as important and transformative as artificial intelligence.\nVerge\nsubscribers, don’t forget you get exclusive access to ad-free\nVergecast\nwherever you get your podcasts. Head\nhere\n. Not a subscriber? You can\nsign up here\n.\nOn\nthis episode of\nThe Vergecast\n, David and Nilay discuss OpenAI, the profile, Altman, and everything. Eventually. First, they have some projects to talk about. Nilay has finally concluded his journey to turn an iMac into a monitor, though he ran into a few snags along the way. David managed to vibe-code the productivity app of his dreams, though not before accidentally tapping into someone else’s dreams. The hosts compare notes on their projects, their Claude Code experience, and where this whole vibe-coding thing might be headed.\nAfter that, it’s OpenAI time. We discuss all the ways in which Altman is just an exceedingly normal businessman, and all the reasons AI either does or doesn’t demand a different kind of leader. Your answer to that question almost certainly depends on just how big a deal you think AI will be.\nFinally, in the lightning round, it’s time for another round of Brendan Carr is a Dummy, and\nthe latest attempt to unmask Satoshi Nakamoto\n, the creator of Bitcoin. Do\nyou\nthink it’s Adam Back?\nTwo housekeeping items:\nVote for\nThe Vergecast\nfor Best Technology Podcast in the Webby Awards! Voting closes next Thursday, thanks so much to everyone who votes.\nWe’re doing a meta-Vergecast in a couple of weeks, all about\nThe Verge\n,\nThe Vergecast\n, and whatever you want to know. Send us questions! Call the Vergecast Hotline at 866-VERGE11 or email vergecast@theverge.com.\nIf you want to know more about everything we discuss in this episode, here are some links to get you started:\nFrom\nThe New Yorker\n:\nSam Altman May Control Our Future—Can He Be Trusted?\nThe vibes are off at OpenAI\nOpenAI made economic proposals — here’s what DC thinks of them\nFrom Deadline:\nCNN Defends Reporting On Iran Statement After Trump Claims It Was Fake\nFrom\nThe New York Times:\nWho Is Satoshi Nakamoto? My Quest to Unmask Bitcoin’s Creator\nFollow topics and authors\nfrom this story to see more like"
+    },
+    {
+      "title": "Gen Z’s love-hate relationship with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-10T11:23:28+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. […]",
+      "tags": [],
+      "content": "AI\nNews\nGen Z’s love-hate relationship with AI\nA new report from Gallup found Gen Z-ers are getting angry about AI, just not angry enough to quit it.\nA new report from Gallup found Gen Z-ers are getting angry about AI, just not angry enough to quit it.\nby\nRobert Hart\nApr 10, 2026, 11:23 AM UTC\nLink\nShare\nGift\nImage: The Verge\nRobert Hart\nis a London-based reporter at\nThe Verge\ncovering all things AI and a Senior Tarbell Fellow. Previously, he wrote about health, science and tech for\nForbes\n.\nGen Z is increasingly disillusioned with AI — just not enough to stop using it.\nA new Gallup\nreport released this week\n, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggests the hype is wearing off for the digital-native generation as AI becomes more embedded in school and work. Enthusiasm is falling and resentment is growing, even as many young people feel they still need to use the technology.\nGallup’s poll, conducted in February and March this year, found Gen Z’s feelings on AI have cooled significantly since last year. Only 18 percent said they were hopeful about the technology and 22 percent said they were excited, down from 27 percent and 36 percent, respectively. At the same time, anger is growing: 31 percent of respondents said they feel angry about AI, up from 22 percent last year. Anxiety about AI has remained relatively steady at around 40 percent.\nAI has Gen Z feeling…\nImage:\nGallup\nThe perceived cost of using AI for work or school has also shifted. Almost half of Gen Z workers said they now think the risks of using AI in the workplace outweigh the benefits — up 11 points from last year — even as a majority of 56 percent acknowledged the tools will help them complete work faster. That comes with a cost, too: Eight in 10 Gen Z-ers said using AI to do work faster will make learning harder in the future.\nExcitement down, anger up.\nImage:\nGallup\nAll this hasn’t stopped Gen Z from using AI, although Gallup said “growth has slowed to a crawl.” Just over half of Gen Z-ers said they use AI at least weekly, up four points from 47 percent last year, and around half said they think they’ll need it for higher education or their future careers.\n“Gen Z isn’t rejecting AI outright, but they are reassessing its role in their lives,” said Stephanie Marken, senior partner at Gallup. “What we’re seeing in the data is a generation that recognizes AI’s utility but is increasingly concerned about its long-term impact on learning, trust, and career readiness.”\nThe findings come as AI settles into a more mature technology, with clearer consequences for a generation entering a difficult job market marked by\nmass\nlayoffs\nwhile also navigating schools and\ncolleges\nstruggling to adapt\nto the rapid proliferation of AI. All as\ndistrust about AI grows\nbetween the general public and the companies racing to build it.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nRobert "
+    },
+    {
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-09T22:57:15+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription and \"is best for longer, high-effort Codex sessions,\" OpenAI says. The company is introducing the new tier as it […]",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "AI\nNews\nOpenAI\nChatGPT has a new $100 per month Pro subscription\nThe new tier offers more usage of its Codex tool than the $20 per month Plus tier.\nThe new tier offers more usage of its Codex tool than the $20 per month Plus tier.\nby\nJay Peters\nApr 9, 2026, 10:57 PM UTC\nLink\nShare\nGift\nImage: The Verge\nJay Peters\nis a senior reporter covering technology, gaming, and more. He joined The Verge in 2019 after nearly two years at Techmeme.\nOpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers “5x more” usage of its Codex coding tool than the $20 per month Plus subscription and “is best for longer, high-effort Codex sessions,”\nOpenAI says\n.\nThe company is introducing the new tier as it tries to win over users from Anthropic and its\npopular Claude Code tool\n. ChatGPT’s $100 per month option will directly compete with Anthropic’s “Max” tier for Claude, which costs the same price. It also offers a middle ground between the $20 per month Plus tier and the $200 version of the Pro tier.\n(Yes, there are now two tiers of “Pro”; while the\nnew tier\n“still offers access to all Pro features,” OpenAI says that the more expensive one has\neven higher usage limits\n.)\nRelated\nAnthropic essentially bans OpenClaw from Claude by making subscribers pay extra\nAccording\nto OpenAI\n, ChatGPT Plus will “will continue to be the best offer at $20 for steady, day-to-day usage of Codex, and the new $100 Pro tier offers a more accessible upgrade path for heavier daily use.” OpenAI also offers an\n$8 per month Go tier\nand a free tier.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nJay Peters\nAI\nNews\nOpenAI\nMost Popular\nMost Popular\nThe MacBook Neo is the best thing to happen to Windows in years\nI tested three Windows laptops in the MacBook Neo’s price range — there’s no contest\nContinuous glucose monitoring made me continuously crazy\nMicrosoft starts removing Copilot buttons from Windows 11 apps\nYouTube Premium is getting pricier\nThe Verge Daily\nA free daily digest of the news that matters most.\nEmail (required)\nSign Up\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\nAdvertiser Content From\nThis is the title for the native ad"
+    },
+    {
+      "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+      "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+      "source_type": "media",
+      "source_name": "MIT Tech Review",
+      "published_at": "2026-04-10T14:04:20+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in…",
+      "tags": [],
+      "content": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”?\nThat’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA vaccines against flus and emerging pathogens have been dashed by vaccine skeptics in the federal government. Canceled contracts and unfriendly regulators have pushed the Massachusetts-based biotech firm to a breaking point. Last year, Robert F. Kennedy Jr., head of the Department of Health and Human Services, zeroed in on mRNA, unwinding support for dozens of projects—including a $776 million award to Moderna for a bird flu vaccine. By January, the company was warning it might have to stop late-stage programs to develop vaccines against infections altogether.\nThat raises the stakes for a second area of Moderna’s research. In a partnership with Merck, it’s been using its mRNA technology to destroy tumors through a very, very promising technique known as a cancer vacc—\n“It’s not a vaccine,” a spokesperson for Merck jumped in before the V-word could leave my mouth. “It’s an individualized neoantigen therapy.”\nOh, but it is a vaccine. And here’s how it works. Moderna sequences a patient’s cancer cells to find the ugliest, most peculiar molecules on their surface. Then it packages the genetic code for those same molecules, called neoantigens, into a shot. The patient’s immune system has its orders: Kill any cells with those yucky surface markers.\nMechanistically, it’s similar to the covid-19 vaccines. What’s different, of course, is that the patient is being immunized against a cancer, not a virus.\nAnd it looks like a possible breakthrough. This year, Moderna and Merck showed that such shots halved the chance that patients with the deadliest form of skin cancer would die from a recurrence after surgery.\nIn its formal communications, like regulatory filings, Moderna hasn’t called the shot a cancer vaccine since 2023. That’s when it partnered up with Merck and rebranded the tech as individualized neoantigen therapy, or INT. Moderna’s CEO said at the time that the renaming was to “better describe the goal of the program.” (BioNTech, the European vaccine maker that’s also working in cancer, has shifted its language too, moving from “neoantigen vaccine” in 2021 to “mRNA cancer immunotherapies” in its latest report.)\nThe logic of casting it as a therapy is that patients already have cancer—so it’s a treatment as opposed to a preventive measure. But it’s no secret what the other goal is: to distance important innovation from vaccine fearmongering, which has been inflamed by high-ranking US officials. “Vaccines are maybe a dirty word nowadays, but we still believe in the science and harnessing our immune system to not only fight infections, but hopefully to also fight … cancers,” Kyle Holen, head of Moderna’s cancer program, said last summer during BIO 2025, a big biotech event in Boston.\nNo"
+    },
+    {
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "source_type": "media",
+      "source_name": "MIT Tech Review",
+      "published_at": "2026-04-10T12:10:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations  —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series.   A spacecraft has crash-landed on a hostile planet. The only survivors…",
+      "tags": [],
+      "content": "This is today's edition of\nThe Download\n,\nour weekday newsletter that provides a daily dose of what's going on in the world of technology.\nConstellations\n—Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach series.\nA spacecraft has crash-landed on a hostile planet. The only survivors are three members of the exploration team and the ship’s AI mind.\nLittle exists on the planet except deserts of snow. But alien artifacts lie nearby, in the form of 13 domes, spread across the terrain. Linked by cables threaded through metal posts, the domes form a series of paths—the only hope for life support.\nAs the team treks across the frozen hellscape, they discover the remains of countless astronauts from unknown species who followed the same route before them. Is their trail a path to salvation, or a cosmic trap?\nRead the rest of this short story in full\n.\nThis story is from the next issue of our print magazine, packed with stories all about nature.\nSubscribe now\nto read the full thing when it lands on Wednesday, April 22.\nThe must-reads\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n1 OpenAI has joined Anthropic in curbing an AI release over security fears\nOnly select partners will get its new cybersecurity tool. (\nAxios\n)\n+ Anthropic said only yesterday that its new AI is too dangerous for the public.\n(\nNBC News\n)\n+ Top models may not be so public going forward.\n(\nBloomberg\n$)\n+ The US has summoned bank CEOs to discuss the risks.\n(\nFT\n$)\n2 Florida is investigating OpenAI over an alleged role in a shooting\nChatGPT may have helped someone plan a mass shooting in Florida. (\nWSJ\n$)\n+ OpenAI has backed a bill that would limit AI liability for deaths. (\nWired\n$)\n+ The family of a victim plans to sue the company. (\nGuardian\n)\n+ AI’s role in delusions is dividing opinion. (\nMIT Technology Review\n)\n3 Volkswagen is ditching EV production for more gasoline models\nThe carmaker will stop making its top electric vehicle in the US. (\nNYT\n$)\n+ Instead, it will concentrate on developing a new SUV.\n(\nArs Technica\n)\n+ Western carmakers are retreating from electric vehicles.\n(\nGuardian\n)\n4 Elon Musk's xAI has sued Colorado over an AI anti-discrimination law\nIt’s the first state bill of its kind. (\nBloomberg\n$)\n+ xAI says it will force the firm to “promote the state’s ideological views.”\n(\nFT\n$)\n5 A fifth of US employees say AI now does parts of their job\nThe survey found half of US adults used AI in the past week. (\nNBC News\n)\n+ Missing data could shed light on AI’s job impact.\n(\nMIT Technology Review\n)\n6 Google DeepMind’s CEO wants to automate drug design\nHe hopes to develop AI capable of curing all diseases. (\nThe Economist\n)\n+ A scientist is using AI to hunt for antibiotics.\n(\nMIT Technology Review\n)\n7 China's Unitree is launching a viral robot on the international market\nR1, its cheapest humanoid, will go on sale outside China next week. (\nSCMP\n)\n"
+    },
+    {
+      "title": "Constellations",
+      "url": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+      "source_type": "media",
+      "source_name": "MIT Tech Review",
+      "published_at": "2026-04-10T10:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.  Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which…",
+      "tags": [],
+      "content": "I.\nWe had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.\nOutside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which was inoperable but still held air. Vast storms buffeted our cockleshell shelter, although we knew from prior readings that other areas remained calm. All that remained to us was to explore, if we wanted to live. The captain gave me the sole weapon. She tasked the astrogator with carrying some tools that would not unduly weigh him down.\nLittle existed on the planet except deserts of snow. But alien artifacts lay in an area near us. We were an exploration team, so this discovery had oddly comforted us, even though we had been on our way elsewhere. The massive systems failure had no discernible source, and the planet had been our only choice for landfall.\nThe artifacts took the form of 13 domes, spread out over that hostile terrain. The domes had been linked by cables just below shoulder level, threaded through the tops of metal posts at irregular intervals. Whether intended or not, these cables and rods formed a series of paths between the domes.\nBefore our instruments failed, the AI had reported that the domes appeared to have a heat signature. The cables pulsed under our grip in a way that teased promised warmth far ahead. It took some time to get used to the feeling.\nThe shortest path between domes was a thousand miles long. The longest path was 10 thousand miles long. Our suit technology was good: A suit could recycle water, generate food, create oxygen. It could push us into various states of near hibernation while motors in the legs drove us forward. For the captain, the suit would compensate for having lost her legs and ease her pain. We estimated we could reach the nearest path and follow it to the nearest dome … and that was it. If the dome had life support capabilities, or even just a way to replenish our suits, we would live. Otherwise, we would probably die.\nWe revised the estimate of our survival downward when we reached the path and soon encountered the skeletons of dead astronauts littering the way. In all shapes and sizes, cocooned within their suits. Their huddled forms under the snow displayed a serenity at odds with their fate. But when I wiped the frost from face plates, we saw the extremity of their suffering.\nIt is difficult to explain how we felt walking among so many fatalities. So many dead first contacts.\nWe no longer had to puzzle over the systems failure. Spaceships came here to crash, and intelligent entities came here to die, for whatever reason. We could not presume our fate would be any different, and adjusted our expectations accordingly. The AI’s platitudes about courage did not raise morale. There were too many lost there in the frozen wastes.\nHere were the ghastly emissaries of hundreds of spacefarin"
+    },
+    {
+      "title": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade",
+      "url": "https://the-decoder.com/deepmind-ceo-hassabis-says-agi-will-hit-like-ten-industrial-revolutions-compressed-into-a-single-decade/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-10T19:06:18+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Deepmind CEO Demis Hassabis thinks AGI could arrive within five years and compares its impact to ten times the industrial revolution, unfolding in a tenth of the time. Yet he warns that AI is overhyped right now and still vastly underestimated over the next decade.\nThe article Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade appeared first on The Decoder.",
+      "tags": [],
+      "content": "Deepmind CEO Hassabis says AGI will hit like ten industrial revolutions compressed into a single decade\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 10, 2026\nDeepmind CEO Demis Hassabis compares the arrival of AGI to ten times the industrial revolution in a tenth of the time.\n\"I sometimes quantify AGI as 10 times the industrial revolution at 10 times the speed. So unfolding over a decade instead of a century,\" Hassabis says\nin the 20VC podcast\n. He sees a \"very good chance of it being within the next 5 years,\" an assessment that hasn't changed since 2010, when\nco-founder Shane Legg predicted\nit would take 20 years: \"I think we're pretty much on track.\"\nGetting there still requires several major advances, including continuous learning, long-term planning, better memory architectures, and greater consistency. Hassabis describes current systems as \"jagged intelligences,\" \"really amazing at certain things when you pose the question in a certain way, but if you pose a question in a slightly different way they can still fail at quite elementary things.\" Scaling continues to deliver results, \"although they're a bit less than they were at the start of all of this scaling.\"\nHassabis also points to a growing perception gap. \"Today and in the next year things are a bit overhyped in AI,\" he says. But looking further out, \"it's still very underappreciated how revolutionary this is going to be in the time scale of about 10 years.\"\nAd\nAd\nAI News Without the Hype – Curated by Humans\nSubscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section.\nSubscribe now\nSource:\n20VC\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "CIA plans to integrate AI assistants into all analysis platforms",
+      "url": "https://the-decoder.com/cia-plans-to-integrate-ai-assistants-into-all-analysis-platforms/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-10T14:10:25+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "According to CIA Deputy Director Michael Ellis, the agency recently produced its first fully autonomous intelligence report using AI, Politico reports.\nThe article CIA plans to integrate AI assistants into all analysis platforms appeared first on The Decoder.",
+      "tags": [],
+      "content": "CIA plans to integrate AI assistants into all analysis platforms\nMaximilian Schreiner\nView the LinkedIn Profile of Maximilian Schreiner\nApr 10, 2026\nAccording to CIA Deputy Director Michael Ellis, the agency recently produced its first fully autonomous intelligence report using AI, Politico reports.\nOver the next few years, AI assistants will be integrated into all of the agency's analysis platforms. These tools are meant to help analysts with tasks like drafting assessments, verifying findings, and identifying trends.\nEllis stressed that humans will continue to make the important decisions. The CIA tested 300 AI projects over the past year, covering areas like data processing and language translation. The agency's expanded Center for Cyber Intelligence, which oversees the CIA's covert hacking operations, is also set to make greater use of AI and emerging technologies.\nEllis also took an indirect shot at Anthropic, saying the CIA won't let private companies dictate how it uses their technology. Anthropic is currently in a dispute with the Pentagon after the company tried to contractually restrict its models from being used for lethal strikes and mass surveillance. The Pentagon has since classified Anthropic as a supply chain risk. Ellis also warned that China has made significant technological gains.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nSubscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section.\nSubscribe now\nSource:\nPolitico\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "Coreweave signs multi-year cloud deal with Anthropic to power Claude",
+      "url": "https://the-decoder.com/coreweave-signs-multi-year-cloud-deal-with-anthropic-to-power-claude/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-10T14:05:45+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Coreweave has signed a multi-year cloud deal with AI startup Anthropic.\nThe article Coreweave signs multi-year cloud deal with Anthropic to power Claude appeared first on The Decoder.",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "Coreweave signs multi-year cloud deal with Anthropic to power Claude\nMaximilian Schreiner\nView the LinkedIn Profile of Maximilian Schreiner\nApr 10, 2026\nCoreweave has signed a multi-year cloud deal with AI startup Anthropic.\nThe agreement will provide Anthropic with compute capacity for its Claude model family starting later this year. Financial details were not disclosed. Coreweave's stock rose more than 5 percent in premarket trading. The buildout will happen in phases, with the option to expand later.\nFor Coreweave, the Anthropic deal is part of a string of major contracts: last year, the company signed an $11.9 billion deal with OpenAI, followed by a $6.3 billion order with Nvidia in September, and just the day before, an expanded $21 billion deal with Meta. The Anthropic contract helps Coreweave diversify its revenue - until now, around 67 percent of its income came from Microsoft. Coreweave's stock is up about 29 percent year to date.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nSubscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section.\nSubscribe now\nSource:\nCoreweave\n|\nReuters\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "OpenAI tells investors its infrastructure gives it an edge over Anthropic",
+      "url": "https://the-decoder.com/openai-tells-investors-its-infrastructure-gives-it-an-edge-over-anthropic/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-10T11:56:51+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "OpenAI is pitching investors on the idea that its early infrastructure buildout gives it a decisive advantage over Anthropic. Meanwhile, the company is pausing its UK data center project, and Anthropic is exploring custom AI chips.\nThe article OpenAI tells investors its infrastructure gives it an edge over Anthropic appeared first on The Decoder.",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "content": "OpenAI tells investors its infrastructure gives it an edge over Anthropic\nMaximilian Schreiner\nView the LinkedIn Profile of Maximilian Schreiner\nApr 10, 2026\nNano Banana Pro prompted by THE DECODER\nKey Points\nOpenAI tells investors in a memo that its early compute buildout gives it a decisive edge over Anthropic.\nAccording to Reuters, Anthropic is considering designing its own AI chips to reduce its dependence on Google and Amazon. The plans are still in an early stage, with no concrete design or dedicated team.\nMeanwhile, OpenAI is pausing its UK Stargate data center project due to high energy costs and regulatory hurdles.\nAsk about this article…\nSearch\nOpenAI is pitching investors on the idea that its early infrastructure buildout gives it a decisive advantage over Anthropic. Meanwhile, the company is pausing its UK data center project, and Anthropic is exploring custom AI chips.\nThe competition between OpenAI and Anthropic for AI dominance is increasingly playing out at the infrastructure level. In an\ninvestor memo\nsent out this week, according to Bloomberg, OpenAI argues that its early and aggressive buildout of compute capacity gives it a critical edge over rival Anthropic.\nOpenAI says it has outpaced Anthropic by adding compute quickly and consistently, according to the memo. The ambitious infrastructure push - which critics had called too expensive - has allowed OpenAI to keep up with surging demand for AI products more effectively.\nAd\nThe memo likely came in response to Anthropic's announcement of a\nmore powerful AI model called Mythos\n. The model will initially only be available to select partners through Project Glasswing for safety reasons. Some observers, however, question whether Anthropic could even roll out such a large model effectively with its current compute capacity.\nAd\nThere's speculation that Mythos is the first 10-trillion-parameter model. That speculation is based in part on public statements from Elon Musk that xAI is currently training a model of that size. It also draws on benchmarks shared by Nvidia CEO Jensen Huang showing how quickly a new Vera Rubin system could train upcoming 10-trillion-parameter models. Following this logic, OpenAI would have an advantage because it could more easily handle demand for powerful models like the upcoming\n\"Spud.\"\nIn practice, though, most customers would likely get access to distilled, smaller versions of these models.\nAnthropic is exploring custom AI chips to reduce its dependency\nAnthropic isn't sitting still. According to\nReuters\n, the AI lab is considering designing its own chips. The plans are still in an early stage - there's no dedicated team and no concrete design yet, according to one of three sources cited. The company could ultimately decide against the effort and continue buying chips from other suppliers.\nAd\nThe move is driven by the ongoing shortage of AI chips. Anthropic currently uses a mix of Google's Tensor Processing Units (TPUs) and Amazon chips to develop and run"
+    },
+    {
+      "title": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction",
+      "url": "https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-10T11:23:41+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models.\nThe article LLMs crush coding and math but choke on casual questions, and that's not a contradiction appeared first on The Decoder.",
+      "tags": [],
+      "content": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 10, 2026\nNano Banana Pro prompted by THE DECODER\nAsk about this article…\nSearch\nAI models can solve complex programming tasks in hours but fall apart when faced with basic everyday questions. Andrej Karpathy explains why that's not actually a contradiction.\nThere are two different ways people think about AI progress right now,\naccording to Karpathy\n. The first group has tried the free version of ChatGPT or its voice mode and walked away with an opinion shaped by\nsilly mistakes\nand hallucinations. Those outdated models don't reflect where things actually stand today, Karpathy says.\nThe second group uses the latest models—like OpenAI's GPT-5.4 Thinking or Claude Opus 4.6—inside\ncapable harnesses\nlike Codex or Claude Code for professional work in programming, math, and research.\nProgress in these areas has been massive this year\n, Karpathy says, with models now capable of autonomously restructuring entire codebases or\nhunting down security vulnerabilities on their own\n. Karpathy says these two groups are basically talking past each other.\nAd\nIt really is simultaneously the case that OpenAI's free and I think slightly orphaned (?) \"Advanced Voice Mode\" will fumble the dumbest questions in your Instagram's reels and *at the same time*, OpenAI's highest-tier and paid Codex model will go off for 1 hour to coherently restructure an entire code base, or find and exploit vulnerabilities in computer systems.\nAd\nKarpathy via X\nKarpathy's take points to something bigger: areas like code or math, where you can clearly check whether an answer is right or wrong and specifically reinforce it\nthrough reinforcement learning with verifiable rewards\n, are seeing more and especially measurable gains from AI progress than fuzzy domains like writing or consulting, where there's no clean metric to optimize against.\nWhy verifiability drives AI progress\nThis raises a\ncore question in AI research right now\n: can general intelligence actually emerge from language models, or can these models only be tuned to\nperform well within specific domains\n?\nAd\nKarpathy laid out this structural problem in\nan earlier essay\n: in the \"Software 2.0\" paradigm, what matters isn't whether you can specify a task, but whether you can verify the result. A system can only be trained efficiently through reinforcement learning when it gets automated feedback - pass/fail checks or clear reward signals. \"The more a task/job is verifiable, the more amenable it is to automation in the new programming paradigm,\" Karpathy says.\nLast summer, rumors circulated about a\nuniversal verifier from OpenAI\nthat would make reinforcement learning work across all domains. So far, nothing concrete has shipped. Meanwhile,\nJerry Tworek\n, one of the key figures behind OpenAI's reinforcement learning strategy, recently left the company\nand said that \"deep learning resear"
+    },
+    {
+      "title": "OpenAI is building a cybersecurity product for a select group of companies",
+      "url": "https://the-decoder.com/openai-is-building-a-cybersecurity-product-for-a-select-group-of-companies/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-10T09:06:26+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "According to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies.\nThe article OpenAI is building a cybersecurity product for a select group of companies appeared first on The Decoder.",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "OpenAI is building a cybersecurity product for a select group of companies\nMaximilian Schreiner\nView the LinkedIn Profile of Maximilian Schreiner\nApr 10, 2026\nUpdate –\nApr 10, 2026\nAdded Axios correction\nAccording to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies.\nAxios initially reported that OpenAI was releasing a new model, drawing comparisons to Anthropic, which on Tuesday restricted access to its\nnew Mythos Preview model\nto select technology and security firms because of its advanced hacking capabilities.\nAxios has since corrected its reporting: the limited rollout only applies to the cybersecurity product, not OpenAI's upcoming\n\"Spud\" model\n.\nAd\nThe product will be distributed through \"\nTrusted Access for Cyber\n,\" a pilot program OpenAI launched in February alongside the release of GPT-5.3-Codex. Participants in the program get access to especially capable models for defensive security work, backed by $10 million in API credits.\nAd\nAI News Without the Hype – Curated by Humans\nSubscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section.\nSubscribe now\nSource:\nAxios\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "A Coding Guide to Markerless 3D Human Kinematics with Pose2Sim, RTMPose, and OpenSim",
+      "url": "https://www.marktechpost.com/2026/04/10/a-coding-guide-to-markerless-3d-human-kinematics-with-pose2sim-rtmpose-and-opensim/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-04-10T20:14:41+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In this tutorial, we build and run a complete Pose2Sim pipeline on Colab to understand how markerless 3D kinematics works in practice. We begin with environment setup, configure the project for Colab’s headless runtime, and then walk through calibration, 2D pose estimation, synchronization, person association, triangulation, filtering, marker augmentation, and OpenSim-based kinematics. As we progress, […]\nThe post A Coding Guide to Markerless 3D Human Kinematics with Pose2Sim, RTMPose, and OpenSim appeared first on MarkTechPost.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-10T22:48:15.683143+00:00",
+      "score": 7674,
+      "comments": null,
+      "summary": "The agent that grows with you",
+      "tags": [
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-10T22:48:15.683143+00:00",
+      "score": 1544,
+      "comments": null,
+      "summary": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "tags": [
+        "open-source",
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "shanraisshan / claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-10T22:48:15.683143+00:00",
+      "score": 1248,
+      "comments": null,
+      "summary": "practice made claude perfect",
+      "tags": [
+        "Claude"
+      ],
+      "content": ""
+    },
+    {
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-10T22:48:15.683143+00:00",
+      "score": 602,
+      "comments": null,
+      "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "We've raised $17M to build what comes after Git",
+      "url": "https://blog.gitbutler.com/series-a",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T01:52:58+00:00",
+      "score": 302,
+      "comments": 660,
+      "summary": null,
+      "tags": [],
+      "content": "Announcing the GitButler CLI for Linux\nThis month\nby\nSimon Larsén\n3\nmin read\nIn early February, we announced But, the GitButler CLI. The announcement had one glaring flaw: Linux was never mentioned. Not. Even. Once. We're rectifying that now, because But loves Linux, and Linux will come to love But."
+    },
+    {
+      "title": "Molotov cocktail is hurled at home of Sam Altman",
+      "url": "https://www.nytimes.com/2026/04/10/us/open-ai-sam-altman-molotov-cocktail.html",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T18:48:24+00:00",
+      "score": 129,
+      "comments": 296,
+      "summary": null,
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "AI assistance when contributing to the Linux kernel",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T18:35:21+00:00",
+      "score": 112,
+      "comments": 94,
+      "summary": null,
+      "tags": [],
+      "content": "AI Coding Assistants\nThis document provides guidance for AI tools and developers using AI\nassistance when contributing to the Linux kernel.\nAI tools helping with Linux kernel development should follow the standard\nkernel development process:\nDocumentation/process/development-process.rst\nDocumentation/process/coding-style.rst\nDocumentation/process/submitting-patches.rst\nLicensing and Legal Requirements\nAll contributions must comply with the kernel's licensing requirements:\nAll code must be compatible with GPL-2.0-only\nUse appropriate SPDX license identifiers\nSee Documentation/process/license-rules.rst for details\nSigned-off-by and Developer Certificate of Origin\nAI agents MUST NOT add Signed-off-by tags. Only humans can legally\ncertify the Developer Certificate of Origin (DCO). The human submitter\nis responsible for:\nReviewing all AI-generated code\nEnsuring compliance with licensing requirements\nAdding their own Signed-off-by tag to certify the DCO\nTaking full responsibility for the contribution\nAttribution\nWhen AI tools contribute to kernel development, proper attribution\nhelps track the evolving role of AI in the development process.\nContributions should include an Assisted-by tag in the following format:\nAssisted-by: AGENT_NAME:MODEL_VERSION [TOOL1] [TOOL2]\nWhere:\nAGENT_NAME\nis the name of the AI tool or framework\nMODEL_VERSION\nis the specific model version used\n[TOOL1] [TOOL2]\nare optional specialized analysis tools used\n(e.g., coccinelle, sparse, smatch, clang-tidy)\nBasic development tools (git, gcc, make, editors) should not be listed.\nExample:\nAssisted-by: Claude:claude-3-opus coccinelle sparse"
+    },
+    {
+      "title": "Supply chain nightmare: How Rust will be attacked and what we can do to mitigate",
+      "url": "https://kerkour.com/rust-supply-chain-nightmare",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T14:42:04+00:00",
+      "score": 106,
+      "comments": 57,
+      "summary": null,
+      "tags": [],
+      "content": "We're sorry but this website doesn't work properly without JavaScript enabled. Please enable it to continue."
+    },
+    {
+      "title": "HBO Obtains DMCA Subpoena to Unmask 'Euphoria' Spoiler Account on X",
+      "url": "https://torrentfreak.com/hbo-obtains-dmca-subpoena-to-unmask-euphoria-spoiler-account-on-x/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T17:27:07+00:00",
+      "score": 85,
+      "comments": 47,
+      "summary": null,
+      "tags": [],
+      "content": "HBO has a history of being plagued by high-profile leaks.\nSeveral\nGame of Thrones episodes leaked\nin the past, and the same applies to the sequel,\nHouse of the Dragon\n.\nWith the long-awaited third season of HBO’s hit series\nEuphoria\ncoming up this weekend, the company was on high alert. So, when it saw several ‘spoilers’ being posted by an X account operating under the name “Lexi howard’s cat”, it wasted no time to take action.\nNot the infringing tweet\nThe Lexi-inspired fan account has been around for a long time, sharing various Euphoria-related updates. However, a series of posts that were published in late March appeared to have hit too close to home.\nOn March 31, HBO’s parent company, Warner Bros. Discovery (WBD) sent a takedown notice to X, flagging several posts. According to Michael Bentkover, WBD’s Director of Worldwide Online Enforcement, these were “spoilers for unaired episodes of our Euphoria TV Series”.\nTorrentFreak was unable to find out what was posted exactly, but the DMCA notice identifies it as\nvideo/audiovisual recording\n.\nThe DMCA notice\nX confirmed receipt on the same day and presumably removed the posts. However, that was not the end of it. A week later, on April 7, the company requested a DMCA subpoena at a California federal court, with the goal to identify the person behind the\n@maudesfancat\naccount.\nDMCA subpoenas are relatively easy to obtain, as they only require a court clerk to sign off, which indeed happened a day later.\nThe issued subpoena requires X to share information sufficient to identify the person behind the account. This includes names, addresses, telephone numbers, email addresses, account numbers, IP addresses, and any other contact or billing records held by the platform.\nThe signed subpoena\nUnlike the DMCA notice, where WBD used  “video” to describe the content, the declaration to the court by Michael Bentkover classifies the infringing content as “summaries of unpublished, character, setting, and plots of a forthcoming series”.\nThis distinction may matter, as a summary of a plot may not enjoy the same protection as a leaked video. Copyright generally protects the expression of a work, not the underlying ideas or plot descriptions.\nThen again, Bentkover also states that the user in question “posted access to HBO’s unpublished, copyright protected work from its forthcoming series,” which sounds substantial.\nFor now, X Corp. has until April 23 to respond. Legally, both X and the account holder can challenge the subpoena, but no objections have been submitted in court yet. Meanwhile, the ‘Lexi howard’s cat’ account is no longer online.\n—\nA copy of the subpoena, filed April 8 at the U.S. District Court for the Northern District of California, is available\nhere (pdf)\n. The notice of filing and supporting declaration can be found\nhere (pdf)\n."
+    },
+    {
+      "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+      "url": "https://twill.ai",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T16:22:13+00:00",
+      "score": 40,
+      "comments": 37,
+      "summary": null,
+      "tags": [
+        "agents"
+      ],
+      "content": "Coding agents that ship while you sleep\nShip bug fixes, features, and PRs without lifting a finger.\nGet Started\nBacked by\nY\no\nu\np\nu\ns\nh\nt\nh\ne\nv\ni\ns\ni\no\nn\n.\nT\nw\ni\nl\nl\nw\nr\ni\nt\ne\ns\nt\nh\ne\nc\no\nd\ne\n,\nr\nu\nn\ns\nt\nh\ne\nt\ne\ns\nt\ns\n,\nf\ni\nx\ne\ns\nf\na\ni\nl\nu\nr\ne\ns\n,\na\nn\nd\no\np\ne\nn\ns\nP\nR\ns\n.\nA\nr\no\nu\nn\nd\nt\nh\ne\nc\nl\no\nc\nk\n,\no\nn\nl\ny\np\ni\nn\ng\ni\nn\ng\ny\no\nu\nw\nh\ne\nn\ni\nt\nn\ne\ne\nd\ns\ny\no\nu\nr\ni\nn\np\nu\nt\n.\nA structured workflow\nEvery task follows a fixed pipeline. The agent can't skip steps. That's what makes it reliable.\nResearch\nReads codebase & clarifies\nPlan\nImplementation spec\nYou Approve\nReview before code runs\nImplement\nCode, build, test in sandbox\nAI Code Review\nPR ready for your team\nMerge PR\nYou merge when ready\nResearch\nReads codebase & clarifies\nPlan\nImplementation spec\nYou Approve\nReview before code runs\nImplement\nCode, build, test in sandbox\nAI Code Review\nPR ready for your team\nMerge PR\nYou merge when ready\nWhat You Get\nShip more, context-switch less\nBug fixes, dependency updates, and docs handled automatically so you stay in flow\nPunch above your weight\nOne dev or a small team shipping like a company ten times your size\nYou decide, Twill executes\nFocus on architecture and product. Twill handles the implementation\nGet Started\nAssign tasks to the best coding agent\nChoose from Claude Code, OpenCode, and Codex.\nRun multiple agents in parallel and compare their outputs.\nRun the same agent n times to increase success rate.\nLearn more →\nWhat can I work on for you?\nTwillAI/demo\nmain\nOpus 4.6 x1\n+\nGPT 5.4 x1\nAgents verify changes in isolated dev environments\nAgents spin up sandboxes to build, test, and iterate on changes, making PRs trustworthy.\nNo setup needed, the agent figures out the best infrastructure for the task.\nAccess the sandbox infrastructure logs and ports, securely.\nLearn more →\nIntegrates with your tools\nMention @twill from GitHub, Linear, or Slack.\nWorks where your team already collaborates, with no context switching. Set up once, for all your teammates.\nSSH to the sandbox to debug or test, with your favorite IDE (Cursor, VSCode, etc).\nLearn more →\nStart from proven automations\nPick a template, connect your tools, and let Twill run recurring engineering workflows for you.\nAll\nGitHub\nGCP\nAWS\nSentry\nLinear\nNotion\nShip your first PR with Twill today. No credit card required.\nGet Started"
+    },
+    {
+      "title": "I Hate Tailwind and Love Bootstrap",
+      "url": "https://necromant2005.github.io/dev/why-i-hate-tailwind-and-love-bootstrap/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T21:05:35+00:00",
+      "score": 13,
+      "comments": 7,
+      "summary": null,
+      "tags": [],
+      "content": "Why I Hate Tailwind and Love Bootstrap\nFrontend debates often reduce to style preferences, but this one is about how complexity behaves over time.\nTailwind CSS looks like a standard choice in modern stacks (Vite, Webpack, React, Vue, Next.js), especially in startup and SaaS environments, not because it is inherently better, but because it aligns with how those systems are built.\nOn the other side, Bootstrap feels like a product of the older HTML-centric era, where pages were assembled rather than composed as systems.\nThe illusion of control\nTailwind CSS gives a strong sense of control because every visual decision is explicit and local, but that control becomes deceptive as the system grows.\n<div\nclass=\n\"flex flex-col md:flex-row items-center justify-between p-4 gap-2 md:gap-4 bg-white border rounded-lg shadow-sm\"\n>\n<button\nclass=\n\"px-3 py-1 text-sm md:text-base bg-blue-500 hover:bg-blue-600 text-white rounded\"\n>\nBuy\n</button>\n</div>\nAt small scale, this works well, but structurally it turns markup into a distributed configuration system where layout, spacing, and behavior are fragmented across many tokens.\nAs a result:\nSmall changes require editing multiple places\nDependencies are implicit rather than structured\nLayout rules spread across components\nSide effects become difficult to predict\nNothing fails immediately, but the system becomes harder to reason about.\nThe value of constraints\nBootstrap takes the opposite approach by limiting flexibility and embedding decisions into predefined components.\n<div\nclass=\n\"card p-3\"\n>\n<button\nclass=\n\"btn btn-primary\"\n>\nBuy\n</button>\n</div>\nHere, spacing, sizing, responsiveness, and interaction are already defined. Instead of assembling styles manually, you rely on a system that encodes consistent behavior.\nThis leads to:\nClear component boundaries\nPredictable rendering across devices\nFewer layout regressions\nReduced debugging surface\nCore difference\nAspect\nTailwind\nBootstrap\nPhilosophy\nCompose everything\nUse predefined system\nControl\nHigh\nLimited\nPredictability\nDecreases with scale\nRemains stable\nMaintenance\nHidden cost\nExplicit cost\nFailure mode\nLayout drift\nVisual rigidity\nWhere complexity shows up\nTailwind makes development fast at the beginning by pushing decisions into markup, but that complexity accumulates over time and becomes harder to manage.\nBootstrap introduces constraints upfront, which slows initial flexibility but keeps the system stable as it grows.\nThe actual distinction\nTailwind optimizes for writing UI quickly.\nBootstrap optimizes for maintaining UI reliably."
+    },
+    {
+      "title": "Molotov cocktail attack at OpenAI CEO Sam Altman's home",
+      "url": "https://www.reuters.com/world/us/suspect-arrested-after-molotov-cocktail-attack-openai-ceo-sam-altmans-home-2026-04-10/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T20:54:35+00:00",
+      "score": 13,
+      "comments": 1,
+      "summary": null,
+      "tags": [
+        "OpenAI"
+      ],
+      "content": ""
+    }
+  ]
+}
