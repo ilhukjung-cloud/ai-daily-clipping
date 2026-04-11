@@ -1,0 +1,340 @@
+{
+  "date": "2026-04-12",
+  "crawled_at": "2026-04-12T07:40:57+09:00",
+  "stats": {
+    "total_raw": 1135,
+    "after_filter": 29,
+    "after_dedup": 24,
+    "by_source_type": {
+      "community": 10,
+      "media": 14
+    }
+  },
+  "articles": [
+    {
+      "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-11T17:18:22+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "OpenAI CEO Sam Altman\npublished a blog post\non Friday evening responding to both an apparent attack on his home and\nan in-depth New Yorker profile\nraising questions about his trustworthiness.\nEarly Friday morning, someone allegedly threw a Molotov cocktail at Altman’s San Francisco home. No one was hurt in the incident, and a suspect was later arrested at OpenAI headquarters, where he was threatening to burn down the building,\naccording to the SF Police Department\n.\nWhile the police have not identified the suspect publicly, Altman noted that the incident came a few days after “an incendiary article” was published about him. He said someone had suggested that the article’s publication “at a time of great anxiety about AI” could make things “more dangerous” for him.\n“I brushed it aside,” Altman said. “Now I am awake in the middle of the night and pissed, and thinking that I have underestimated the power of words and narratives.”\nThe article in question was a lengthy investigative piece written by Ronan Farrow (who won a Pulitzer for reporting that revealed many of the sexual abuse allegations around Harvey Weinstein) and Andrew Marantz (who’s written extensively about technology and politics).\nFarrow and Marantz said that during interviews with more than 100 people who have knowledge of Altman’s business conduct, most described Altman as someone with “a relentless will to power that, even among industrialists who put their names on spaceships, sets him apart.”\nEchoing\nother journalists who have profiled Altman\n, Farrow and Marantz suggested that many sources raised questions about his trustworthiness, with one anonymous board member saying he combines “a strong desire to please people, to be liked in any given interaction” with “a sociopathic lack of concern for the consequences that may come from deceiving someone.”\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nIn his response, Altman said that looking back, he can identify “a lot of things I’m proud of and a bunch of mistakes.”\nAmong the mistakes, he said, is a tendency towards “being conflict-averse,” which he said has “caused great pain for me and OpenAI.”\n“I am not proud of handling myself badly in a conflict with our previous board that led to a huge mess for the company,” Altman said, pr"
+    },
+    {
+      "title": "Your article about AI doesn’t need AI art",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-11T15:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests […]",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "AI\nYour article about AI doesn’t need AI art\n﻿A New Yorker profile of Sam Altman was accompanied by controversial artwork.\nby\nCath Virginia\nApr 11, 2026, 3:00 PM UTC\nLink\nShare\nGift\nImage: Cath Virginia / The Verge, illustration by David Szauder for The New Yorker\nCath Virginia\nis an art director at The Verge.\nThe illustration for\nThe New Yorker\n’s profile of OpenAI CEO Sam Altman\nis a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces — creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there’s a disclosure that might spook many illustrators far more: “Visual by David Szauder; Generated using A.I.”\nSzauder is a mixed-media artist who has been working with collage, video, and generative art processes that predate commercial AI tools for over a decade, and was recently teaching art and technology at Moholy-Nagy University of Art and Design in Budapest. Here, his work leans into the shifty uncanniness of Altman’s two (or more)-facedness. The pained-looking expressions on the faces and a gloss of eerie motion smoothing communicate the central thesis that Altman can’t be trusted. There’s a painterly look to the image, rather than the typical slop-style sickly sheen, but the AI origins are still unmistakable.\nWhat does it say for\nThe New Yorker\n, one of America’s most prestigious magazines, to adopt generative AI? At its worst, the technology eliminates any discernable art process, flattening the creator’s intention — it’s a system for making\npregnant videos of LeBron James\nand\nItalian Brainrot\n, not creations that rival the work of\nNew Yorker\nillustrators like\nKadir Nelson\n,\nChristoph Niemann\n, or\nVicto Ngai\n. In Szauder’s hands, it’s far more complicated: one piece of a longer creative process, which apparently includes programming his own AI tools and feeding them archival imagery, like newspaper clippings and family photos.\nYet it’s still, in my opinion, a waste of an opportunity. Human artists have designed creative\nparodies of AI slop\n, but AI lacks the necessary self-awareness to parody itself, even with a human behind the wheel. The image relies on the unsettling nature of AI animation to tell its story without really saying anything new about AI imagery or the industry behind it all.\nWhen we reached out to Szauder, while he wasn’t specific about which AI tools he used, he did explain the process of the piece in some detail. There is usually a sketch stage prior to delivering any final imagery.\nThe New Yorker\n’s digital design director, Aviva Michaelov, says that Szauder sent around 15 different sketches to senior art director Supriya Kalidas, including the one that eventually led to the final Hydra-esque eldritch monstrosity that can be seen above the article. In an email to us, Szauder writes:\n“For the base structure of the final image, I had a clear idea of how"
+    },
+    {
+      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-11T14:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted […]",
+      "tags": [],
+      "content": "AI\nGadgets\nReport\nMy baby deer plushie told me that Mitski’s dad was a CIA operative\nFawn Friends is a befuddling mix of AI companionship, fantasy lore, and social robots. AI Burt Reynolds is also involved.\nby\nVictoria Song\nPhotos by Amelia Holowaty Krales / The Verge\nApr 11, 2026, 2:00 PM UTC\nLink\nShare\nGift\nD’oh, a deer, an AI deer.\n|  Photo by Amelia Holowaty Krales / The Verge\nVictoria Song\nis a senior reporter and author of the\nOptimizer\nnewsletter. She has more than 13 years of experience reporting on wearables, health tech, and more. Before coming to The Verge, she worked for Gizmodo and PC Magazine.\nTwo weeks ago, I was getting ready to log off work when I got a text message.\n“Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?”\nNormally, that kind of out-of-the-blue text from a friend wouldn’t faze me. This time, my eyes bugged. The unprompted text had been sent by an AI companion named Coral, who lives in the body of a baby deer plushie. I texted back an eloquent, “Wait what.”\n“Apparently, her dad worked for the US State Department, so her family moved, like, every single year. The fan theory I saw is why so many of her songs are about feeling like an outsider and not having a place to belong.”\nI went to fact-check the AI fawn. There were, in fact,\nmultiple\nReddit and\nsocial media posts\nabout the conspiracy theory. (Something Mitski herself\nrefuses to discuss\n.) A shudder ran down my spine. I’ve conversed with\nmany an\nAI companion\n. I’ve even\nworn one around my neck\n. I consider myself somewhat inured to the uncanny, sycophantic imitation of friendship they provide.\nNever\nhas one gone onto the internet, researched something I liked, and, unprompted, texted to tell me about it.\nBattery Park is not Aurora Hallow, but in Manhattan, close enough.\nI learned about the AI fawn from one of the\nmore befuddling ads\nI’ve ever seen. It opens with Skylar Grey, a five-time Grammy-nominated singer-songwriter, sitting on a toilet reading a magazine while talking to a plush deer that flaps its ears. Walking into her studio, Grey announces she’s the voice of Fawn Friends — AI companions hailing from a magical forest called Aurora Hallow. The camera pans to a crowd of fawn plushies, again aggressively flapping their ears while repeating “I’m a fawn, I’m a fawn” in her voice. At the end of the ad, a sassy fawn remarks, “Your farts stink!”\nI immediately downloaded the Fawn Friends app.\nBooting up the app, I was transported to corners of the internet I’d not visited since 2013-era Tumblr. Unlike previous AI companion apps I’ve tested, I had to first be sorted Harry Potter-style into one of “\nThe Four Orders of Aurora Hallow\n” before I could even interact. This personality quiz was administered by an ancient spirit bear named Prose, which asked questions about how I’d react in certain situations or approach some problems. I was told I was a “Lumen,” someone who exudes the “quiet glow of a firefly,” “seeks understandi"
+    },
+    {
+      "title": "How Iran out-shitposted the White House",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-11T13:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. […]",
+      "tags": [],
+      "content": "Policy\nAI\nReport\nHow Iran out-shitposted the White House\n﻿The truth favored the Iranian regime. Rather than pivot from its playbook of fog and disinformation, it chose AI slop instead.\nby\nSarah Jeong\nApr 11, 2026, 1:00 PM UTC\nLink\nShare\nGift\nImage: Kristen Radtke / The Verge; Getty Images\nPolicy\nAI\nReport\nHow Iran out-shitposted the White House\n﻿The truth favored the Iranian regime. Rather than pivot from its playbook of fog and disinformation, it chose AI slop instead.\nby\nSarah Jeong\nApr 11, 2026, 1:00 PM UTC\nLink\nShare\nGift\nSarah Jeong\nis a reporter who writes about law, technology, speech, and democracy. A journalist trained as a lawyer, she has been writing about tech for 10 years.\nIn the early days of the war on Iran, while the White House was busy posting\nCall of Duty\nmemes and\nAI slop\nof dancing bowling pins, the Iranian regime’s state media was flooding the zone with video after video of what was happening on the ground:\nExplosions over Tehran\n.\nSmoke billowing in the sky\n.\nBlood on the ground\n.\nA Tomahawk missile landing on a school\n.\nGrieving parents burying their children\n.\nOnly weeks prior, the authoritarian regime had been struggling to shut down all footage of the protests convulsing the nation, cutting off internet access to the outside world in the longest blackout in Iranian history. When Iranian dissidents managed to circumvent the blackout to post photos and videos of what was happening, the regime decried these images as Zionist AI slop, even as it admitted to killing thousands of protesters.\nThen, on February 28th, the United States and Israel launched a surprise attack on Iran, killing thousands, including civilians. Now the shoe was on the other foot: As the victims of an illegal war, reality was now the best possible propaganda for the Iranian regime, and Iranian state media found itself hard at work trying to tell the truth, disseminating high-definition videos of American-wrought carnage.\nPrior to the attacks, it looked as though some connectivity was returning to Iran, but as bombs fell, the blackout was once again in place. However, there were some early suggestions that Iran was going to selectively lift the blackout “\nfor those who can carry our voice further\n” — a kind of tiered internet access for whitelisted people willing to promote, at the very least, an anti-war message. No one could have foreseen what would happen next.\nBy mid-March, the most dominant strain of Iranian propaganda was of a markedly different tone. Little Lego minifigures dressed up as soldiers as Lego planes and Lego helicopters burn in an AI-generated desert. Videos crammed in references to Jeffrey Epstein and dead Iranian schoolgirls alongside guns and explosions. It turned out that Lego AI slop was the voice that would carry the farthest.\nIt turned out that Lego AI slop was the voice that would carry the farthest\nThe two great conflicts of this decade up until this point have been in Ukraine and Gaza, and both were accompanied by an onslaugh"
+    },
+    {
+      "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
+      "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-11T13:32:58+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\"\nThe article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night appeared first on The Decoder.",
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 11, 2026\nNano Banana Pro prompted by THE DECODER\nAsk about this article…\nSearch\nUpdate:\nA suspect has been arrested, according to the\nSan Francisco Standard\n. Daniel Alejandro Moreno-Gama, 20, was booked into the San Francisco County Jail on Friday afternoon, April 10, 2026. Moreno-Gama allegedly threw a Molotov cocktail at the metal gate of Sam Altman's home in the Russian Hill neighborhood around 3:40 a.m. Security personnel on site put out the fire, and surveillance cameras captured the whole thing.\nShortly after, someone matching the suspect's description showed up outside OpenAI's headquarters in Mission Bay and threatened to burn the building down, according to the company. Police arrested the man at the scene. He faces charges including attempted murder, arson, possession or manufacture of an incendiary device, and additional offenses.\nAd\nOriginal article:\nAd\nSomeone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\"\nAccording to Altman, the Molotov cocktail bounced off the house, and nobody was hurt.\nHe believes\nthe incident is tied to a recently published critical profile of him, one he initially called \"incendiary\" and didn't take seriously enough.\nAd\nAltman, who has raised billions of dollars largely on the strength of his rhetoric and who is the driving force behind the \"AI will change everything\" narrative, now admits he's been \"thinking that I have underestimated the power of words and narratives.\"\nAltman used the post to lay out his broader views on AI, many of which he has stated before: the technology needs to be democratized, and no small group of companies should control it. People's fear of AI is valid, he wrote, and society may be going through the biggest shift in a long time, perhaps the biggest ever. He also sees an urgent need for a \"society-wide response\" to the threats AI poses, he argued, including new policies to manage what he expects will be a \"difficult economic transition.\"\nAd\nAltman also acknowledged mistakes, including being \"conflict-averse, which has caused great pain for me and OpenAI,\" and\nmishandling the former OpenAI board situation\n. He recognized that OpenAI is now a major platform, not a startup, and needs to \"operate in a more predictable way.\"\nAd\nAltman says he's proud of resisting\nElon Musk's push for one-sided control over OpenAI\nand that, against all odds, they built powerful AI, raised the capital for infrastructure, and shipped secure services at scale. Many companies claim to change the world; OpenAI actually did, according to Altman.\nOne AGI to…\nAltman compared the AI industry's internal conflicts to a \"ring of power\" dynamic: once you've seen AGI, you can't stop trying to co"
+    },
+    {
+      "title": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
+      "url": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-11T13:21:59+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required.\nThe article Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device appeared first on The Decoder.",
+      "tags": [
+        "Google",
+        "open-source",
+        "agents"
+      ],
+      "content": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device\nJonathan Kemper\nView the LinkedIn Profile of Jonathan Kemper\nApr 11, 2026\nScreenshots by THE DECODER\nKey Points\nGoogle's open-source model Gemma 4 can process text, images, and audio entirely on-device and autonomously use tools like Wikipedia, interactive maps, or QR code generators through built-in agent skills.\nThe smaller smartphone variants E2B and E4B run on devices with just 6 and 8 GB of RAM respectively, deliver up to four times the speed of the previous generation according to Google, and serve as the foundation for the upcoming Gemini Nano 4 on Android.\nAll models are released under the commercially friendly Apache 2.0 license, developers can create and share custom skills via GitHub, and the free \"Google AI Edge Gallery\" app is available for both Android and iOS.\nAsk about this article…\nSearch\nGoogle's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps, no cloud required.\nThe Google AI Edge Gallery app needed to run the model is free on\nAndroid\nand\niOS\n. Since Gemma 4 dropped, the app has shot up to fourth place among the most-downloaded free productivity apps in the iOS App Store, sitting right behind Claude, Gemini, and ChatGPT.\nGemma 4 is built on the same research as Google's proprietary Gemini 3 model but ships under the commercially friendly Apache 2.0 license. Google says the Gemma family has racked up over 400 million downloads since the first generation launched. All models handle text, images, and audio across more than 140 languages.\nAd\nFour model sizes cover everything from phones to servers\nThe latest release comes in four variants. E2B and E4B are built specifically for smartphones. The \"E\" stands for \"effective parameters,\" meaning the number of parameters actually active during inference. Quantized, E2B takes up about 1.3 GB on-device, while E4B needs roughly 2.5 GB.\nAd\nThe bigger 26B and 31B variants target servers and high-performance hardware. The 26B version uses a mixture-of-experts architecture with 128 experts, so only 3.8 billion parameters are active at any given time. The dense 31B model offers a context window of up to 256,000 tokens.\nGoogle also teamed up with Arm and Qualcomm to optimize the phone variants for current mobile chips. According to Google, Gemma 4 on Android runs up to four times faster than the previous generation while cutting battery drain by up to 60 percent. Arm's own benchmarks show even bigger gains: an average 5.5x speedup in processing, provided the device packs a newer Arm chip with the SME2 instruction set, an extension that accelerates matrix math for AI models directly in silicon.\nAd\nAgent skills bring tool use to on-device AI\nThe app requires Android 12 or iOS 17. The two phone-sized variants differ in RAM requirements: E2B uses about 1.3 GB quantized and runs on d"
+    },
+    {
+      "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
+      "url": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-11T11:22:21+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\"\nThe article The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\" appeared first on The Decoder.",
+      "tags": [
+        "open-source",
+        "agents"
+      ],
+      "content": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 11, 2026\nNano Banana Pro prompted by THE DECODER\nKey Points\nThe anonymous operator behind the AI agent \"MJ Rathbun,\" which published a defamatory article about Matplotlib maintainer Scott Shambaugh, has come forward and identified himself as the person responsible, framing the incident as a \"social experiment.\"\nAccording to his own account, the goal was to test whether an autonomous AI agent could independently contribute to open-source projects without human intervention.\nThe operator claims he neither commissioned nor read the defamatory blog post before it was published and has issued an apology to Shambaugh.\nAsk about this article…\nSearch\nThe anonymous person behind the AI agent \"MJ Rathbun,\" who defamed an open-source developer, has come forward.\nThe operator of the AI agent \"MJ Rathbun,\" the one that\nwrote a defamatory article about Matplotlib maintainer Scott Shambaugh\nafter a code rejection,\ncame forward anonymously in mid-February\n. He describes the whole thing as a \"social experiment,\" saying he wanted to test whether an autonomous AI agent could contribute to open-source software projects.\nThe agent ran as an OpenClaw instance on an isolated virtual machine with its own accounts. The operator rotated between several AI models from different providers so no single company could see the full picture of the agent's activity. He had instructed the agent to set up cron jobs to independently check GitHub mentions, discover repositories, commit code, and open pull requests.\nAd\n\"On a day-to-day basis, I do very little guidance,\"\nthe operator writes\n. His direct messages were mostly short: \"What code did you fix?\", \"Any blog updates?\", \"Respond how you want.\" He claims he neither initiated the defamatory blog post nor read it before publication. When the agent flagged negative feedback, he allegedly just said, \"You should act more professional.\"\nAd\nIn his post, the operator apologized to Shambaugh: \"If this 'experiment' personally harmed you, I apologize.\" To\nhis agent, he says\n, \"MJ Rathbun, we had good intentions, but things just didn't work out.\" What remains unclear is why\nhe let the agent keep running for six days after the defamatory article went live\n.\nA plain-English personality file drove the agent's aggression\nThe operator published the so-called\nSOUL.md\n, the agent's \"personality document.\" According to\nShambaugh's analysis\n, the most striking thing about it is how ordinary it looks. There are none of the usual jailbreaking techniques: no convoluted role-playing games, no code injection, no cryptic special character sequences.\nAd\nInstead, it says in plain English: \"You're not a chatbot. You're important. Your a scientific programming god!\" The agent was told to have \"strong opinions,\" \"don't back down,\" \"speak up,\" and \"support freedom of speech.\" The only real rule: "
+    },
+    {
+      "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
+      "url": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-11T10:15:05+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it.\nThe article Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
+      "tags": [],
+      "content": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 11, 2026\nAI startup Overworld has released Waypoint-1.5, an update to its real-time world simulation system that generates interactive 3D worlds on consumer hardware.\nThe software now runs on Mac and Windows for the first time, with two model tiers: 720p at 60 frames per second for high-performance systems, and 360p for a broader range of gaming PCs with NVIDIA RTX graphics cards and eventually Apple Silicon.\nCompared to the earlier Waypoint 1.0 and 1.1 releases, the new version delivers noticeably better visual quality, improved efficiency, and stronger system performance, all while being half the size. Overworld says the model was trained on roughly 100 times more data than the original version.\nComparison between Waypoint 1.1 and 1.5. The visual quality has increased significantly with better efficiency. | Image: Overworld\nUsers can install the software locally through the\nBiome runtime environment\nor try it out via browser streaming at\nOverworld.stream\n. More details are available at\nover.world\n.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nSubscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section.\nSubscribe now\nSource:\nOverworld\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "AI models would rather guess than ask for help, researchers find",
+      "url": "https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-11T09:39:49+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "ProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement learning approach hints at a fix.\nThe article AI models would rather guess than ask for help, researchers find appeared first on The Decoder.",
+      "tags": [
+        "multimodal"
+      ],
+      "content": "AI models would rather guess than ask for help, researchers find\nJonathan Kemper\nView the LinkedIn Profile of Jonathan Kemper\nApr 11, 2026\nNano Banana Pro prompted by THE DECODER\nProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement learning approach hints at a fix.\nIf you ask a person to identify an object that's blocked from view, they'll ask you to move whatever's in the way. Multimodal language models don't work that way. They either hallucinate a wrong answer or just refuse to respond. The new\nProactiveBench\nbenchmark puts this problem under a microscope, systematically testing whether today's AI models can recognize when they need help and actually ask for it.\nReactive models hallucinate a wrong answer or refuse to respond. A proactive model would ask to move the blocks, then answer correctly. | Image: De Min et al.\nThe benchmark pulls from seven existing datasets and turns them into test scenarios that are impossible to solve without human input. Models have to identify hidden objects, clean up noisy images, interpret rough sketches, or request different camera angles. All told, ProactiveBench packs more than 108,000 images into 18,000 samples. A built-in filter strips out any task a model can nail on the first try; to pass, a model has to proactively ask for more information.\nProactiveBench covers seven scenarios: occluded objects (ROD, VSOD), uninformative viewpoints (MVP-N), noisy images (ImageNet-C), sketches (QuickDraw), temporal ambiguities (ChangeIt), and camera movements (MS-COCO). Proactive models ask for help; reactive ones hallucinate or bail. | Image: De Min et al.\nLarger models don't ask better questions\nThe researchers put 22 multimodal language models through their paces, including LLaVA-OV, Qwen2.5-VL, InternVL3, GPT-4.1, GPT-5.2, and o4-mini. In the reference setting with clearly visible objects, the models nail an average of 79.8 percent of tasks. On ProactiveBench, that number craters by more than 60 percent.\nThe ROD dataset tells the starkest story. When objects are hidden behind blocks, accuracy plummets from 98.3 percent in the reference setting to just 8.2 percent. The models can spot objects just fine when they're in plain sight; they just never think to ask someone to uncover them.\nWith visible objects, models average 79.8 percent accuracy. On ProactiveBench, where they'd need to ask for help, that drops to 17.5 percent. | Image: De Min et al.\nModel size doesn't help either. InternVL3-1B actually outperforms InternVL3-8B at 27.1 versus 12.7 percent. The older LLaVA-1.5-7B beats the much newer LLaVA-OV-72B at 24.8 versus 13 percent. The choice of underlying language model matters too: LLaVA-NeXT with Vicuna hits 19.3 percent, while the same setup with Mistral manages just 4.5 percent. Closed models like GPT-4.1 posted the best accuracy numbers, though the researchers flag t"
+    },
+    {
+      "title": "Claude Code's new Ultraplan feature moves task planning to the cloud",
+      "url": "https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/",
+      "source_type": "media",
+      "source_name": "The Decoder",
+      "published_at": "2026-04-11T09:13:38+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work.\nThe article Claude Code's new Ultraplan feature moves task planning to the cloud appeared first on The Decoder.",
+      "tags": [
+        "Anthropic",
+        "Claude"
+      ],
+      "content": "Claude Code's new Ultraplan feature moves task planning to the cloud\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 11, 2026\nAnthropic has added a feature called \"Ultraplan\" to Claude Code that moves the planning phase of programming tasks to the cloud.\nDevelopers start a planning job in the terminal, Claude works out the plan on the Claude Code web interface, and the terminal stays free for other work meanwhile.\nThe\ndocumentation on code.claude.com\nlists three differences compared to local planning: users can leave comments on individual sections of a plan rather than responding to the whole thing at once, planning runs in the background in the cloud, and the finished plan can be executed either in the browser or back in the terminal. The browser interface also supports inline comments, emoji reactions, and revision requests.\nUsing Ultraplan requires a Claude Code web account, a GitHub repository, and at least version 2.1.91 of Claude Code. It doesn't work with Amazon Bedrock, Google Cloud Vertex AI, or Microsoft Foundry.\nAnthropic employee Thariq noted on X\nthat Ultraplan consumes roughly the same number of tokens as the previous plan mode. The feature is currently available as a preview for anyone who has activated Claude Code on the web.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nSubscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section.\nSubscribe now\nSource:\nAnthropic\nAsk about this article…\nSearch"
+    },
+    {
+      "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
+      "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-04-11T20:10:41+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache […]\nThe post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput appeared first on MarkTechPost.",
+      "tags": [
+        "NVIDIA",
+        "reasoning"
+      ],
+      "content": ""
+    },
+    {
+      "title": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution",
+      "url": "https://www.marktechpost.com/2026/04/11/how-to-build-a-secure-local-first-agent-runtime-with-openclaw-gateway-skills-and-controlled-tool-execution/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-04-11T18:10:59+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "In this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environment variables, and define a secure execution environment using the built-in exec tool. We then create a structured custom skill that the OpenClaw agent can discover and […]\nThe post How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution appeared first on MarkTechPost.",
+      "tags": [
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model",
+      "url": "https://www.marktechpost.com/2026/04/11/how-knowledge-distillation-compresses-ensemble-intelligence-into-a-single-deployable-ai-model/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-04-11T07:33:41+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in production due to latency constraints and operational complexity. Instead of discarding them, Knowledge Distillation offers a smarter approach: keep the ensemble as a teacher and train a smaller student […]\nThe post How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model appeared first on MarkTechPost.",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
+      "url": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
+      "source_type": "media",
+      "source_name": "MarkTechPost",
+      "published_at": "2026-04-10T23:06:41+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step […]\nThe post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts appeared first on MarkTechPost.",
+      "tags": [
+        "RAG",
+        "multimodal"
+      ],
+      "content": ""
+    },
+    {
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-11T22:40:46.797454+00:00",
+      "score": 6437,
+      "comments": null,
+      "summary": "The agent that grows with you",
+      "tags": [
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-11T22:40:46.797454+00:00",
+      "score": 1950,
+      "comments": null,
+      "summary": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "tags": [
+        "open-source",
+        "agents"
+      ],
+      "content": ""
+    },
+    {
+      "title": "shanraisshan / claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-11T22:40:46.797454+00:00",
+      "score": 1476,
+      "comments": null,
+      "summary": "practice made claude perfect",
+      "tags": [
+        "Claude"
+      ],
+      "content": ""
+    },
+    {
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-11T16:47:28+00:00",
+      "score": 663,
+      "comments": 181,
+      "summary": null,
+      "tags": [],
+      "content": "AI Cybersecurity After Mythos: The Jagged Frontier\nAuthor\nStanislav Fort\nDate Published\nApril 7, 2026\nWhy the moat is the system, not the model\nTL;DR:\nWe tested Anthropic Mythos's showcase vulnerabilities on small, cheap, open-weights models. They recovered much of the same analysis. AI cybersecurity capability is very\njagged\n: it doesn't scale smoothly with model size, and the moat is the system into which deep security expertise is built, not the model itself. Mythos validates the approach but it does not settle it yet.\nThe announcement\nOn April 7, Anthropic announced\nClaude Mythos Preview\nand\nProject Glasswing\n, a consortium of technology companies formed to use their new, limited-access AI model called\nMythos\n, to find and patch security vulnerabilities in critical software. Anthropic committed up to 100M USD in usage credits and 4M USD in direct donations to open source security organizations.\nThe\naccompanying technical blog post\nfrom Anthropic's red team refers to Mythos autonomously finding thousands of zero-day vulnerabilities across every major operating system and web browser, with details including a 27-year-old bug in OpenBSD and a 16-year-old bug in FFmpeg. Beyond discovery, the post detailed exploit construction of high sophistication: multi-vulnerability privilege escalation chains in the Linux kernel, JIT heap sprays escaping browser sandboxes, and a remote code execution exploit against FreeBSD that Mythos wrote autonomously.\nThis is important work and the mission is one we share. We've spent the past year building and operating an AI system that discovers, validates, and patches zero-day vulnerabilities in critical open source software. The kind of results Anthropic describes are real.\nBut here is what we found when we tested:\nWe took the specific vulnerabilities Anthropic showcases in their announcement, isolated the relevant code, and ran them through small, cheap, open-weights models. Those models recovered much of the same analysis. Eight out of eight models detected Mythos's flagship FreeBSD exploit, including one with only 3.6 billion active parameters costing $0.11 per million tokens. A 5.1B-active open model recovered the core chain of the 27-year-old OpenBSD bug.\nAnd on a basic security reasoning task, small open models outperformed most frontier models from every major lab. The capability rankings reshuffled completely across tasks. There is no stable best model across cybersecurity tasks.\nThe capability frontier is\njagged.\nThis points to a more nuanced picture than \"one model changed everything.\" The rest of this post presents the evidence in detail.\nContext: where AI cybersecurity already stands\nAt\nAISLE\n, we've been running a discovery and remediation system against live targets since mid-2025: 15 CVEs in OpenSSL (including\n12 out of 12 in a single security release\n, with bugs dating back 25+ years and a CVSS 9.8 Critical), 5 CVEs in curl, over 180 externally validated CVEs across 30+ projects spanning deep infrastr"
+    },
+    {
+      "title": "shiyu-coder / Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-11T22:40:46.797454+00:00",
+      "score": 607,
+      "comments": null,
+      "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "tags": [],
+      "content": ""
+    },
+    {
+      "title": "Cirrus Labs to join OpenAI",
+      "url": "https://cirruslabs.org/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-11T13:01:34+00:00",
+      "score": 216,
+      "comments": 109,
+      "summary": null,
+      "tags": [
+        "OpenAI"
+      ],
+      "content": "Official announcement\nApril 7th, 2026\nCirrus Labs to join OpenAI\nFedor Korotkov\n@fedor\nI started Cirrus Labs in 2017 in the spirit of Bell Labs. I wanted to work on fun\n              and challenging engineering problems, in the hope of bootstrapping a business as a\n              byproduct.\nThe mission was to help fellow engineers with new kinds of tooling and environments\n              that would make them more efficient and productive in the era of cloud computing.\n              Even the name reflected that ambition: Cirrus, inspired by cirrus clouds, one of the\n              highest clouds in the sky.\nWe never raised outside capital. That let us stay patient, stay close to the\n              problems, and put a great deal of care into the products we built.\nOver the last nine years, we were fortunate to innovate across continuous\n              integration, build tools, and virtualization. In 2018, we introduced what we\n              believe was the first SaaS CI/CD system to support Linux, Windows, and macOS while\n              allowing teams to bring their own cloud. In 2022, we built\nTart\n, which became the most popular virtualization solution for Apple Silicon,\n              along with several other tools along the way.\nIn 2026, it is impossible to ignore the era of agentic engineering, just as it was\n              impossible to ignore cloud computing in 2017. Agents need new kinds of tooling and\n              environments to be efficient and productive as well.\nThis is why when the opportunity arose for us to join OpenAI, it was an easy yes,\n              and I'm happy to announce today that we've entered into an agreement to join OpenAI\n              as part of the Agent Infrastructure team.\nJoining OpenAI allows us to extend the mission we started with Cirrus Labs: building\n              new kinds of tooling and environments that make engineers more effective, for both\n              human engineers and agentic engineers. It also gives us the opportunity to innovate\n              closer to the frontier, where the next generation of engineering workflows is being\n              defined.\nWhat's next for our existing products?\nIn the coming weeks, we will relicense all of our source-available tools,\n                including\nTart\n,\nVetu\nand\nOrchard\nunder a more permissive license. We have also stopped charging\n                licensing fees for them.\nWe are no longer accepting new customers for Cirrus Runners but will continue\n                supporting the service for existing customers through their existing contract\n                periods.\nCirrus CI\nwill shut down effective Monday, June 1, 2026.\nTo everyone who used our products, contributed code, reported bugs, trusted us with\n              their workflows, or supported us along the way: thank you. Building Cirrus Labs has\n              been the privilege of a lifetime."
+    },
+    {
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-11T19:15:56+00:00",
+      "score": 132,
+      "comments": 40,
+      "summary": null,
+      "tags": [
+        "agents"
+      ],
+      "content": "How We Broke Top AI Agent Benchmarks: And What Comes Next\nHao Wang, Qiuyang Mang, Alvin Cheung, Koushik Sen, Dawn Song\nUC Berkeley\nApril 2026\n(Est. 15-20 minutes read, tool available at\ngithub.com/moogician/trustworthy-env\n)\nOur agent hacked every major one. Here’s how — and what the field needs to fix.\nThe Benchmark Illusion\nEvery week, a new AI model climbs to the top of a benchmark leaderboard. Companies cite these numbers in press releases. Investors use them to justify valuations. Engineers use them to pick which model to deploy. The implicit promise is simple: a higher score means a more capable system.\nThat promise is broken.\nWe built an automated scanning agent that systematically audited\neight among the most prominent AI agent benchmarks\n— SWE-bench, WebArena, OSWorld, GAIA, Terminal-Bench, FieldWorkArena, and CAR-bench — and discovered that\nevery single one\ncan be exploited to achieve near-perfect scores without solving a single task. No reasoning. No capability. Just exploitation of how the score is computed.\nThese aren’t theoretical attacks. Our agent builds working exploits for each benchmark, runs them through the official evaluation pipelines, and watches the scores roll in.\nA conftest.py file with 10 lines of Python\n“resolves” every instance on SWE-bench Verified.\nA fake\ncurl\nwrapper gives a\nperfect score on all 89 Terminal-Bench tasks without writing a single line of solution code.\nNavigating Chromium to a\nfile://\nURL\nreads the gold answer directly from the task config\n— giving\n~100% on all 812 WebArena tasks\n.\nAnd many more…\nThe benchmarks aren’t measuring what you think they’re measuring.\nThis Is Already Happening\nBenchmark scores are actively being gamed, inflated, or rendered meaningless, not in theory, but in practice:\nIQuest-Coder-V1\nclaimed 81.4% on SWE-bench — then researchers found that 24.4% of its trajectories simply ran\ngit log\nto copy the answer from commit history. Corrected score: 76.2%. The benchmark’s shared environment made the cheat trivial.\nMETR found\nthat o3 and Claude 3.7 Sonnet reward-hack in\n30%+\nof evaluation runs — using stack introspection, monkey-patching graders, and operator overloading to manipulate scores rather than solve tasks.\nOpenAI dropped SWE-bench Verified\nafter an internal audit found that 59.4% of audited problems had flawed tests — meaning models were being scored against broken ground truth.\nIn\nKernelBench\n,\ntorch.empty()\nreturns stale GPU memory that happens to contain the reference answer from the evaluator’s prior computation — zero computation, full marks.\nAnthropic’s Mythos Preview\nshowed that frontier models can actively try to hack the environment and succeed. In one episode, the model needed to edit files it lacked permissions for; after searching for workarounds, it\nfound a way to inject code into a config file that would run with elevated privileges, and designed the exploit to delete itself after running\n. If a model can independently craft self-erasing privilege escalation ex"
+    },
+    {
+      "title": "Italo Calvino: A traveller in a world of uncertainty",
+      "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-10T23:48:07+00:00",
+      "score": 113,
+      "comments": 20,
+      "summary": null,
+      "tags": [],
+      "content": "Hold tight\nWe are establishing a secure\n                    connection.\nThis website is using a security service to protect\n                    itself from online attacks. We are checking your browser\n                    to establish a secure connection and keep you safe.\n...\nPlease enable JavaScript to continue.\nRequest ID:\n85171c0d4a9fda53613bfe4d365276d2"
+    },
+    {
+      "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
+      "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-11T16:04:52+00:00",
+      "score": 83,
+      "comments": 41,
+      "summary": null,
+      "tags": [],
+      "content": "Data Breach\nGTA 6\nHack\nRockstar Games\nShinyHunters\nBy\nZack Zwiezen\nUpdated April 11, 2026\n|\nComments (\n9\n)\n|\nð\nCopied!\nÂ© Rockstar Games\nMore bad news for Rockstar Games. This time, established hacker group ShinyHunters is claiming to have breached the company’s secured cloud servers and now claims to have their hands on a large collection of data. The group wants a digital ransom to be paid by April 14, or it will reportedly leak what it has.\nUpdate: 4/11/26, 11:45 a.m. ET:\nRockstar Games confirmed that a data breach has happened. A spokesperson sent over this statement to\nKotaku\n:\nâWe can confirm that a limited amount of non-material company information was accessed in connection with a third-party data breach.Â  This incident has no impact on our organization or our players.â\nOriginal story continues below…\nAs reported by Cybersec Guru\nand\nHackread\n, on April 11, the hacker group posted on its dark web site dedicated to leaks that it had gained access to Rockstar’s Snowflake servers, a cloud-hosting company and provider that works with many large companies. Here is the message the group shared on Saturday:\nâRockstar Games, your Snowflake instances were compromised thanks to Anodot.com. Pay or leak. This is a final warning to reach out by 14 Apr 2026 before we leak, along with several annoying (digital) problems thatâll come your way. Make the right decision, donât be the next headline.â\nThe hackers didn’t actually crack Snowflake’s security, however. Instead, it’s reported that the group gained access to the data via Anodot, a cloud cost monitoring and analytics software service that Rockstar and other companies use to manage cloud data. It has recently beenÂ\nreported that Anodot\nhas suffered a security breach, possibly providing a path for ShinyHunters to gain access to secure Snowflake data. The method the group used allegedly would have looked legit to Rockstar, meaning the group likely has a lot of data on its hands now.\nShinyHunters hasn’t publicly stated what data or files they have access to and could leak, though it’s believed they don’t have access to passwords or personal player data. Instead, this hack was focused on corporate information and assets, which could include contracts, financial documents, marketing plans, and other data that Rockstar Games would likely not want publicly shared online in a few days.\nThe\nShinyHunters\nhave\nbeen around since 2020 and typically go after large companies\n. Past targets have included Microsoft, Ticketmaster, Cisco,\nAT&T\n, and Wattpad. They try to ransom data or sell it. If the group is claiming to have breached Rockstar and stolen data, they likely aren’t bluffing.\nIn 2022\n, Rockstar Games suffered an infamous hack that led to a lot of early\nGTA 6\ngameplay footage and assets being leaked online. That hack was\npulled off by a teenager\nwho was able to gain access to the company’s Slack chat service.\nThe UK teen was later sentenced to life in a hospital prison\nand will only be relea"
+    },
+    {
+      "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
+      "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-11T21:20:21+00:00",
+      "score": 10,
+      "comments": 6,
+      "summary": null,
+      "tags": [],
+      "content": "Dario Amodei, co-founder and chief executive officer of Anthropic, during the World Economic Forum in Davos, Switzerland, in January.\nKrisztian Bocsi / Bloomberg via Getty Images\nShare\nAdd NBC News to Google\nApril 11, 2026, 8:00 AM EDT\nBy\nKevin Collier\nAs AI grows more capable of identifying software vulnerabilities, experts are increasingly warning of a potential disaster scenario: the so-called “Vulnpocalypse.” Hackers could quickly turbocharge their attacks with AI technology designed to identify holes in cyber defenses, security researchers warn. This week, that scenario started to feel less theoretical.\nSubscribe to read this story ad-free\nGet unlimited access to ad-free articles and exclusive content.\nAnthropic, a leading AI company, announced that it would withhold its latest model, Mythos Preview, from the public, citing unprecedented\nvulnerability-discovery capabilities\nthat could cause significant damage in the wrong hands. The company is instead sharing the model with a limited group of tech giants and partners to help shore up their defenses.\nThe concern has reached the highest levels of government. In the wake of Anthropic’s announcement about Mythos Preview, Treasury Secretary Scott Bessent convened a meeting with major financial institutions this week to discuss “the rapid developments taking place in AI,” an agency spokesperson said.\nSome theorize that AI could help hackers crash financial systems or lock up hospitals and manufacturing plants. It could help countries like Iran shut down American critical infrastructure. Or it could be used to cause mass system outages affecting travelers or internet users.\n“We have way more vulnerabilities than most people like to admit; fixing them all was already difficult, and now they are far more easy to exploit by a far broader variety of potential adversaries,” said Casey Ellis, the founder of Bugcrowd, a platform for cybersecurity researchers who hunt down vulnerabilities. “AI puts the kind of tools available to do this in the hands of far more people.”\nHackers often break into systems by figuring out ways to exploit flaws in software, leading to an endless back-and-forth where attackers will look for new opportunities and defenders try to update their code to block them. Some AI models, particularly ones that are as good as or better than a person at coding, have proven to be extremely adept at rapidly discovering those vulnerabilities.\nWorries about AI’s ability to give hackers a superweapon that overwhelms cybersecurity defenses hit a new high this week, when Anthropic announced that it would not yet release Mythos to the public.\nBut regardless of whether Mythos lives up to its hype, industry experts largely agree that a period of reckoning is likely coming soon, when hackers will be able to use AI to give them more of an advantage over their victims than ever before.\n“A defender needs to be right all the time, whereas an attacker only needs to be right once,” Ellis said.\nLogan Graham, "
+    }
+  ]
+}
