@@ -61,7 +61,7 @@ def save_results(
 
     # Build article dicts with optional content
     article_dicts = []
-    # Map original index → content
+    # Map original index -> content
     content_map: dict[int, str] = {}
     if contents:
         for i, a in enumerate(articles):
@@ -95,6 +95,61 @@ def save_results(
     logger.info(
         "Saved %d articles to %s (raw=%d, filtered=%d)",
         len(articles),
+        output_path,
+        raw_count,
+        filtered_count,
+    )
+    return output_path
+
+
+def save_formatted_results(
+    formatted_articles: list[dict],
+    raw_count: int,
+    filtered_count: int,
+) -> Path:
+    """Serialise pre-formatted article dicts (with Korean fields) to JSON.
+
+    Parameters
+    ----------
+    formatted_articles:
+        List of article dicts already containing title_ko, summary_ko, content, etc.
+    raw_count:
+        Total articles collected before any filtering.
+    filtered_count:
+        Articles remaining after time-filtering (before dedup).
+    """
+    now = datetime.now(KST)
+    date_str = now.strftime("%Y-%m-%d")
+    crawled_at = now.strftime("%Y-%m-%dT%H:%M:%S+09:00")
+
+    # Count by source type
+    by_source_type: dict[str, int] = {}
+    for a in formatted_articles:
+        st = a.get("source_type", "unknown")
+        by_source_type[st] = by_source_type.get(st, 0) + 1
+
+    payload = {
+        "date": date_str,
+        "crawled_at": crawled_at,
+        "stats": {
+            "total_raw": raw_count,
+            "after_filter": filtered_count,
+            "after_dedup": len(formatted_articles),
+            "by_source_type": by_source_type,
+        },
+        "articles": formatted_articles,
+    }
+
+    output_dir = _OUTPUT_DIR
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    output_path = output_dir / f"{date_str}.json"
+    with output_path.open("w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2)
+
+    logger.info(
+        "Saved %d formatted articles to %s (raw=%d, filtered=%d)",
+        len(formatted_articles),
         output_path,
         raw_count,
         filtered_count,
