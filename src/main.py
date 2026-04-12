@@ -8,7 +8,7 @@ from src.processors.filter import filter_recent, filter_relevance, filter_min_sc
 from src.processors.dedup import deduplicate
 from src.processors.tagger import tag_articles
 from src.content import fetch_content
-from src.output import save_results
+from src.output import save_results, save_formatted_results
 
 logging.basicConfig(
     level=logging.INFO,
@@ -73,8 +73,24 @@ def main() -> None:
     logger.info("Fetching article content...")
     contents = fetch_content(articles)
 
-    # 9. Save JSON (with content)
-    path = save_results(articles, raw_count, filtered_count, contents=contents)
+    # 9. Summarize & translate to Korean (Gemini)
+    logger.info("Translating articles to Korean...")
+    try:
+        from src.summarizer import summarize_articles
+        formatted_articles = summarize_articles(articles)
+        # Merge fetched content back in
+        for i, d in enumerate(formatted_articles):
+            d["content"] = contents[i] if i < len(contents) else ""
+    except Exception:
+        logger.exception("Korean summarization failed — falling back to raw articles")
+        formatted_articles = [
+            {**a.to_dict(), "content": contents[i] if i < len(contents) else "",
+             "title_ko": a.title, "summary_ko": a.summary or ""}
+            for i, a in enumerate(articles)
+        ]
+
+    # 10. Save JSON (with content and Korean translations)
+    path = save_formatted_results(formatted_articles, raw_count, filtered_count)
     logger.info(f"JSON saved to {path}")
 
     # Summary
