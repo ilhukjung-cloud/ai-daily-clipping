@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "crawled_at": "2026-04-13T07:24:44+09:00",
+  "crawled_at": "2026-04-13T07:44:07+09:00",
   "stats": {
     "total_raw": 1139,
     "after_filter": 34,
@@ -16,7 +16,7 @@
       "url": "https://github.com/NousResearch/hermes-agent",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-04-12T22:24:26.231888+00:00",
+      "published_at": "2026-04-12T22:43:50.605550+00:00",
       "score": 7450,
       "comments": null,
       "summary": "The agent that grows with you",
@@ -32,7 +32,7 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-04-12T22:24:26.231888+00:00",
+      "published_at": "2026-04-12T22:43:50.605550+00:00",
       "score": 1998,
       "comments": null,
       "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
@@ -46,7 +46,7 @@
       "url": "https://github.com/multica-ai/multica",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-04-12T22:24:26.231888+00:00",
+      "published_at": "2026-04-12T22:43:50.605550+00:00",
       "score": 1626,
       "comments": null,
       "summary": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
@@ -63,7 +63,7 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-04-12T22:24:26.231888+00:00",
+      "published_at": "2026-04-12T22:43:50.605550+00:00",
       "score": 1537,
       "comments": null,
       "summary": "practice made claude perfect",
@@ -79,7 +79,7 @@
       "url": "https://github.com/thedotmack/claude-mem",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-04-12T22:24:26.231888+00:00",
+      "published_at": "2026-04-12T22:43:50.605550+00:00",
       "score": 814,
       "comments": null,
       "summary": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
@@ -96,7 +96,7 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "source_type": "community",
       "source_name": "GitHub Trending",
-      "published_at": "2026-04-12T22:24:26.231888+00:00",
+      "published_at": "2026-04-12T22:43:50.605550+00:00",
       "score": 696,
       "comments": null,
       "summary": "An AI Hedge Fund Team",
@@ -111,11 +111,11 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-04-12T12:28:57+00:00",
-      "score": 584,
-      "comments": 228,
+      "score": 594,
+      "comments": 229,
       "summary": null,
       "tags": [],
-      "content": "Hacker News\nnew\n|\npast\n|\ncomments\n|\nask\n|\nshow\n|\njobs\n|\nsubmit\nlogin\nTell HN: docker pull fails in spain due to football cloudflare block\n584 points\nby\nlittlecranky67\n9 hours ago\n|\nhide\n|\npast\n|\nfavorite\n|\n228 comments\nI just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run \"docker pull <image>\" on my machine as root:\n> error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com\nFirst blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:\n> El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005/2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.\nhttps://www.laliga.com/noticias/nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare\nFor those non-spanish speakers: It means there is football match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when football is on. Thank you, Spain.\nhelp\ndanirod\n7 hours ago\n|\nnext\n[–]\nHeh, lucky you, at least you get a message. My ISP just drops traffic to the affected IPs. No ping, no traceroute, just a spinner in the browser until it says \"page not found\".\nEvery response and comment from LaLiga, the football organization responsible for this, has been so far that this is a minor issue that only affects a few bunch of nerds who talk about \"docker images\" or \"github repositories\" or \"whatever that means\".\nMeanwhile, there are testimonies of smart home devices like anti-theft alarms or automatic doors, that stop working whenever there is a football match, because their backends rely on Cloudflare.\nLast week, a woman asked for help on social media, as the GPS tracking app she uses to see where her father with dementia is, went offline during a match. It was getting late and he still wasn't back home, and she couldn't locate the tag he was wearing to find him:\nhttps://www.infobae.com/america/agencias/2026/04/05/laliga-d...\nIt's hard to say this, because no one should experience an event like this, but as stressful as these are, it's the only way to make the mainstream people care about this censorship. \"I cannot pull a docker image\" will never be on nightly news, but safety and personal ",
+      "content": "Hacker News\nnew\n|\npast\n|\ncomments\n|\nask\n|\nshow\n|\njobs\n|\nsubmit\nlogin\nTell HN: docker pull fails in spain due to football cloudflare block\n594 points\nby\nlittlecranky67\n10 hours ago\n|\nhide\n|\npast\n|\nfavorite\n|\n229 comments\nI just spent 1h+ debugging why my locally-hosted gitlab runner would fail to create pipelines. The gitlab job output would just display weird TLS errors when trying to pull a docker images. After debugging gitlab and the runner, I realized after a while I could not even run \"docker pull <image>\" on my machine as root:\n> error pulling image configuration: download failed after attempts=6: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com\nFirst blaming tailscale, dns configuration and all other stuff. Until I just copied that above URL into my browser on my laptop, and received a website banner:\n> El acceso a la presente dirección IP ha sido bloqueado en cumplimiento de lo dispuesto en la Sentencia de 18 de diciembre de 2024, dictada por el Juzgado de lo Mercantil nº 6 de Barcelona en el marco del procedimiento ordinario (Materia mercantil art. 249.1.4)-1005/2024-H instado por la Liga Nacional de Fútbol Profesional y por Telefónica Audiovisual Digital, S.L.U.\nhttps://www.laliga.com/noticias/nota-informativa-en-relacion-con-el-bloqueo-de-ips-durante-las-ultimas-jornadas-de-laliga-ea-sports-vinculadas-a-las-practicas-ilegales-de-cloudflare\nFor those non-spanish speakers: It means there is football match on, and during that time that specific host is blocked. This is just plain madness. I guess that means my gitlab pipelines will not run when football is on. Thank you, Spain.\nhelp\ndanirod\n8 hours ago\n|\nnext\n[–]\nHeh, lucky you, at least you get a message. My ISP just drops traffic to the affected IPs. No ping, no traceroute, just a spinner in the browser until it says \"page not found\".\nEvery response and comment from LaLiga, the football organization responsible for this, has been so far that this is a minor issue that only affects a few bunch of nerds who talk about \"docker images\" or \"github repositories\" or \"whatever that means\".\nMeanwhile, there are testimonies of smart home devices like anti-theft alarms or automatic doors, that stop working whenever there is a football match, because their backends rely on Cloudflare.\nLast week, a woman asked for help on social media, as the GPS tracking app she uses to see where her father with dementia is, went offline during a match. It was getting late and he still wasn't back home, and she couldn't locate the tag he was wearing to find him:\nhttps://www.infobae.com/america/agencias/2026/04/05/laliga-d...\nIt's hard to say this, because no one should experience an event like this, but as stressful as these are, it's the only way to make the mainstream people care about this censorship. \"I cannot pull a docker image\" will never be on nightly news, but safety and personal",
       "title_ko": "Tell HN: docker pull fails in spain due to football cloudflare block",
       "summary_ko": ""
     },
@@ -125,8 +125,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-04-12T05:45:52+00:00",
-      "score": 443,
-      "comments": 340,
+      "score": 448,
+      "comments": 341,
       "summary": null,
       "tags": [
         "Anthropic"
@@ -141,8 +141,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-04-12T19:51:06+00:00",
-      "score": 111,
-      "comments": 54,
+      "score": 118,
+      "comments": 55,
       "summary": null,
       "tags": [],
       "content": "European AI\nA playbook\nto\nown it.\nEurope holds unique strengths: a world-class academic\n                        ecosystem, a commitment to human-centric technology, and\n                        a single market of +450 million people. The question is\n                        no longer whether Europe can compete, but how it can\n                        turn these assets into a cohesive, self-reliant AI\n                        powerhouse.\nReading 52 minutes\nPublished April 7, 2026\nBy\nMistral AI\nScroll\nA word from the CEO\nEurope has faced a growing technological gap, leaving its\n                    citizens, businesses, and governments increasingly reliant\n                    on foreign dominance. The cost is high: a diminished voice\n                    on the global stage, reduced control over the European\n                    future, and vulnerability to digital threats. Without\n                    action, we risk surveillance threats, economic decline,\n                    strategic weakness, and even the erosion of our democratic\n                    freedoms. But this challenge is also Europeâs greatest\n                    opportunity.\nThe AI revolution has started and is a chance to not\n                        only catch up but to lead and define our own paths.\nEurope is home to a vibrant pool of untapped talent and\n                    industrial champions whose unique assets can push the\n                    boundaries of what AI can achieve. The competition from the\n                    U.S. and China is fierce, but Europe is not a market to be\n                    dominated, it is a powerhouse of innovation, creativity, and\n                    resilience.\nThe question is not whether we can compete, but how we will\n                    rise to the occasion. AI can be the tool that secures our\n                    autonomy, strengthens our strategic sectors, increases our\n                    economic wealth and amplifies our global influence. To seize\n                    this moment, we must act decisively. We need to drive demand\n                    for homegrown AI, secure strategic sectors, and empower\n                    European players. Controlling our AI and infrastructure is\n                    not optional, itâs the only way to win the AI race. So now\n                    is the time to act: grow our talent pool and bring our best\n                    minds back to Europe, scale our innovative companies across\n                    all 27 Member States, and turn our diversity into a\n                    competitive edge by compressing knowledge and building AI\n                    that reflects the worldâs complexity.\nEuropeâs AI ecosystem is brimming with potential. By\n                    fostering an environment that nurtures growth, we can\n                    transform challenges into opportunities and reclaim our\n                    future. The race is on, and Europe should be ready to win\n                    it.\nArthur Mensch\nCo-founder &",
@@ -155,8 +155,8 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-04-12T16:55:20+00:00",
-      "score": 75,
-      "comments": 16,
+      "score": 76,
+      "comments": 18,
       "summary": null,
       "tags": [
         "Claude"
@@ -166,19 +166,17 @@
       "summary_ko": ""
     },
     {
-      "title": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
-      "url": "https://twitter.com/bridgemindai/status/2043321284113670594",
+      "title": "Tech Valuations Are Back to Pre-AI Boom Levels",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
       "source_type": "community",
       "source_name": "Hacker News",
-      "published_at": "2026-04-12T18:53:35+00:00",
-      "score": 16,
-      "comments": 1,
+      "published_at": "2026-04-12T22:13:22+00:00",
+      "score": 24,
+      "comments": 3,
       "summary": null,
-      "tags": [
-        "Claude"
-      ],
-      "content": "JavaScript is not available.\nWe’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using x.com. You can see a list of supported browsers in our Help Center.\nHelp Center\nTerms of Service\nPrivacy Policy\nCookie Policy\nImprint\nAds info\n© 2026 X Corp.\nSomething went wrong, but don’t fret — let’s give it another shot.\nTry again\nSome privacy related extensions may cause issues on x.com. Please disable them and try again.",
-      "title_ko": "Claude Opus 4.6 accuracy on BridgeBench hallucination test drops from 83% to 68%",
+      "tags": [],
+      "content": "Macroeconomic Indicators & Trends\nApril 11, 2026\nTech Valuations Back to Pre-AI Boom Levels\nAbout the Author\nTorsten\n                        Slok\nPartner, Chief Economist\nShare\nThe chart below compares the forward P/E ratios for the S&P 500 and the S&P 500 Information Technology sector.\nTech valuations have compressed from 40x to 20x, and we are back at levels last seen before the AI boom began.\n1 page\nNote: The companies listed represent the 10 largest constituents in the S&P 500 Information Technology index by market capitalization: NVIDIA Corp, Apple Inc, Microsoft Corp, Broadcom Inc, Oracle Corp, Micron Technology Inc, Palantir Technologies Inc, Advanced Micro Devices Inc, Cisco Systems Inc, and Applied Materials Inc. Sources: Bloomberg, Macrobond, Apollo Chief Economist\nDownload high-res chart\nDisclosures\nThis presentation may not be distributed, transmitted or otherwise communicated to others in whole or in part without the express consent of Apollo Global Management, Inc. (together with its subsidiaries, “Apollo”).\nApollo makes no representation or warranty, expressed or implied, with respect to the accuracy, reasonableness, or completeness of any of the statements made during this presentation, including, but not limited to, statements obtained from third parties. Opinions, estimates and projections constitute the current judgment of the speaker as of the date indicated. They do not necessarily reflect the views and opinions of Apollo and are subject to change at any time without notice. Apollo does not have any responsibility to update this presentation to account for such changes. There can be no assurance that any trends discussed during this presentation will continue.\nStatements made throughout this presentation are not intended to provide, and should not be relied upon for, accounting, legal or tax advice and do not constitute an investment recommendation or investment advice. Investors should make an independent investigation of the information discussed during this presentation, including consulting their tax, legal, accounting or other advisors about such information. Apollo does not act for you and is not responsible for providing you with the protections afforded to its clients. This presentation does not constitute an offer to sell, or the solicitation of an offer to buy, any security, product or service, including interest in any investment product or fund or account managed or advised by Apollo.\nCertain statements made throughout this presentation may be “forward-looking” in nature. Due to various risks and uncertainties, actual events or results may differ materially from those reflected or contemplated in such forward-looking information. As such, undue reliance should not be placed on such statements. Forward-looking statements may be identified by the use of terminology including, but not limited to, “may”, “will”, “should”, “expect”, “anticipate”, “target”, “project”, “estimate”, “intend”, “continue” or “believe” or the",
+      "title_ko": "Tech Valuations Are Back to Pre-AI Boom Levels",
       "summary_ko": ""
     },
     {
@@ -187,7 +185,7 @@
       "source_type": "community",
       "source_name": "Hacker News",
       "published_at": "2026-04-12T20:22:37+00:00",
-      "score": 10,
+      "score": 13,
       "comments": 0,
       "summary": null,
       "tags": [],
@@ -223,7 +221,7 @@
       "tags": [
         "Apple"
       ],
-      "content": "In Brief\nPosted:\n12:58 PM PDT · April 12, 2026\nImage Credits:\nKevin Dietsch / Staff / Getty Images\nAnthony Ha\nApple reportedly testing four designs for upcoming smart glasses\nApple plans to sell its first smart glasses in 2027, with a possible unveiling at the end of this year,\naccording to Bloomberg’s Mark Gurman\n.\nGurman has been reporting steadily on the evolution of the company’s\nsmart glasses strategy\n, but now he has more details about how they’ll look — he said Apple is testing four designs, and could ultimately launch with some or all of them.\nThose designs reportedly include a large rectangular frame, a slimmer rectangular frame (similar to the glasses worn by CEO Tim Cook), a larger oval or circular frame, and a smaller oval or circular frame. Apple is also considering different colors including black, ocean blue, and light brown.\nIn some ways, these glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices — a plan that already stumbled with product delays and\nthe lackluster reception of the Vision Pro\n.\nThese glasses, meanwhile, sound closer to the\nMeta’s Ray-Ban glasses\n. They won’t have any displays, but will allow users to take photos and videos (Apple is reportedly oval camera lenses), answer phone calls, play music, and interact with\nthe long-promised Siri upgrade\n.\nTopics\nAI\n,\nApple\n,\nGadgets\n,\nHardware\n,\nSMART Glasses\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nRelated\nSocial\nX says it’s reducing payments to clickbait accounts\nAnthony Ha\n5 hours ago\nTransportation\nTechCrunch Mobility: Who is poaching all the self-driving vehicle talent?\nKirsten Korosec\n6 hours ago\nAI\nFrom LLMs to hallucinations, here’s a simple guide to common AI terms\nNatasha Lomas\nRomain Dillet\nKyle Wiggers\nLucas Ropek\n7 hours ago\nLatest in Gadgets\nIn Brief\nApple reportedly testing four designs for upcoming smart glasses\nAnthony Ha\n2 hours ago\nHardware\nAmazon to end support for older Kindle devices\nLauren Forristal\n4 days ago\nIn Brief\nApple’s foldable iPhone is on track to launch in September, report says\nAisha Malik\nApr 7, 2026",
+      "content": "In Brief\nPosted:\n12:58 PM PDT · April 12, 2026\nImage Credits:\nKevin Dietsch / Staff / Getty Images\nAnthony Ha\nApple reportedly testing four designs for upcoming smart glasses\nApple plans to sell its first smart glasses in 2027, with a possible unveiling at the end of this year,\naccording to Bloomberg’s Mark Gurman\n.\nGurman has been reporting steadily on the evolution of the company’s\nsmart glasses strategy\n, but now he has more details about how they’ll look — he said Apple is testing four designs, and could ultimately launch with some or all of them.\nThose designs reportedly include a large rectangular frame, a slimmer rectangular frame (similar to the glasses worn by CEO Tim Cook), a larger oval or circular frame, and a smaller oval or circular frame. Apple is also considering different colors including black, ocean blue, and light brown.\nIn some ways, these glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices — a plan that already stumbled with product delays and\nthe lackluster reception of the Vision Pro\n.\nThese glasses, meanwhile, sound closer to the\nMeta’s Ray-Ban glasses\n. They won’t have any displays, but will allow users to take photos and videos (Apple is reportedly oval camera lenses), answer phone calls, play music, and interact with\nthe long-promised Siri upgrade\n.\nTopics\nAI\n,\nApple\n,\nGadgets\n,\nHardware\n,\nSMART Glasses\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nRelated\nSocial\nX says it’s reducing payments to clickbait accounts\nAnthony Ha\n6 hours ago\nTransportation\nTechCrunch Mobility: Who is poaching all the self-driving vehicle talent?\nKirsten Korosec\n6 hours ago\nAI\nFrom LLMs to hallucinations, here’s a simple guide to common AI terms\nNatasha Lomas\nRomain Dillet\nKyle Wiggers\nLucas Ropek\n7 hours ago\nLatest in Gadgets\nIn Brief\nApple reportedly testing four designs for upcoming smart glasses\nAnthony Ha\n3 hours ago\nHardware\nAmazon to end support for older Kindle devices\nLauren Forristal\n4 days ago\nIn Brief\nApple’s foldable iPhone is on track to launch in September, report says\nAisha Malik\nApr 7, 2026",
       "title_ko": "Apple reportedly testing four designs for upcoming smart glasses",
       "summary_ko": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
     },
@@ -433,7 +431,7 @@
         "open-source",
         "agents"
       ],
-      "content": "",
+      "content": "Editors Pick\nAgentic AI\nAI Agents\nTechnology\nAI Shorts\nArtificial Intelligence\nApplications\nLanguage Model\nLarge Language Model\nMachine Learning\nNew Releases\nOpen Source\nSoftware Engineering\nStaff\nTech News\nMiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built and iterated.\nWhat is MiniMax M2.7?\nMiniMax M2.7 is part of MiniMax’s M2-series of Mixture-of-Experts (MoE) models. MoE is an architectural design where only a subset of the total parameters are ‘activated’ during any inference pass, which makes the model significantly faster and cheaper to serve compared to a dense model of similar output quality.\nMiniMax M2.7 is built around three core capability areas: professional software engineering, professional office work, and what MiniMax calls Agent Teams — native multi-agent collaboration. MiniMax M2.7 is capable of building complex agent harnesses and completing highly elaborate productivity tasks, leveraging capabilities such as Agent Teams, complex Skills, and dynamic tool search.\nSOTA Benchmark Performance: SWE-Pro and Terminal Bench 2\nOn SWE-Pro, which covers multiple programming languages, MiniMax M2.7 achieved a 56.22% accuracy rate, matching GPT-5.3-Codex. SWE-Pro tasks span log analysis, bug troubleshooting, code security review, and machine learning workflow debugging — much closer to the messy reality of production systems than standard algorithmic coding tests.\nOn Terminal Bench 2 (57.0%) and NL2Repo (39.8%), both of which demand a high degree of system-level comprehension, MiniMax M2.7 performs solidly. The model excels not only at code generation but can also deeply understand the operational logic and collaborative dynamics of software systems.\nOn the repo-level code generation benchmark VIBE-Pro, MiniMax M2.7 scored 55.6%, nearly on par with Opus 4.6 — meaning whether the requirement involves Web, Android, iOS, or simulation tasks, they can be handed directly to MiniMax M2.7 to complete. It also demonstrates a strong advantage on benchmarks closer to real-world engineering scenarios: SWE Multilingual (76.5) and Multi SWE Bench (52.7).\nProduction Debugging: Under Three Minutes\nWhen faced with alerts in production, MiniMax M2.7 can correlate monitoring metrics with deployment timelines to perform causal reasoning, conduct statistical analysis on trace sampling and propose precise hypotheses, proactively connect to databases to verify root causes, pinpoint missing index migration files in the code repository, and use non-blocking index creation to stop the bleeding before submitting a merge request. MiniMax team reports that on multiple occasions, this reduced recovery time for live production system incidents to under three minutes. From",
       "title_ko": "MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2",
       "summary_ko": "MiniMax has officially open-sourced MiniMax M2.7, making the model weights publicly available on Hugging Face. Originally announced on March 18, 2026, MiniMax M2.7 is the MiniMax’s most capable open-source model to date — and its first model to actively participate in its own development cycle, a meaningful shift in how large language models are built […]\nThe post MiniMax Just Open Sourced MiniMax M2.7: A Self-Evolving Agent Model that Scores 56.22% on SWE-Pro and 57.0% on Terminal Bench 2 appeared first on MarkTechPost."
     },
