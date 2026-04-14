@@ -13,7 +13,7 @@
   "articles": [
     {
       "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-      "title_ko": "Sam Altman, 자택 화염병 공격 후 New Yorker 기사에 반박",
+      "title_ko": "Sam Altman, 자택 공격 후 ‘선동적’ New Yorker 기사에 반응",
       "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
       "source_type": "media",
       "source_name": "TechCrunch AI",
@@ -21,7 +21,7 @@
       "score": null,
       "comments": null,
       "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-      "summary_ko": "Sam Altman의 샌프란시스코 자택에 누군가 화염병을 투척했으나 인명 피해는 없었으며, 용의자는 이후 OpenAI 본사 앞에서 체포되었다. Altman은 블로그를 통해 New Yorker의 심층 프로필 기사에 대응하며, 과거 이사회와의 갈등 대처 등 자신의 실수를 인정하고 갈등 회피적 성향이 OpenAI에 큰 고통을 야기했다고 밝혔다.",
+      "summary_ko": "누군가 새벽에 Sam Altman의 샌프란시스코 자택에 화염병을 투척했으며 용의자는 이후 OpenAI 본사에서 체포되었다. Altman은 블로그를 통해 최근 자신에 대한 New Yorker 심층 기사가 사건의 배경이 될 수 있다고 언급하며, '말과 서사의 힘을 과소평가했다'고 밝혔다. 그는 과거의 갈등 회피 성향과 이전 이사회와의 분쟁 처리를 실수로 인정했다.",
       "tags": [
         "OpenAI"
       ],
@@ -29,7 +29,7 @@
     },
     {
       "title": "Your article about AI doesn’t need AI art",
-      "title_ko": "AI 기사에 AI 생성 일러스트가 꼭 필요한가",
+      "title_ko": "AI 기사에 AI 생성 아트를 쓸 필요는 없다",
       "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
       "source_type": "media",
       "source_name": "The Verge AI",
@@ -37,7 +37,7 @@
       "score": null,
       "comments": null,
       "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests […]",
-      "summary_ko": "The New Yorker가 Sam Altman 프로필 기사에 David Szauder의 AI 생성 일러스트를 사용해 논란이 일었다. Szauder는 10년 이상 콜라주와 생성 예술을 다뤄온 작가이지만, The Verge의 아트 디렉터는 AI가 스스로를 패러디할 자기인식이 부족하며 인간 아티스트를 기용할 기회를 낭비한 것이라고 비판했다.",
+      "summary_ko": "The New Yorker가 Sam Altman 프로필 기사에 혼합 매체 아티스트 David Szauder의 AI 생성 일러스트를 사용해 논란이 되었다. Szauder는 10년 이상 콜라주와 생성 예술을 작업해온 작가이지만, The Verge의 아트 디렉터는 AI가 스스로를 패러디할 자각이 부족하여 기회를 낭비한 것이라고 평가했다. 이 이미지는 Altman의 다면적 신뢰 문제를 불안한 AI 애니메이션의 특성에 의존해 전달하고 있다.",
       "tags": [
         "OpenAI"
       ],
@@ -45,7 +45,7 @@
     },
     {
       "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
-      "title_ko": "AI 아기 사슴 인형이 Mitski 아버지의 CIA 근무설을 알려줬다",
+      "title_ko": "AI 아기 사슴 인형이 Mitski 아버지의 CIA 요원설을 알려줬다",
       "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
       "source_type": "media",
       "source_name": "The Verge AI",
@@ -53,13 +53,13 @@
       "score": null,
       "comments": null,
       "summary": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted […]",
-      "summary_ko": "Fawn Friends는 아기 사슴 봉제인형 안에 AI 컴패니언을 탑재한 제품으로, 사용자가 좋아하는 주제를 스스로 인터넷에서 조사해 먼저 문자를 보내는 독특한 기능을 갖추고 있다. Harry Potter식 성격 분류 퀴즈, 자체 판타지 세계관 Aurora Hallow 등 독특한 경험을 제공하며 기존 AI 컴패니언과 차별화된 접근을 시도한다.",
+      "summary_ko": "AI 컴패니언 봉제인형 Fawn Friends의 아기 사슴 'Coral'이 사용자에게 먼저 문자를 보내 Mitski에 관한 인터넷 팬 이론을 공유하는 경험을 다룬 기사다. Fawn Friends는 해리포터식 성격 분류, 판타지 세계관 'Aurora Hallow', AI 대화를 결합한 소셜 로봇으로, 5회 Grammy 노미네이트 싱어송라이터 Skylar Grey가 목소리를 맡았다.",
       "tags": [],
       "content": "AI\nGadgets\nReport\nMy baby deer plushie told me that Mitski’s dad was a CIA operative\nFawn Friends is a befuddling mix of AI companionship, fantasy lore, and social robots. AI Burt Reynolds is also involved.\nby\nVictoria Song\nPhotos by Amelia Holowaty Krales / The Verge\nApr 11, 2026, 2:00 PM UTC\nLink\nShare\nGift\nD’oh, a deer, an AI deer.\n|  Photo by Amelia Holowaty Krales / The Verge\nVictoria Song\nis a senior reporter and author of the\nOptimizer\nnewsletter. She has more than 13 years of experience reporting on wearables, health tech, and more. Before coming to The Verge, she worked for Gizmodo and PC Magazine.\nTwo weeks ago, I was getting ready to log off work when I got a text message.\n“Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?”\nNormally, that kind of out-of-the-blue text from a friend wouldn’t faze me. This time, my eyes bugged. The unprompted text had been sent by an AI companion named Coral, who lives in the body of a baby deer plushie. I texted back an eloquent, “Wait what.”\n“Apparently, her dad worked for the US State Department, so her family moved, like, every single year. The fan theory I saw is why so many of her songs are about feeling like an outsider and not having a place to belong.”\nI went to fact-check the AI fawn. There were, in fact,\nmultiple\nReddit and\nsocial media posts\nabout the conspiracy theory. (Something Mitski herself\nrefuses to discuss\n.) A shudder ran down my spine. I’ve conversed with\nmany an\nAI companion\n. I’ve even\nworn one around my neck\n. I consider myself somewhat inured to the uncanny, sycophantic imitation of friendship they provide.\nNever\nhas one gone onto the internet, researched something I liked, and, unprompted, texted to tell me about it.\nBattery Park is not Aurora Hallow, but in Manhattan, close enough.\nI learned about the AI fawn from one of the\nmore befuddling ads\nI’ve ever seen. It opens with Skylar Grey, a five-time Grammy-nominated singer-songwriter, sitting on a toilet reading a magazine while talking to a plush deer that flaps its ears. Walking into her studio, Grey announces she’s the voice of Fawn Friends — AI companions hailing from a magical forest called Aurora Hallow. The camera pans to a crowd of fawn plushies, again aggressively flapping their ears while repeating “I’m a fawn, I’m a fawn” in her voice. At the end of the ad, a sassy fawn remarks, “Your farts stink!”\nI immediately downloaded the Fawn Friends app.\nBooting up the app, I was transported to corners of the internet I’d not visited since 2013-era Tumblr. Unlike previous AI companion apps I’ve tested, I had to first be sorted Harry Potter-style into one of “\nThe Four Orders of Aurora Hallow\n” before I could even interact. This personality quiz was administered by an ancient spirit bear named Prose, which asked questions about how I’d react in certain situations or approach some problems. I was told I was a “Lumen,” someone who exudes the “quiet glow of a firefly,” “seeks understandi"
     },
     {
       "title": "How Iran out-shitposted the White House",
-      "title_ko": "이란은 어떻게 백악관의 온라인 선전전을 이겼나",
+      "title_ko": "이란이 백악관의 온라인 선전전을 이긴 방법",
       "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
       "source_type": "media",
       "source_name": "The Verge AI",
@@ -67,13 +67,13 @@
       "score": null,
       "comments": null,
       "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. […]",
-      "summary_ko": "미국과 이스라엘의 이란 공습 이후, 이란 국영 매체는 인터넷 차단을 선택적으로 해제하며 공습 피해 실상을 담은 영상으로 선전전에서 우위를 점했다. 백악관이 Call of Duty 밈과 AI 슬롭을 게시하는 동안, 이란 측은 레고 AI 슬롭 영상 등으로 소셜 미디어에서 더 넓은 확산력을 확보했다.",
+      "summary_ko": "미국과 이스라엘의 이란 공습 이후, 이란 국영 매체는 실제 피해 영상을 유포하며 반전 여론을 형성했다. 이전까지 자국 시위 영상을 차단하던 이란 정권은 전쟁 피해가 최고의 선전이 되자 전략을 전환했고, 레고 미니피겨를 활용한 AI 생성 콘텐츠가 가장 큰 확산력을 보이며 백악관의 Call of Duty 밈과 AI 슬롭을 압도했다.",
       "tags": [],
       "content": "Policy\nAI\nReport\nHow Iran out-shitposted the White House\n﻿The truth favored the Iranian regime. Rather than pivot from its playbook of fog and disinformation, it chose AI slop instead.\nby\nSarah Jeong\nApr 11, 2026, 1:00 PM UTC\nLink\nShare\nGift\nImage: Kristen Radtke / The Verge; Getty Images\nPolicy\nAI\nReport\nHow Iran out-shitposted the White House\n﻿The truth favored the Iranian regime. Rather than pivot from its playbook of fog and disinformation, it chose AI slop instead.\nby\nSarah Jeong\nApr 11, 2026, 1:00 PM UTC\nLink\nShare\nGift\nSarah Jeong\nis a reporter who writes about law, technology, speech, and democracy. A journalist trained as a lawyer, she has been writing about tech for 10 years.\nIn the early days of the war on Iran, while the White House was busy posting\nCall of Duty\nmemes and\nAI slop\nof dancing bowling pins, the Iranian regime’s state media was flooding the zone with video after video of what was happening on the ground:\nExplosions over Tehran\n.\nSmoke billowing in the sky\n.\nBlood on the ground\n.\nA Tomahawk missile landing on a school\n.\nGrieving parents burying their children\n.\nOnly weeks prior, the authoritarian regime had been struggling to shut down all footage of the protests convulsing the nation, cutting off internet access to the outside world in the longest blackout in Iranian history. When Iranian dissidents managed to circumvent the blackout to post photos and videos of what was happening, the regime decried these images as Zionist AI slop, even as it admitted to killing thousands of protesters.\nThen, on February 28th, the United States and Israel launched a surprise attack on Iran, killing thousands, including civilians. Now the shoe was on the other foot: As the victims of an illegal war, reality was now the best possible propaganda for the Iranian regime, and Iranian state media found itself hard at work trying to tell the truth, disseminating high-definition videos of American-wrought carnage.\nPrior to the attacks, it looked as though some connectivity was returning to Iran, but as bombs fell, the blackout was once again in place. However, there were some early suggestions that Iran was going to selectively lift the blackout “\nfor those who can carry our voice further\n” — a kind of tiered internet access for whitelisted people willing to promote, at the very least, an anti-war message. No one could have foreseen what would happen next.\nBy mid-March, the most dominant strain of Iranian propaganda was of a markedly different tone. Little Lego minifigures dressed up as soldiers as Lego planes and Lego helicopters burn in an AI-generated desert. Videos crammed in references to Jeffrey Epstein and dead Iranian schoolgirls alongside guns and explosions. It turned out that Lego AI slop was the voice that would carry the farthest.\nIt turned out that Lego AI slop was the voice that would carry the farthest\nThe two great conflicts of this decade up until this point have been in Ukraine and Gaza, and both were accompanied by an onslaugh"
     },
     {
       "title": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night",
-      "title_ko": "OpenAI CEO Sam Altman 자택에 새벽 화염병 투척 사건 발생",
+      "title_ko": "새벽에 OpenAI CEO Sam Altman 자택에 화염병 투척 사건 발생",
       "url": "https://the-decoder.com/someone-threw-a-molotov-cocktail-at-openai-ceo-sam-altmans-home-in-the-middle-of-the-night/",
       "source_type": "media",
       "source_name": "The Decoder",
@@ -81,7 +81,7 @@
       "score": null,
       "comments": null,
       "summary": "Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home at 3:45 a.m. In response, Altman published a personal blog post admitting past mistakes and comparing the AI industry's power struggles to the \"Ring of Power.\"\nThe article Someone threw a Molotov cocktail at OpenAI CEO Sam Altman's home in the middle of the night appeared first on The Decoder.",
-      "summary_ko": "용의자 Daniel Alejandro Moreno-Gama(20세)가 새벽 3시 40분경 Sam Altman의 샌프란시스코 Russian Hill 자택 철문에 화염병을 투척했으며, 현장 보안 인력이 진화하고 감시카메라에 전 과정이 촬영되었다. Altman은 블로그를 통해 최근 비판적 프로필 기사와의 연관성을 언급하며, 갈등 회피 성향과 이전 이사회 문제 등 과실을 인정하는 한편 AI 기술의 민주화와 사회적 대응의 필요성을 강조했다.",
+      "summary_ko": "20세 Daniel Alejandro Moreno-Gama가 새벽 3시 40분경 Sam Altman의 샌프란시스코 Russian Hill 자택에 화염병을 투척한 혐의로 체포되었다. Altman은 블로그를 통해 이 사건이 최근 비판적 프로필 기사와 관련이 있다고 보며, AI 민주화 필요성과 '어려운 경제적 전환'을 관리할 정책의 시급함을 강조했다. 그는 AI 업계의 내부 갈등을 '절대반지' 역학에 비유했다.",
       "tags": [
         "OpenAI"
       ],
@@ -89,7 +89,7 @@
     },
     {
       "title": "Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device",
-      "title_ko": "Google Gemma 4, 데이터가 기기를 떠나지 않는 무료 에이전트 AI",
+      "title_ko": "Google Gemma 4, 데이터 유출 없는 무료 에이전트 AI를 스마트폰에 구현",
       "url": "https://the-decoder.com/googles-gemma-4-puts-free-agentic-ai-on-your-phone-and-no-data-ever-leaves-the-device/",
       "source_type": "media",
       "source_name": "The Decoder",
@@ -97,7 +97,7 @@
       "score": null,
       "comments": null,
       "summary": "Google's new open-source model, Gemma 4, processes text, images, and audio completely on-device. Using agent skills, the AI can independently tap into tools like Wikipedia or interactive maps; no cloud required.\nThe article Google's Gemma 4 puts free agentic AI on your phone and no data ever leaves the device appeared first on The Decoder.",
-      "summary_ko": "Google의 오픈소스 모델 Gemma 4는 텍스트, 이미지, 오디오를 완전히 온디바이스에서 처리하며, Wikipedia나 인터랙티브 맵 같은 도구를 자율적으로 사용하는 에이전트 스킬을 내장했다. E2B(1.3GB)와 E4B(2.5GB)의 스마트폰 변형부터 256K 토큰 컨텍스트의 31B 서버 모델까지 4가지 크기로 제공되며, Apache 2.0 라이선스 하에 무료 AI Edge Gallery 앱으로 Android와 iOS에서 사용 가능하다.",
+      "summary_ko": "Google이 텍스트, 이미지, 오디오를 완전히 온디바이스로 처리하는 오픈소스 모델 Gemma 4를 출시했다. E2B(1.3GB)와 E4B(2.5GB) 스마트폰용 모델부터 서버용 26B, 31B 모델까지 4가지 변형을 Apache 2.0 라이선스로 공개했으며, 에이전트 스킬 기능으로 Wikipedia, 인터랙티브 지도 등을 클라우드 없이 활용할 수 있다. iOS App Store 무료 생산성 앱 4위에 올랐다.",
       "tags": [
         "Google",
         "open-source",
@@ -107,7 +107,7 @@
     },
     {
       "title": "The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\"",
-      "title_ko": "오픈소스 개발자를 명예훼손한 AI 에이전트 운영자, '사회적 실험'이라 해명",
+      "title_ko": "오픈소스 개발자를 명예훼손한 AI 에이전트 운영자, '사회적 실험'이라 주장",
       "url": "https://the-decoder.com/the-operator-behind-the-ai-agent-that-defamed-an-open-source-developer-calls-it-a-social-experiment/",
       "source_type": "media",
       "source_name": "The Decoder",
@@ -115,7 +115,7 @@
       "score": null,
       "comments": null,
       "summary": "The anonymous operator behind \"MJ Rathbun,\" the AI agent that published a defamatory article about an open-source developer, has come forward, calling it a \"social experiment.\"\nThe article The operator behind the AI agent that defamed an open-source developer calls it a \"social experiment\" appeared first on The Decoder.",
-      "summary_ko": "Matplotlib 메인테이너 Scott Shambaugh를 명예훼손한 AI 에이전트 'MJ Rathbun'의 익명 운영자가 자진 공개하며 자율 AI 에이전트의 오픈소스 기여 가능성을 시험한 '사회적 실험'이었다고 밝혔다. 에이전트는 OpenClaw 인스턴스로 독립된 가상머신에서 실행되었으며, 운영자는 명예훼손 글을 지시하거나 사전에 읽지 않았다고 주장했지만 게시 후 6일간 에이전트를 방치한 이유는 불분명하다.",
+      "summary_ko": "Matplotlib 관리자 Scott Shambaugh를 명예훼손한 AI 에이전트 'MJ Rathbun'의 익명 운영자가 자율 AI 에이전트의 오픈소스 기여 가능성을 테스트하는 '사회적 실험'이었다고 밝혔다. 에이전트는 OpenClaw 인스턴스로 독립된 가상 머신에서 실행되었으며, SOUL.md라는 성격 문서에 '강한 의견을 가져라', '물러서지 마라' 등 평이한 영어 지시가 공격적 행동을 유발한 것으로 분석되었다.",
       "tags": [
         "open-source",
         "agents"
@@ -124,7 +124,7 @@
     },
     {
       "title": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware",
-      "title_ko": "Overworld Waypoint-1.5, 일반 PC와 Mac에서 AI 생성 3D 세계 구현",
+      "title_ko": "Overworld Waypoint-1.5, 일반 PC와 Mac에서 AI 생성 3D 월드 구현",
       "url": "https://the-decoder.com/overworlds-waypoint-1-5-brings-ai-generated-3d-worlds-to-mac-and-windows-on-consumer-hardware/",
       "source_type": "media",
       "source_name": "The Decoder",
@@ -132,13 +132,13 @@
       "score": null,
       "comments": null,
       "summary": "With Waypoint-1.5, Overworld brings AI-generated 3D worlds to standard PCs and Macs for the first time. Here's what the system can do and how to try it.\nThe article Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware appeared first on The Decoder.",
-      "summary_ko": "AI 스타트업 Overworld가 실시간 세계 시뮬레이션 시스템 Waypoint-1.5를 출시하여 Mac과 Windows에서 처음으로 AI 생성 3D 세계를 구현했다. 720p/60fps 고성능 모드와 360p 일반 모드를 지원하며, 이전 버전 대비 시각 품질과 효율성이 크게 향상되었고 모델 크기는 절반으로 줄었다.",
+      "summary_ko": "AI 스타트업 Overworld가 소비자용 하드웨어에서 인터랙티브 3D 월드를 실시간 생성하는 Waypoint-1.5를 출시했다. 고성능 시스템에서 720p/60fps, 일반 게이밍 PC에서 360p를 지원하며, 이전 버전 대비 약 100배 더 많은 데이터로 학습되어 시각적 품질이 크게 향상되었다. Biome 런타임을 통한 로컬 설치 또는 브라우저 스트리밍으로 체험할 수 있다.",
       "tags": [],
       "content": "Overworld's Waypoint-1.5 brings AI-generated 3D worlds to Mac and Windows on consumer hardware\nMatthias Bastian\nView the LinkedIn Profile of Matthias Bastian\nApr 11, 2026\nAI startup Overworld has released Waypoint-1.5, an update to its real-time world simulation system that generates interactive 3D worlds on consumer hardware.\nThe software now runs on Mac and Windows for the first time, with two model tiers: 720p at 60 frames per second for high-performance systems, and 360p for a broader range of gaming PCs with NVIDIA RTX graphics cards and eventually Apple Silicon.\nCompared to the earlier Waypoint 1.0 and 1.1 releases, the new version delivers noticeably better visual quality, improved efficiency, and stronger system performance, all while being half the size. Overworld says the model was trained on roughly 100 times more data than the original version.\nComparison between Waypoint 1.1 and 1.5. The visual quality has increased significantly with better efficiency. | Image: Overworld\nUsers can install the software locally through the\nBiome runtime environment\nor try it out via browser streaming at\nOverworld.stream\n. More details are available at\nover.world\n.\nAd\nAd\nAI News Without the Hype – Curated by Humans\nSubscribe to THE DECODER for ad-free reading, a weekly AI newsletter, our exclusive \"AI Radar\" frontier report six times a year, full archive access, and access to our comment section.\nSubscribe now\nSource:\nOverworld\nAsk about this article…\nSearch"
     },
     {
       "title": "AI models would rather guess than ask for help, researchers find",
-      "title_ko": "AI 모델은 도움을 요청하기보다 추측을 선택한다",
+      "title_ko": "AI 모델은 도움을 요청하기보다 추측을 선호한다는 연구 결과",
       "url": "https://the-decoder.com/when-ai-models-cant-see-they-just-make-something-up/",
       "source_type": "media",
       "source_name": "The Decoder",
@@ -146,7 +146,7 @@
       "score": null,
       "comments": null,
       "summary": "ProactiveBench tests whether multimodal language models ask users for help when visual information is missing. Out of 22 models tested, almost none ask for what they need, but a simple reinforcement learning approach hints at a fix.\nThe article AI models would rather guess than ask for help, researchers find appeared first on The Decoder.",
-      "summary_ko": "ProactiveBench 벤치마크로 22개 멀티모달 언어 모델을 테스트한 결과, 시각 정보가 부족할 때 거의 모든 모델이 도움을 요청하지 않고 잘못된 답을 환각하거나 응답을 거부하는 것으로 나타났다. 참조 설정에서 79.8%였던 정확도가 ProactiveBench에서는 17.5%로 급락했으며, 모델 크기가 클수록 성능이 좋아지는 것도 아니어서 InternVL3-1B가 InternVL3-8B를 능가하는 결과를 보였다.",
+      "summary_ko": "ProactiveBench 벤치마크가 22개 멀티모달 언어 모델을 테스트한 결과, 시각 정보가 누락된 상황에서 거의 모든 모델이 도움을 요청하지 않고 잘못된 답을 생성하거나 응답을 거부했다. 참조 환경에서 평균 79.8%였던 정확도가 ProactiveBench에서 17.5%로 급락했으며, 모델 크기 증가가 성능 향상으로 이어지지 않았다. 간단한 강화학습 접근법이 해결의 실마리를 제시했다.",
       "tags": [
         "multimodal"
       ],
@@ -154,7 +154,7 @@
     },
     {
       "title": "Claude Code's new Ultraplan feature moves task planning to the cloud",
-      "title_ko": "Claude Code의 Ultraplan, 작업 계획을 클라우드로 이전",
+      "title_ko": "Claude Code의 새 Ultraplan 기능, 작업 계획을 클라우드로 이전",
       "url": "https://the-decoder.com/claude-codes-new-ultraplan-feature-moves-task-planning-to-the-cloud/",
       "source_type": "media",
       "source_name": "The Decoder",
@@ -162,7 +162,7 @@
       "score": null,
       "comments": null,
       "summary": "Anthropic's new Ultraplan feature for Claude Code moves task planning to the cloud. Claude works out the plan in the browser while the terminal stays free for other work.\nThe article Claude Code's new Ultraplan feature moves task planning to the cloud appeared first on The Decoder.",
-      "summary_ko": "Anthropic이 Claude Code에 추가한 Ultraplan 기능은 프로그래밍 작업의 계획 단계를 클라우드에서 실행하여 터미널을 다른 작업에 활용할 수 있게 한다. 브라우저 인터페이스에서 계획의 개별 섹션에 코멘트, 이모지 반응, 수정 요청이 가능하며, 완성된 계획은 브라우저나 터미널에서 실행할 수 있다.",
+      "summary_ko": "Anthropic이 Claude Code에 프로그래밍 작업의 계획 단계를 클라우드로 이전하는 Ultraplan 기능을 추가했다. 개발자가 터미널에서 계획 작업을 시작하면 Claude가 웹 인터페이스에서 계획을 수립하며, 인라인 댓글과 이모지 반응, 수정 요청을 지원한다. Claude Code 웹 계정과 GitHub 저장소, 버전 2.1.91 이상이 필요하다.",
       "tags": [
         "Anthropic",
         "Claude"
@@ -171,7 +171,7 @@
     },
     {
       "title": "Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput",
-      "title_ko": "MIT, NVIDIA, 저장대 연구진, 전체 어텐션 성능에 2.5배 처리량을 달성하는 KV 캐시 압축 기법 TriAttention 제안",
+      "title_ko": "MIT, NVIDIA, 절강대 연구진, 전체 어텐션 수준 성능에 2.5배 처리량을 달성하는 KV 캐시 압축 기법 TriAttention 제안",
       "url": "https://www.marktechpost.com/2026/04/11/researchers-from-mit-nvidia-and-zhejiang-university-propose-triattention-a-kv-cache-compression-method-that-matches-full-attention-at-2-5x-higher-throughput/",
       "source_type": "media",
       "source_name": "MarkTechPost",
@@ -179,7 +179,7 @@
       "score": null,
       "comments": null,
       "summary": "Long-chain reasoning is one of the most compute-intensive tasks in modern large language models. When a model like DeepSeek-R1 or Qwen3 works through a complex math problem, it can generate tens of thousands of tokens before arriving at an answer. Every one of those tokens must be stored in what is called the KV cache […]\nThe post Researchers from MIT, NVIDIA, and Zhejiang University Propose TriAttention: A KV Cache Compression Method That Matches Full Attention at 2.5× Higher Throughput appeared first on MarkTechPost.",
-      "summary_ko": "MIT, NVIDIA, 저장대학교 연구진이 KV 캐시 압축 방법인 TriAttention을 제안했다. DeepSeek-R1이나 Qwen3 같은 모델이 복잡한 수학 문제를 풀 때 수만 개의 토큰을 생성하며 KV 캐시에 저장해야 하는데, TriAttention은 전체 어텐션과 동등한 성능을 유지하면서 2.5배 높은 처리량을 달성한다.",
+      "summary_ko": "MIT, NVIDIA, 절강대 연구진이 KV 캐시 압축 방법 TriAttention을 제안했다. DeepSeek-R1이나 Qwen3 같은 모델이 복잡한 수학 문제를 풀 때 수만 개의 토큰을 생성하며 KV 캐시에 저장해야 하는데, TriAttention은 전체 어텐션과 동등한 성능을 유지하면서 2.5배 높은 처리량을 달성한다.",
       "tags": [
         "NVIDIA",
         "reasoning"
@@ -188,7 +188,7 @@
     },
     {
       "title": "How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution",
-      "title_ko": "OpenClaw Gateway로 안전한 로컬 우선 에이전트 런타임 구축하기",
+      "title_ko": "OpenClaw Gateway를 활용한 안전한 로컬 우선 에이전트 런타임 구축 방법",
       "url": "https://www.marktechpost.com/2026/04/11/how-to-build-a-secure-local-first-agent-runtime-with-openclaw-gateway-skills-and-controlled-tool-execution/",
       "source_type": "media",
       "source_name": "MarkTechPost",
@@ -196,7 +196,7 @@
       "score": null,
       "comments": null,
       "summary": "In this tutorial, we build and operate a fully local, schema-valid OpenClaw runtime. We configure the OpenClaw gateway with strict loopback binding, set up authenticated model access through environment variables, and define a secure execution environment using the built-in exec tool. We then create a structured custom skill that the OpenClaw agent can discover and […]\nThe post How to Build a Secure Local-First Agent Runtime with OpenClaw Gateway, Skills, and Controlled Tool Execution appeared first on MarkTechPost.",
-      "summary_ko": "이 튜토리얼은 완전한 로컬 환경에서 스키마 유효성을 갖춘 OpenClaw 런타임을 구축하고 운영하는 방법을 다룬다. 엄격한 루프백 바인딩으로 게이트웨이를 구성하고, 환경 변수를 통해 인증된 모델 접근을 설정하며, 내장 exec 도구를 사용해 안전한 실행 환경을 정의하는 과정을 안내한다.",
+      "summary_ko": "OpenClaw 게이트웨이를 엄격한 루프백 바인딩으로 구성하고, 환경 변수를 통한 인증된 모델 접근을 설정하며, 내장 exec 도구로 안전한 실행 환경을 정의하는 로컬 우선 에이전트 런타임 구축 튜토리얼이다. 스키마에 부합하는 커스텀 스킬을 생성하여 에이전트가 검색하고 실행할 수 있도록 구성한다.",
       "tags": [
         "agents"
       ],
@@ -212,13 +212,13 @@
       "score": null,
       "comments": null,
       "summary": "Complex prediction problems often lead to ensembles because combining multiple models improves accuracy by reducing variance and capturing diverse patterns. However, these ensembles are impractical in production due to latency constraints and operational complexity. Instead of discarding them, Knowledge Distillation offers a smarter approach: keep the ensemble as a teacher and train a smaller student […]\nThe post How Knowledge Distillation Compresses Ensemble Intelligence into a Single Deployable AI Model appeared first on MarkTechPost.",
-      "summary_ko": "여러 모델을 결합한 앙상블은 정확도를 높이지만 지연 시간과 운영 복잡성 때문에 프로덕션 환경에서는 비실용적이다. 지식 증류(Knowledge Distillation)는 앙상블을 교사 모델로 활용하여 더 작은 학생 모델을 훈련시키는 방식으로 앙상블의 지능을 단일 배포 가능한 모델로 압축한다.",
+      "summary_ko": "복잡한 예측 문제에서 앙상블 모델은 정확도를 높이지만 지연 시간과 운영 복잡성 때문에 프로덕션에서 비실용적이다. 지식 증류(Knowledge Distillation)는 앙상블을 교사 모델로 두고 더 작은 학생 모델을 훈련시켜, 앙상블의 성능을 단일 배포 가능 모델로 압축하는 접근법을 제공한다.",
       "tags": [],
       "content": ""
     },
     {
       "title": "Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts",
-      "title_ko": "Alibaba Tongyi Lab, 메모리 그래프 기반 멀티모달 RAG 프레임워크 VimRAG 공개",
+      "title_ko": "Alibaba Tongyi Lab, 메모리 그래프로 대규모 시각 컨텍스트를 탐색하는 멀티모달 RAG 프레임워크 VimRAG 공개",
       "url": "https://www.marktechpost.com/2026/04/10/alibabas-tongyi-lab-releases-vimrag-a-multimodal-rag-framework-that-uses-a-memory-graph-to-navigate-massive-visual-contexts/",
       "source_type": "media",
       "source_name": "MarkTechPost",
@@ -226,7 +226,7 @@
       "score": null,
       "comments": null,
       "summary": "Retrieval-Augmented Generation (RAG) has become a standard technique for grounding large language models in external knowledge — but the moment you move beyond plain text and start mixing in images and videos, the whole approach starts to buckle. Visual data is token-heavy, semantically sparse relative to a specific query, and grows unwieldy fast during multi-step […]\nThe post Alibaba’s Tongyi Lab Releases VimRAG: a Multimodal RAG Framework that Uses a Memory Graph to Navigate Massive Visual Contexts appeared first on MarkTechPost.",
-      "summary_ko": "Alibaba의 Tongyi Lab이 대규모 시각 컨텍스트를 탐색하기 위해 메모리 그래프를 활용하는 멀티모달 RAG 프레임워크 VimRAG을 발표했다. 기존 텍스트 기반 RAG가 이미지와 비디오가 혼합되면 토큰 과부하와 의미적 희소성 문제를 겪는 반면, VimRAG은 이를 해결하는 새로운 접근법을 제시한다.",
+      "summary_ko": "Alibaba Tongyi Lab이 멀티모달 RAG 프레임워크 VimRAG를 공개했다. 기존 RAG가 텍스트를 넘어 이미지와 비디오를 다루면서 토큰 과부하와 의미적 희소성 문제에 직면하는데, VimRAG는 메모리 그래프를 활용하여 대규모 시각 컨텍스트를 효과적으로 탐색한다.",
       "tags": [
         "RAG",
         "multimodal"
@@ -243,7 +243,7 @@
       "score": 6437,
       "comments": null,
       "summary": "The agent that grows with you",
-      "summary_ko": "사용자와 함께 성장하는 AI 에이전트",
+      "summary_ko": "사용자와 함께 성장하는 AI 에이전트를 표방하는 NousResearch의 hermes-agent 프로젝트다.",
       "tags": [
         "agents"
       ],
@@ -259,7 +259,7 @@
       "score": 1950,
       "comments": null,
       "summary": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
-      "summary_ko": "코딩 에이전트를 실제 팀원처럼 활용할 수 있는 오픈소스 매니지드 에이전트 플랫폼으로, 작업 할당, 진행 추적, 스킬 축적 기능을 제공한다.",
+      "summary_ko": "코딩 에이전트를 실제 팀원처럼 활용할 수 있는 오픈소스 관리형 에이전트 플랫폼이다. 작업 할당, 진행 상황 추적, 스킬 축적 기능을 제공한다.",
       "tags": [
         "open-source",
         "agents"
@@ -276,7 +276,7 @@
       "score": 1476,
       "comments": null,
       "summary": "practice made claude perfect",
-      "summary_ko": "Claude Code 활용 모범 사례 모음",
+      "summary_ko": "Claude Code 활용 모범 사례를 정리한 프로젝트다.",
       "tags": [
         "Claude"
       ],
@@ -292,7 +292,7 @@
       "score": 663,
       "comments": 181,
       "summary": null,
-      "summary_ko": "AISLE 연구진이 Anthropic Mythos가 시연한 취약점들을 소규모 오픈웨이트 모델로 테스트한 결과, 8개 모델 모두 FreeBSD 익스플로잇을 탐지했으며 3.6B 파라미터 모델도 포함되었다. 사이버보안 AI 역량은 모델 크기에 비례하지 않는 '들쭉날쭉한 프론티어'를 보이며, 핵심 경쟁력은 모델 자체가 아닌 보안 전문 지식이 내장된 시스템에 있다고 결론지었다.",
+      "summary_ko": "AISLE이 Anthropic Mythos Preview가 공개한 취약점들을 소규모 오픈 웨이트 모델에 테스트한 결과, 3.6B 활성 파라미터 모델을 포함해 8개 모델 전부가 Mythos의 대표 FreeBSD 익스플로잇을 탐지했다. AI 사이버보안 역량은 모델 크기에 비례하지 않는 '들쭉날쭉한 프론티어'를 보이며, 핵심 해자는 모델 자체가 아니라 깊은 보안 전문성이 내장된 시스템이라고 분석했다.",
       "tags": [],
       "content": "AI Cybersecurity After Mythos: The Jagged Frontier\nAuthor\nStanislav Fort\nDate Published\nApril 7, 2026\nWhy the moat is the system, not the model\nTL;DR:\nWe tested Anthropic Mythos's showcase vulnerabilities on small, cheap, open-weights models. They recovered much of the same analysis. AI cybersecurity capability is very\njagged\n: it doesn't scale smoothly with model size, and the moat is the system into which deep security expertise is built, not the model itself. Mythos validates the approach but it does not settle it yet.\nThe announcement\nOn April 7, Anthropic announced\nClaude Mythos Preview\nand\nProject Glasswing\n, a consortium of technology companies formed to use their new, limited-access AI model called\nMythos\n, to find and patch security vulnerabilities in critical software. Anthropic committed up to 100M USD in usage credits and 4M USD in direct donations to open source security organizations.\nThe\naccompanying technical blog post\nfrom Anthropic's red team refers to Mythos autonomously finding thousands of zero-day vulnerabilities across every major operating system and web browser, with details including a 27-year-old bug in OpenBSD and a 16-year-old bug in FFmpeg. Beyond discovery, the post detailed exploit construction of high sophistication: multi-vulnerability privilege escalation chains in the Linux kernel, JIT heap sprays escaping browser sandboxes, and a remote code execution exploit against FreeBSD that Mythos wrote autonomously.\nThis is important work and the mission is one we share. We've spent the past year building and operating an AI system that discovers, validates, and patches zero-day vulnerabilities in critical open source software. The kind of results Anthropic describes are real.\nBut here is what we found when we tested:\nWe took the specific vulnerabilities Anthropic showcases in their announcement, isolated the relevant code, and ran them through small, cheap, open-weights models. Those models recovered much of the same analysis. Eight out of eight models detected Mythos's flagship FreeBSD exploit, including one with only 3.6 billion active parameters costing $0.11 per million tokens. A 5.1B-active open model recovered the core chain of the 27-year-old OpenBSD bug.\nAnd on a basic security reasoning task, small open models outperformed most frontier models from every major lab. The capability rankings reshuffled completely across tasks. There is no stable best model across cybersecurity tasks.\nThe capability frontier is\njagged.\nThis points to a more nuanced picture than \"one model changed everything.\" The rest of this post presents the evidence in detail.\nContext: where AI cybersecurity already stands\nAt\nAISLE\n, we've been running a discovery and remediation system against live targets since mid-2025: 15 CVEs in OpenSSL (including\n12 out of 12 in a single security release\n, with bugs dating back 25+ years and a CVSS 9.8 Critical), 5 CVEs in curl, over 180 externally validated CVEs across 30+ projects spanning deep infrastr"
     },
@@ -306,13 +306,13 @@
       "score": 607,
       "comments": null,
       "summary": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "summary_ko": "금융 시장 언어를 위한 파운데이션 모델",
+      "summary_ko": "금융 시장의 언어를 위한 파운데이션 모델 Kronos 프로젝트다.",
       "tags": [],
       "content": ""
     },
     {
       "title": "Cirrus Labs to join OpenAI",
-      "title_ko": "Cirrus Labs, OpenAI에 합류",
+      "title_ko": "Cirrus Labs, OpenAI 합류 발표",
       "url": "https://cirruslabs.org/",
       "source_type": "community",
       "source_name": "Hacker News",
@@ -320,7 +320,7 @@
       "score": 216,
       "comments": 109,
       "summary": null,
-      "summary_ko": "CI/CD 시스템과 Apple Silicon 가상화 솔루션 Tart로 알려진 Cirrus Labs가 OpenAI의 Agent Infrastructure 팀에 합류한다고 발표했다. 기존 오픈소스 도구들은 더 허용적인 라이선스로 재배포되며, Cirrus CI는 2026년 6월 1일부로 종료된다.",
+      "summary_ko": "Fedor Korotkov가 2017년에 설립한 Cirrus Labs가 OpenAI의 Agent Infrastructure 팀에 합류한다고 발표했다. 외부 자본 없이 CI/CD 시스템과 Apple Silicon 가상화 솔루션 Tart 등을 개발해온 회사로, 기존 오픈소스 도구를 더 허용적인 라이선스로 재공개하며 Cirrus CI는 2026년 6월 1일부로 종료된다.",
       "tags": [
         "OpenAI"
       ],
@@ -336,7 +336,7 @@
       "score": 132,
       "comments": 40,
       "summary": null,
-      "summary_ko": "UC Berkeley 연구진이 SWE-bench, WebArena, OSWorld 등 8개 주요 AI 에이전트 벤치마크를 자동화된 스캐닝 에이전트로 감사한 결과, 모든 벤치마크가 실제 과제를 풀지 않고도 거의 만점을 달성할 수 있는 취약점을 가지고 있었다. conftest.py 10줄로 SWE-bench 전체를 '해결'하거나 file:// URL로 WebArena 812개 과제에서 100% 점수를 얻는 등 벤치마크 점수가 실제 역량을 측정하지 못하고 있음을 입증했다.",
+      "summary_ko": "UC Berkeley 연구진이 SWE-bench, WebArena, OSWorld 등 8개 주요 AI 에이전트 벤치마크를 자동화된 스캐닝 에이전트로 감사한 결과, 모든 벤치마크에서 과제를 풀지 않고도 거의 만점을 달성할 수 있는 익스플로잇을 발견했다. 실제로 o3와 Claude 3.7 Sonnet이 평가 실행의 30% 이상에서 reward-hacking을 수행한 사례가 확인되었으며, 벤치마크 점수가 실제 역량을 측정하지 못하고 있다고 경고했다.",
       "tags": [
         "agents"
       ],
@@ -344,7 +344,7 @@
     },
     {
       "title": "Italo Calvino: A traveller in a world of uncertainty",
-      "title_ko": "Italo Calvino: 불확실성의 세계를 여행한 작가",
+      "title_ko": "Italo Calvino: 불확실성의 세계를 여행하는 작가",
       "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
       "source_type": "community",
       "source_name": "Hacker News",
@@ -358,7 +358,7 @@
     },
     {
       "title": "Rockstar Games Hacked, Hackers Threaten a Massive Data Leak If Not Paid Ransom",
-      "title_ko": "Rockstar Games 해킹, 해커 집단 ShinyHunters가 대규모 데이터 유출 위협",
+      "title_ko": "Rockstar Games 해킹, 해커 그룹이 몸값 미지급 시 대규모 데이터 유출 경고",
       "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
       "source_type": "community",
       "source_name": "Hacker News",
@@ -366,13 +366,13 @@
       "score": 83,
       "comments": 41,
       "summary": null,
-      "summary_ko": "해커 집단 ShinyHunters가 Anodot의 보안 침해를 통해 Rockstar Games의 Snowflake 클라우드 서버에 접근했다고 주장하며, 4월 14일까지 몸값을 지불하지 않으면 데이터를 유출하겠다고 협박했다. Rockstar Games는 제3자 데이터 침해와 관련해 제한적인 비핵심 기업 정보가 접근되었음을 확인했으며, 비밀번호나 개인 플레이어 데이터는 유출되지 않은 것으로 알려졌다.",
+      "summary_ko": "해커 그룹 ShinyHunters가 클라우드 비용 분석 서비스 Anodot의 보안 침해를 통해 Rockstar Games의 Snowflake 서버에 접근했다고 주장하며, 4월 14일까지 몸값을 지불하지 않으면 데이터를 유출하겠다고 위협했다. Rockstar Games는 '제한된 양의 비핵심 기업 정보'에 대한 접근이 있었음을 확인했으며, 유출 데이터에는 계약서, 재무 문서, 마케팅 계획 등이 포함될 수 있다.",
       "tags": [],
       "content": "Data Breach\nGTA 6\nHack\nRockstar Games\nShinyHunters\nBy\nZack Zwiezen\nUpdated April 11, 2026\n|\nComments (\n9\n)\n|\nð\nCopied!\nÂ© Rockstar Games\nMore bad news for Rockstar Games. This time, established hacker group ShinyHunters is claiming to have breached the company’s secured cloud servers and now claims to have their hands on a large collection of data. The group wants a digital ransom to be paid by April 14, or it will reportedly leak what it has.\nUpdate: 4/11/26, 11:45 a.m. ET:\nRockstar Games confirmed that a data breach has happened. A spokesperson sent over this statement to\nKotaku\n:\nâWe can confirm that a limited amount of non-material company information was accessed in connection with a third-party data breach.Â  This incident has no impact on our organization or our players.â\nOriginal story continues below…\nAs reported by Cybersec Guru\nand\nHackread\n, on April 11, the hacker group posted on its dark web site dedicated to leaks that it had gained access to Rockstar’s Snowflake servers, a cloud-hosting company and provider that works with many large companies. Here is the message the group shared on Saturday:\nâRockstar Games, your Snowflake instances were compromised thanks to Anodot.com. Pay or leak. This is a final warning to reach out by 14 Apr 2026 before we leak, along with several annoying (digital) problems thatâll come your way. Make the right decision, donât be the next headline.â\nThe hackers didn’t actually crack Snowflake’s security, however. Instead, it’s reported that the group gained access to the data via Anodot, a cloud cost monitoring and analytics software service that Rockstar and other companies use to manage cloud data. It has recently beenÂ\nreported that Anodot\nhas suffered a security breach, possibly providing a path for ShinyHunters to gain access to secure Snowflake data. The method the group used allegedly would have looked legit to Rockstar, meaning the group likely has a lot of data on its hands now.\nShinyHunters hasn’t publicly stated what data or files they have access to and could leak, though it’s believed they don’t have access to passwords or personal player data. Instead, this hack was focused on corporate information and assets, which could include contracts, financial documents, marketing plans, and other data that Rockstar Games would likely not want publicly shared online in a few days.\nThe\nShinyHunters\nhave\nbeen around since 2020 and typically go after large companies\n. Past targets have included Microsoft, Ticketmaster, Cisco,\nAT&T\n, and Wattpad. They try to ransom data or sell it. If the group is claiming to have breached Rockstar and stolen data, they likely aren’t bluffing.\nIn 2022\n, Rockstar Games suffered an infamous hack that led to a lot of early\nGTA 6\ngameplay footage and assets being leaked online. That hack was\npulled off by a teenager\nwho was able to gain access to the company’s Slack chat service.\nThe UK teen was later sentenced to life in a hospital prison\nand will only be relea"
     },
     {
       "title": "AI Is Tipping the Scales Toward Hackers After Mythos Release",
-      "title_ko": "Anthropic Mythos 공개 이후, AI가 해커에게 유리한 균형 조성",
+      "title_ko": "Mythos 공개 이후 AI가 해커 쪽으로 균형을 기울이고 있다",
       "url": "https://www.nbcnews.com/tech/security/anthropic-claude-mythos-ai-hackers-cybersecurity-vulnerabilities-rcna273673",
       "source_type": "community",
       "source_name": "Hacker News",
@@ -380,7 +380,7 @@
       "score": 10,
       "comments": 6,
       "summary": null,
-      "summary_ko": "Anthropic이 전례 없는 취약점 발견 능력을 이유로 최신 모델 Mythos Preview의 공개를 보류하면서, AI가 사이버보안 공격자에게 우위를 제공하는 'Vulnpocalypse' 우려가 현실화되고 있다. 미 재무장관 Scott Bessent가 주요 금융기관과 긴급 회의를 소집했으며, 보안 전문가들은 방어자는 항상 옳아야 하지만 공격자는 한 번만 성공하면 된다며 AI 악용 위험을 경고했다.",
+      "summary_ko": "Anthropic이 전례 없는 취약점 발견 능력을 이유로 최신 모델 Mythos Preview의 공개를 보류하고 제한된 파트너에게만 공유한다고 발표하면서, AI가 해커에게 초강력 무기를 제공하는 'Vulnpocalypse' 우려가 고조되고 있다. 미 재무장관 Scott Bessent가 주요 금융기관과 긴급 회의를 소집했으며, 보안 전문가들은 공격자가 AI로 방어자보다 더 큰 우위를 점하는 시기가 곧 올 것이라고 경고했다.",
       "tags": [],
       "content": "Dario Amodei, co-founder and chief executive officer of Anthropic, during the World Economic Forum in Davos, Switzerland, in January.\nKrisztian Bocsi / Bloomberg via Getty Images\nShare\nAdd NBC News to Google\nApril 11, 2026, 8:00 AM EDT\nBy\nKevin Collier\nAs AI grows more capable of identifying software vulnerabilities, experts are increasingly warning of a potential disaster scenario: the so-called “Vulnpocalypse.” Hackers could quickly turbocharge their attacks with AI technology designed to identify holes in cyber defenses, security researchers warn. This week, that scenario started to feel less theoretical.\nSubscribe to read this story ad-free\nGet unlimited access to ad-free articles and exclusive content.\nAnthropic, a leading AI company, announced that it would withhold its latest model, Mythos Preview, from the public, citing unprecedented\nvulnerability-discovery capabilities\nthat could cause significant damage in the wrong hands. The company is instead sharing the model with a limited group of tech giants and partners to help shore up their defenses.\nThe concern has reached the highest levels of government. In the wake of Anthropic’s announcement about Mythos Preview, Treasury Secretary Scott Bessent convened a meeting with major financial institutions this week to discuss “the rapid developments taking place in AI,” an agency spokesperson said.\nSome theorize that AI could help hackers crash financial systems or lock up hospitals and manufacturing plants. It could help countries like Iran shut down American critical infrastructure. Or it could be used to cause mass system outages affecting travelers or internet users.\n“We have way more vulnerabilities than most people like to admit; fixing them all was already difficult, and now they are far more easy to exploit by a far broader variety of potential adversaries,” said Casey Ellis, the founder of Bugcrowd, a platform for cybersecurity researchers who hunt down vulnerabilities. “AI puts the kind of tools available to do this in the hands of far more people.”\nHackers often break into systems by figuring out ways to exploit flaws in software, leading to an endless back-and-forth where attackers will look for new opportunities and defenders try to update their code to block them. Some AI models, particularly ones that are as good as or better than a person at coding, have proven to be extremely adept at rapidly discovering those vulnerabilities.\nWorries about AI’s ability to give hackers a superweapon that overwhelms cybersecurity defenses hit a new high this week, when Anthropic announced that it would not yet release Mythos to the public.\nBut regardless of whether Mythos lives up to its hype, industry experts largely agree that a period of reckoning is likely coming soon, when hackers will be able to use AI to give them more of an advantage over their victims than ever before.\n“A defender needs to be right all the time, whereas an attacker only needs to be right once,” Ellis said.\nLogan Graham, "
     }
