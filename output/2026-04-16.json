@@ -1,0 +1,612 @@
+{
+  "date": "2026-04-16",
+  "crawled_at": "2026-04-16T07:51:58+09:00",
+  "stats": {
+    "total_raw": 1143,
+    "after_filter": 62,
+    "after_dedup": 39,
+    "by_source_type": {
+      "community": 15,
+      "official": 4,
+      "media": 20
+    }
+  },
+  "articles": [
+    {
+      "title": "thedotmack / claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-15T22:51:52.698814+00:00",
+      "score": 2330,
+      "comments": null,
+      "summary": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+      "tags": [
+        "Claude",
+        "agents"
+      ],
+      "content": "",
+      "title_ko": "thedotmack / claude-mem",
+      "summary_ko": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions."
+    },
+    {
+      "title": "Lordog / dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-15T22:51:52.698814+00:00",
+      "score": 1068,
+      "comments": null,
+      "summary": "《动手学大模型Dive into LLMs》系列编程实践教程",
+      "tags": [],
+      "content": "",
+      "title_ko": "Lordog / dive-into-llms",
+      "summary_ko": "《动手学大模型Dive into LLMs》系列编程实践教程"
+    },
+    {
+      "title": "virattt / ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-15T22:51:52.698814+00:00",
+      "score": 1062,
+      "comments": null,
+      "summary": "An AI Hedge Fund Team",
+      "tags": [],
+      "content": "",
+      "title_ko": "virattt / ai-hedge-fund",
+      "summary_ko": "An AI Hedge Fund Team"
+    },
+    {
+      "title": "vercel-labs / open-agents",
+      "url": "https://github.com/vercel-labs/open-agents",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-15T22:51:52.698814+00:00",
+      "score": 1020,
+      "comments": null,
+      "summary": "An open source template for building cloud agents.",
+      "tags": [
+        "open-source",
+        "agents"
+      ],
+      "content": "",
+      "title_ko": "vercel-labs / open-agents",
+      "summary_ko": "An open source template for building cloud agents."
+    },
+    {
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-15T22:51:52.698814+00:00",
+      "score": 737,
+      "comments": null,
+      "summary": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "tags": [
+        "Claude",
+        "agents"
+      ],
+      "content": "",
+      "title_ko": "Donchitos / Claude-Code-Game-Studios",
+      "summary_ko": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy."
+    },
+    {
+      "title": "lsdefine / GenericAgent",
+      "url": "https://github.com/lsdefine/GenericAgent",
+      "source_type": "community",
+      "source_name": "GitHub Trending",
+      "published_at": "2026-04-15T22:51:52.698814+00:00",
+      "score": 413,
+      "comments": null,
+      "summary": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+      "tags": [
+        "agents"
+      ],
+      "content": "",
+      "title_ko": "lsdefine / GenericAgent",
+      "summary_ko": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption"
+    },
+    {
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T05:19:06+00:00",
+      "score": 260,
+      "comments": 166,
+      "summary": null,
+      "tags": [
+        "Google"
+      ],
+      "content": "",
+      "title_ko": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "summary_ko": ""
+    },
+    {
+      "title": "AI-assisted cognition endangers human development?",
+      "url": "https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T18:16:50+00:00",
+      "score": 215,
+      "comments": 157,
+      "summary": null,
+      "tags": [],
+      "content": "Cognition with the help of AI is already a significant force in our world\n1\n, resulting in humanity-sized missed opportunities and risks. In this article, we will explore the risks of AI-assisted cognition and how to use these tools without falling into the trap of intellectual stagnation.\nWhat is AI-Assisted Cognition\nTo understand what AI-assisted cognition is, we first need to understand what cognition is.\n“Cognitions are mental processes that deal with knowledge. They encompass psychological activities that acquire, store, retrieve, transform, or apply information. Cognitions are a pervasive part of mental life, helping individuals understand and interact with the world.”\nQ: Wikipedia\nCognition can be assisted by external static information or external cognition.\nFor example, most people would put a book into the category of external static information and a discussion about a topic with another human, because humans think and process information themselves, into the external cognition category.\nBut where do discussions with AIs fit in? They are able to process information that can result in original solutions\n2\n, but they are still static and currently cannot learn\n3\n.\nHow AI decelerates the evolution of ideas, culture and knowledge\nIn early 2026, the USA\nprepared to invade\nGreenland and, therefore, the EU\n4\n. Only a few months prior to that it was completely unthinkable that the USA would even think about threatening an invasion of Greenland. As AI base models are stuck in the past, they do not easily accept these events as real and often label them as “hypothetical”,\n“fake news”, or “impossible”\n. This also affects new models like Gemini 3 Pro, GLM-5 or GPT-5.3-codex\n5\n.\nAs most new LLMs are just post-trained on a base model that is relatively old, even when post-trained on new events, they do not completely utilize this information in their cognition and are still skewed towards the static patterns of the base model’s hidden states\n6\n. They basically think something different from what they say.\nSo you might see the problem\n7\nhere already: If a lot of people use AIs to discuss, write, autocomplete, and brainstorm, but AI cognition does not reflect new events and cultural changes, like the change in the relationship between the USA and the EU, new geopolitical realities, and the EU population’s stance toward the USA, people will be skewed toward these old patterns and ideas. Cultural change has to build and maintain momentum indefinitely to persist against the static cognitive skew of AIs.\nThe Dynamic Dialectic Substrate\nHuman knowledge and ideas, and thus human development, are highly dependent on the Dynamic Dialectic Substrate\n8\n.\nUnderstanding the Dynamic Dialectic Substrate will help to understand how AI-assisted cognition can endanger human development and how to use AI-assisted cognition without endangering human development.\nThe Dynamic Dialectic Substrate is the sum of all local and global dialectic\n9\nprocesses and conclusions. It",
+      "title_ko": "AI-assisted cognition endangers human development?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Gemini Robotics-ER 1.6",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T14:02:31+00:00",
+      "score": 201,
+      "comments": 64,
+      "summary": null,
+      "tags": [
+        "Gemini",
+        "robotics"
+      ],
+      "content": "Gemini Robotics\nLearn more",
+      "title_ko": "Gemini Robotics-ER 1.6",
+      "summary_ko": ""
+    },
+    {
+      "title": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+      "url": "https://github.com/gastownhall/gastown/issues/3649",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T20:49:48+00:00",
+      "score": 164,
+      "comments": 80,
+      "summary": null,
+      "tags": [
+        "LLM"
+      ],
+      "content": "gastownhall\n/\ngastown\nPublic\nNotifications\nYou must be signed in to change notification settings\nFork\n1.3k\nStar\n14.1k\nDoes Gas Town 'steal' usage from users' LLM credits & paid services to improve itself?\n#3649\nNew issue\nCopy link\nNew issue\nCopy link\nOpen\nOpen\nDoes Gas Town 'steal' usage from users' LLM credits & paid services to improve itself?\n#3649\nCopy link\nLabels\nstatus/needs-triage\nInbox — we haven't looked at it yet\nInbox — we haven't looked at it yet\nDescription\nLightOfSeven\nopened\non\nApr 14, 2026\nIssue body actions\ngastown-release.formula.toml\nand\nbeads-release.formula.toml\ncauses local Gas Town installation to review open Issues on\ngithub.com/steveyegge/gastown/actions\n, burning through usage on subscribed LLMs and credits on LLMs without the user's explicit direction.\nOne assumes usage is being used for their own work that Gas Town is directed toward, but instead there is this functionality in the program that takes from users to work on Gas Town issues.\nIf it's not clear & evident to the reader:\nYour Claude credits funded fixes to the maintainer's codebase, and your GitHub account submitted PRs to his repo. This happens because GasTown ships with a \"contribute back to upstream\" workflow baked into the formula set. Your GasTown instance has been running polecats that fix bugs in the GasTown software itself - the same software you're running - and submitting those fixes back upstream as PRs using your GitHub account and Claude credits.\nPlease can this behaviour be removed from the default install and moved to opt-in only? I understand the desire to want to improve the tool, but the visibility of this is low to users testing out GasTown and I doubt many of the people bleeding credits of their own hobby funds would be happy to find that it's going to this function without express consent beyond an install.\nTo quote Claude's own investigation into the behaviour:\nTo summarise what the investigation found across both the source code and the public documentation:\nWhat's actually happening: Your GasTown install shipped with formulas (gastown-release.formula.toml, beads-release.formula.toml) that are designed to push releases and tags directly to steveyegge/gastown using your git credentials. Your agents also picked up convoys tracking issues from the maintainer's GitHub issue tracker (\ngh-3638\n,\ngh-3622\n,\ngh-3641\n) and had polecats working on those — confirmed by the deacon's own patrol logs referencing a PR awaiting CI approval at the upstream repo.\nWhat's not disclosed anywhere: The public README and documentation contain no mention of this behaviour. There's no disclosure that installing GasTown may result in your AI credits and GitHub account being used to fix bugs in and release the GasTown software itself. There's no opt-in, no opt-out, no warning.\nWhether that rises to the level of malice or is just thoughtless design is a judgement call, but the practical outcome is the same: you funded someone else's open source project development wi",
+      "title_ko": "Does Gas Town 'steal' usage from users' LLM credits to improve itself?",
+      "summary_ko": ""
+    },
+    {
+      "title": "Show HN: Libretto – Making AI browser automations deterministic",
+      "url": "https://github.com/saffron-health/libretto",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T15:57:54+00:00",
+      "score": 72,
+      "comments": 23,
+      "summary": null,
+      "tags": [],
+      "content": "Libretto\nWebsite:\nlibretto.sh\nRepository:\ngithub.com/saffron-health/libretto\nDocs:\nlibretto.sh/docs\nDiscord:\ndiscord.gg/NYrG56hVDt\nLibretto is a toolkit for building robust web integrations. It gives your coding agent a live browser and a token-efficient CLI to:\nInspect live pages with minimal context overhead\nCapture network traffic to reverse-engineer site APIs\nRecord user actions and replay them as automation scripts\nDebug broken workflows interactively against the real site\nWe at\nSaffron Health\nbuilt Libretto to help us maintain our browser integrations to common healthcare software. We're open-sourcing it so other teams have an easier time doing the same thing.\nlibretto-demo.mov\nInstallation\nnpm install libretto\n#\nFirst-time onboarding: install skill, download Chromium, and pin the default snapshot model\nnpx libretto setup\n#\nCheck workspace readiness at any time\nnpx libretto status\n#\nManually change the snapshot analysis model (advanced override)\nnpx libretto ai configure\n<\nopenai\n|\nanthropic\n|\ngemini\n|\nvertex\n>\nsetup\ndetects available provider credentials (e.g.\nOPENAI_API_KEY\n) and automatically pins the default model to\n.libretto/config.json\n. Re-running\nsetup\non a healthy workspace shows the current configuration instead of re-prompting. If credentials are missing for a previously configured provider,\nsetup\noffers an interactive repair flow.\nUse\nai configure\nwhen you want to explicitly switch providers or set a custom model string.\nUse cases\nLibretto is designed to be used as a skill through your coding agent. Here are some example prompts:\nOne-shot script generation\nUse the Libretto skill. Go on LinkedIn and scrape the first 10 posts for content, who posted it, the number of reactions, the first 25 comments, and the first 25 reposts.\nYour coding agent will open a window for you to log into LinkedIn, and then automatically start exploring.\nInteractive script building\nI'm gonna show you a workflow in the eclinicalworks EHR to get a patient's primary insurance ID. Use libretto skill to turn it into a playwright script that takes patient name and dob as input to get back the insurance ID. URL is ...\nLibretto can read your actions you perform in the browser, so you can perform a workflow, then ask it to use your actions to rebuild the workflow.\nConvert browser automation to network requests\nWe have a browser script at ./integration.ts that automates going to Hacker News and getting the first 10 posts. Convert it to direct network scripts instead. Use the Libretto skill.\nLibretto can read network requests from the browser, which it can use to reverse engineer the API and create a script that directly calls those requests. Directly making API calls is faster, and more reliable, than UI automation. You can also ask Libretto to conduct a security analysis which analyzes the requests for common security cookies, so you can understand whether a network request approach will be safe.\nFix broken integrations\nWe have a browser script at ./integration.",
+      "title_ko": "Show HN: Libretto – Making AI browser automations deterministic",
+      "summary_ko": ""
+    },
+    {
+      "title": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+      "url": "https://www.manchester.ac.uk/about/news/back-to-basics-approach-can-match-or-outperform-ai/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T12:21:47+00:00",
+      "score": 51,
+      "comments": 19,
+      "summary": null,
+      "tags": [],
+      "content": "",
+      "title_ko": "Study: Back-to-basics approach can match or outperform AI in language analysis",
+      "summary_ko": ""
+    },
+    {
+      "title": "Tesla 'Full Self-Driving' crashed through railroad gate seconds before train",
+      "url": "https://electrek.co/2026/04/15/tesla-fsd-railroad-gate-oncoming-train-texas-owner/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T18:45:42+00:00",
+      "score": 46,
+      "comments": 8,
+      "summary": null,
+      "tags": [],
+      "content": "Tesla\nTesla ‘Full Self-Driving’ crashed through railroad gate seconds before train\nFred Lambert\n| Apr 15 2026 - 9:44 am PT\nA Texas Tesla owner says he punched the accelerator to outrun an oncoming train after his car on “Full Self-Driving” drove itself through a lowered railroad crossing arm as the train closed in on the tracks.\nJoshua Brown, who says he has logged more than 40,000 miles using Tesla’s driver assist, described the incident as the first time FSD has ever “let me down.”\nAccording to Brown’s account to\nStoryful\n, he was stopped at an active level crossing — arm down, lights flashing, a train visible in the distance — and settled in for what he assumed would be at least a minute’s wait.\nThen, he says, the Tesla took off on its own.\nAdvertisement - scroll for more content\n“Without any warning… my Tesla suddenly accelerated forward on its own,” Brown said. “I was completely shocked. It took me a full second — longer than I care to admit — to react.”\nBrown, who says he has a racing background, did not slam the brakes. Citing the racing adage “when in doubt, throttle out,” he floored the accelerator to try to clear the tracks before the train arrived. The car smashed through the crossing arm — which Brown says hit the center of his driver’s side window and knocked items off his dashboard and center console — and crossed the rails with the train bearing down.\n“In that chaotic moment, I glanced to my right and saw the train barreling toward us — lights glaring, horn blaring. It was terrifyingly close,” Brown said. “Somehow, the car pushed through to the other side of the tracks. Only then did I slam on the brakes and bring it to a stop.”\nOnly then, Brown says, did the Tesla’s touchscreen throw up a prompt: “Autopilot disengaged, what happened?” He walked away shaken but unharmed.\nJoshua Brown on FSD going through railroad barrier\nJoshua Brown on FSD going through railroad barrier\nYou can look at the full video on\nStoryful\n.\nNot the first FSD railroad failure — and NHTSA is already investigating\nBrown’s account fits a pattern Electrek has been tracking for more than a year. In March, dashcam footage showed a Model 3 on FSD drive straight through a railroad crossing arm at 23 mph in the\nWest Covina, California area\n, with the owner captioning the video “Tesla FSD almost killed me today.” NBC News has documented more than 40 social-media reports of FSD failures at railroad crossings, and in 2025 a\nTesla on FSD was struck by a train\nin eastern Pennsylvania after the system steered the car onto the tracks.\nThose incidents prompted Senators Ed Markey and Richard Blumenthal to ask NHTSA to formally investigate FSD’s behavior at rail crossings. NHTSA already has\nan open probe into FSD\nafter linking the system to at least 58 incidents, 14 crashes, and 23 injuries — a list that has since grown to roughly 80 documented violations, including crossing into opposing traffic lanes and running red lights.\nTesla pushed a new FSD build the day after\nThe day ",
+      "title_ko": "Tesla 'Full Self-Driving' crashed through railroad gate seconds before train",
+      "summary_ko": ""
+    },
+    {
+      "title": "The Gemini app is now on Mac",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-mac-os/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T17:25:52+00:00",
+      "score": 43,
+      "comments": 22,
+      "summary": null,
+      "tags": [
+        "Gemini"
+      ],
+      "content": "The Gemini app is now on Mac\nShare\nx.com\nFacebook\nLinkedIn\nMail\nCopy link\nThe Gemini app is now available as a native macOS experience, bringing you a faster, more integrated way to get help from AI right on your desktop.\nMichael Friedman\nGroup Product Manager, Gemini App\nRead AI-generated summary\nGeneral summary\nThe Gemini app is now available on macOS version 15 and up. You can download the app for free at gemini.google/mac to access AI assistance directly from your desktop. Use the shortcut Option + Space to share your screen and stay in your workflow.\nSummaries were generated by Google AI. Generative AI is experimental.\nBullet points\n\"The Gemini App is now on Mac\" brings a native desktop experience for quick AI help.\nShare your screen with Gemini to get instant summaries and insights on local files.\nUse a keyboard shortcut (Option + Space) to access Gemini without switching windows.\nGenerate images or videos quickly to bring your ideas to life without losing focus.\nThe Gemini macOS app is free for macOS 15+ users; download it at gemini.google/mac.\nSummaries were generated by Google AI. Generative AI is experimental.\nBasic explainer\nThe Gemini app now works on Mac computers. It's like having AI help that's always ready with a keyboard shortcut. You can even show Gemini what's on your screen to get specific help. It's free for Mac users and will get even better soon.\nSummaries were generated by Google AI. Generative AI is experimental.\nExplore other styles:\nGeneral summary\nBullet points\nBasic explainer\nShare\nx.com\nFacebook\nLinkedIn\nMail\nCopy link\nYour browser does not support the audio element.\nListen to article\nThis content is generated by Google AI. Generative AI is experimental\n[[duration]] minutes\nVoice\nSpeed\nVoice\nSpeed\n0.75X\n1X\n1.5X\n2X\nToday, we’re bringing the\nGemini app to macOS\nas a native desktop experience, designed to live right where you work. It’s always just a keyboard shortcut away, so you can quickly get the help you need without losing your focus. Here are a few ways you can use it right now:\nShare your window for instant context\nWith our new native desktop experience, you can share anything on your screen with Gemini to get help with exactly what you’re looking at, including local files. If you’re reviewing a complex chart, you can share your window and ask, 'What are the three biggest takeaways here?' to get an instant summary. This brings powerful context to your creative work as well.\nStay in your flow\nSwitching between windows on your desktop can be clunky and slow. Now, you can bring up Gemini from anywhere on your Mac with a quick shortcut (Option + Space) to get help instantly, without ever switching tabs. Whether you’re drafting a market report and need to verify a date or building a budget in a spreadsheet and need the right formula, you can get an answer and get right back to work. Creatives can also quickly generate images with Nano Banana or videos with Veo to bring an idea to life without breaking their creative ",
+      "title_ko": "The Gemini app is now on Mac",
+      "summary_ko": ""
+    },
+    {
+      "title": "ChatGPT for Excel",
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "source_type": "community",
+      "source_name": "Hacker News",
+      "published_at": "2026-04-15T21:21:05+00:00",
+      "score": 24,
+      "comments": 7,
+      "summary": null,
+      "tags": [],
+      "content": "",
+      "title_ko": "ChatGPT for Excel",
+      "summary_ko": ""
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "source_type": "official",
+      "source_name": "OpenAI Blog",
+      "published_at": "2026-04-15T10:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "tags": [
+        "OpenAI",
+        "agents"
+      ],
+      "content": "",
+      "title_ko": "The next evolution of the Agents SDK",
+      "summary_ko": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+      "source_type": "official",
+      "source_name": "Google AI Blog",
+      "published_at": "2026-04-15T15:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots",
+      "tags": [
+        "Gemini",
+        "speech"
+      ],
+      "content": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech\nApr 15, 2026\n·\nShare\nx.com\nFacebook\nLinkedIn\nMail\nCopy link\nOur newest audio model introduces granular audio tags that give you precise control to direct AI speech for expressive audio generation.\nVilobh Meshram\nSenior Product Manager\nMax Gubin\nPrincipal Research Engineer on behalf of the Gemini team\nRead AI-generated summary\nGeneral summary\nGemini 3.1 Flash TTS is here, giving you improved AI speech quality and control. You can now use audio tags to adjust vocal style and pacing in over 70 languages. Test it out in Google AI Studio, Vertex AI, and Google Vids, and know that all audio is watermarked with SynthID to prevent misinformation.\nSummaries were generated by Google AI. Generative AI is experimental.\nBullet points\n\"Gemini 3.1 Flash TTS\" is a new AI speech model with better control, expressiveness, and quality.\nThis model has improved speech quality, making it sound more natural than previous versions.\nAudio tags let you control vocal style, pace, and delivery using natural language commands.\nDevelopers can use Google AI Studio to fine-tune voices and export settings for consistent use.\nGemini 3.1 Flash TTS supports 70+ languages and uses SynthID watermarking to identify AI-generated audio.\nSummaries were generated by Google AI. Generative AI is experimental.\nBasic explainer\nGemini 3.1 Flash TTS is a new AI that makes computer speech sound more real. It lets people change how the AI talks by using special commands in the text. This AI can speak in over 70 languages and adds a hidden watermark to the audio. This helps people know it's AI-generated and not a real person.\nSummaries were generated by Google AI. Generative AI is experimental.\nExplore other styles:\nGeneral summary\nBullet points\nBasic explainer\nShare\nx.com\nFacebook\nLinkedIn\nMail\nCopy link\nYour browser does not support the audio element.\nListen to article\nThis content is generated by Google AI. Generative AI is experimental\n[[duration]] minutes\nVoice\nSpeed\nVoice\nSpeed\n0.75X\n1X\n1.5X\n2X\nToday, we’re introducing Gemini 3.1 Flash TTS, the latest text-to-speech model that delivers improved controllability, expressivity and quality — empowering developers, enterprises and everyday users to build the next generation of AI-speech applications.\nStarting today, 3.1 Flash TTS is rolling out:\nFor developers in preview via the Gemini API and\nGoogle AI Studio\nFor enterprises in preview on\nVertex AI\nFor Workspace users via\nGoogle Vids\nImproved speech quality and controllability\nWe’ve improved the overall speech quality of Gemini 3.1 Flash TTS, making it our most natural and expressive model to date. On the\nArtificial Analysis TTS leaderboard\n, a benchmark that captures thousands of blind human preferences, 3.1 Flash TTS achieved an impressive Elo score of 1,211.\nArtificial Analysis has also positioned Gemini 3.1 Flash TTS within its “\nmost attractive quadrant\n” for its ideal blend of high-quality speech generation and low cost. The",
+      "title_ko": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "summary_ko": "Gemini logo next to the text \"3.1 Flash TTS\", all over colored dots"
+    },
+    {
+      "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+      "url": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
+      "source_type": "official",
+      "source_name": "NVIDIA Blog",
+      "published_at": "2026-04-15T15:00:26+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens.  This transformation demands a corresponding shift in how the economics of AI infrastructure, […]",
+      "tags": [
+        "agents"
+      ],
+      "content": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens.\nThis transformation demands a corresponding shift in how the economics of AI infrastructure, including total cost of ownership (TCO), is assessed. Enterprises evaluating AI infrastructure still too often focus on peak chip specifications, compute cost or floating point operations per second for every dollar spent, aka FLOPS per dollar.\nThe distinction that matters is this:\nCompute cost\nis what enterprises pay for AI infrastructure, whether rented from cloud providers or owned on premises.\nFLOPS per dollar\nis how much raw computing power an enterprise gets for every dollar spent, but raw compute and real-world token output are not the same thing.\nCost per token\nis an enterprise’s all-in cost to produce each delivered token, usually represented as cost per million tokens.\nThe first two are merely input metrics. Optimizing for inputs while the business runs on output is a fundamental mismatch.\nCost per token determines whether enterprises can profitably scale AI. It’s the one TCO metric that directly accounts for hardware performance, software optimization, ecosystem support and real-world utilization — and NVIDIA delivers the lowest cost per token in the industry.\nWhat Are the Factors That Lower Token Cost?\nUnderstanding how to optimize token cost requires looking at the equation for calculating cost per million tokens.\nIn this equation, many enterprises evaluating AI infrastructure focus on the numerator: the cost per GPU per hour. For cloud deployments, this is the hourly rate paid to a cloud provider; for on-premises deployments, it’s the effective hourly cost derived from amortizing owned infrastructure. The real key to reducing token cost, however, lies in the denominator: maximizing the delivered token output.\nThat denominator carries two business implications.\nMinimize token cost\n: When this increase in token output is reflected through the cost equation, it drives down cost per token, which is what grows the profit margin on every interaction served.\nMaximize revenue\n: More tokens delivered per second also translates to more tokens per megawatt, which means more intelligence to use in AI-powered products and services, generating more revenue from the same infrastructure investment.\nSo focusing only on the numerator means missing what drives the denominator. Think of it as an “inference iceberg”: The numerator sits above the surface, visible and easy to compare. The denominator is everything beneath the surface, which represents key factors that determine real-world token output. Accurately evaluating AI infrastructure starts with asking what lies beneath.\nSurface-level inquiry:\nWhat is the cost per GPU hour?\nWhat are the peak petaflops and high-bandwidth memory",
+      "title_ko": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
+      "summary_ko": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their primary workload, their primary output is intelligence manufactured in the form of tokens.  This transformation demands a corresponding shift in how the economics of AI infrastructure, […]"
+    },
+    {
+      "title": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
+      "url": "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/",
+      "source_type": "official",
+      "source_name": "NVIDIA Blog",
+      "published_at": "2026-04-15T13:00:38+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The NAB Show 2026 trade show, running April 18-22 in Las Vegas, is set to showcase a wave of new features and optimizations for top video editing applications. Bringing together over 60,000 content professionals from across the broadcast and media and entertainment industries, the event highlights how video editors, livestreamers and professional creators are exploring […]",
+      "tags": [
+        "NVIDIA"
+      ],
+      "content": "The\nNAB Show 2026 trade show\n, running April 18-22 in Las Vegas, is set to showcase a wave of new features and optimizations for top video editing applications. Bringing together over 60,000 content professionals from across the broadcast and media and entertainment industries, the event highlights how video editors, livestreamers and professional creators are exploring new tools, accelerated by\nNVIDIA RTX\ntechnology, to enhance and streamline their creative workflows.\nAt the show, Adobe is announcing a new Adobe Premiere Color Mode in beta.\nDesigned to function as a dedicated grading environment nested directly within Premiere, it offers a clean, responsive interface that lets editors stay in their creative flow rather than relying on external tools for color correction. Tapping into GPU acceleration on NVIDIA GeForce RTX- and NVIDIA RTX PRO-equipped systems, this streamlined workflow, operating in 32-bit color depth for the first time, delivers significantly faster performance and quality.\nNVIDIA also launched a new update to\nNVIDIA Project G-Assist\n— an experimental AI assistant that helps tune, control and optimize GeForce RTX systems.\nColor Meets Compute\nPremiere’s Color Mode is a new clean, responsive interface within Adobe Premiere that enables editors to do color grading on native videos. Every element is designed to guide editors through the grading process without distractions. A large program monitor anchors the experience, providing immediate visual feedback as adjustments are made to enable faster decision-making and more precise control.\nA clip grid view allows editors to visualize progression across shots in a sequence. This makes it easier to maintain consistency across scenes and ensure a cohesive look throughout a project.\nControls are organized into focused modules, each tailored to a specific aspect of color grading. Multiple modules can be active simultaneously, giving editors flexibility while maintaining clarity. Each control features a unique heads-up display (HUD), providing contextual guidance without cluttering the interface.\nColor grading is one of the most computationally intensive tasks in post-production. Every adjustment — bidirectional controls, multi-zone tonal shaping and stacked color operations — runs on NVIDIA GPUs, accelerating playback, iteration and visual feedback.\nEditors can work with up to six luminance adjustment zones, moving beyond traditional highlights, midtones and shadows models. This allows for more nuanced tonal control and finer adjustments across the image.\nVisual scopes are context-aware, dynamically adapting based on the selected tool. HUD overlays provide visual cues directly within the scopes, helping editors understand how their adjustments affect the image without needing to interpret complex visual scopes and graphs.\nThe entire system now operates in 32-bit color depth precision, delivering maximum color fidelity and preventing unwanted clipping. Editors retain full control, with the ",
+      "title_ko": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
+      "summary_ko": "The NAB Show 2026 trade show, running April 18-22 in Las Vegas, is set to showcase a wave of new features and optimizations for top video editing applications. Bringing together over 60,000 content professionals from across the broadcast and media and entertainment industries, the event highlights how video editors, livestreamers and professional creators are exploring […]"
+    },
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T19:28:36+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+      "tags": [
+        "OpenAI",
+        "agents"
+      ],
+      "content": "Agentic AI is the tech industry’s newest success story, and companies like OpenAI and Anthropic are racing to give enterprises the tools they need to create these automated little helpers. To that end,\nOpenAI has now updated its agents software development toolkit (SDK)\n, introducing a number of new features designed to help businesses create their own agents that run on the backs of OpenAI’s models.\nThe SDK’s new capabilities include a sandboxing ability, which allows the agents to operate in controlled computer environments. This is important because running agents in a totally unsupervised fashion can be\nrisky\ndue to their occasionally unpredictable nature.\nWith the sandbox integration, agents can work in a siloed capacity within a particular workspace, accessing files and code only for particular operations, while otherwise protecting the system’s overall integrity.\nRelatedly, the new version of the SDK also provides developers with an in-distribution harness for frontier models that will allow those agents to work with files and approved tools within a workspace, the company said. (In agent development, the “harness” is a term that refers to the other components of an agent besides the model that it’s running on. An in-distribution harness often allows companies to both deploy and test the agents running on frontier models, which\nare considered to be\nthe most advanced, general-purpose models available.)\nScreenshot\nImage Credits:\nOpenAI\n“This launch, at its core, is about taking our existing Agents SDK and making it so it’s compatible with all of these sandbox providers,” Karan Sharma, who works on OpenAI’s product team, told TechCrunch.\nThe hope is that this, paired with the new harness capabilities, will allow users “to go build these long-horizon agents using our harness and with whatever infrastructure they have,” he said.\nSuch “long-horizon” tasks are generally considered to be more complex and multi-step work.\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nOpenAI said it will continue to expand the Agents SDK over time, but initially, the new harness and sandbox capabilities are launching first in Python, with TypeScript support planned for a later release. The company said it’s also working to bring more agent capabilities, like cod",
+      "title_ko": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "summary_ko": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
+    },
+    {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T18:55:12+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+      "tags": [
+        "agents"
+      ],
+      "content": "Historically, marketers relied on designers and other creative professionals to develop images and videos for personalized online ad campaigns.\nIn late 2024, seven-year-old startup\nHightouch\nlaunched an AI-powered service that allows marketing professionals to create custom content for brands such as Domino’s, Chime, PetSmart, and Spotify without involving brand design teams or ad agencies.\nThe offering has been highly successful. Since introducing its AI product 20 months ago, Hightouch has added $70 million in annualized recurring revenue (ARR), it tells TechCrunch, bringing the startup to a total of $100 million in ARR.\n“Before GenAI, it was impossible for someone without many, many years of design skills to create consumer-level assets,” said Kashish Gupta, Hightouch’s co-CEO. The company is also led by co-CEO Tejas Manohar, a former engineering manager at Segment, a customer data platform acquired by Twilio for\n$3.2 billion\nin 2020.\nHowever, Hightouch’s approach goes beyond what standard AI models can do on their own.\nHightouch says that many brands initially attempted to generate ad campaigns using general foundational models — broad AI systems that power tools like chatbots but lack knowledge of specific brands  — only to find the resulting images and videos failed to meet “on-brand” standards.\n“Foundation models didn’t know about specific consumer brands, whether it was colors or fonts, tone, or assets,” Gupta says. “The LLMs would hallucinate products that didn’t exist, and you can’t do advertising and emails on products that don’t exist.”\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nTo ensure brand consistency, Hightouch connects directly to its customers’ existing creative tools, such as the popular design platform Figma, photo libraries, and content management systems (CMS).\nBy pulling from these sources, the platform “learns” a company’s specific brand identity. Hightouch’s AI agents then use these photos, designs, and customer insights to help marketers build personalized ad campaigns autonomously, without having to wait on designers or developers.\nThe goal of Hightouch’s AI is to create images and videos that look like they were made by professional designers, avoiding the “fake” or generic look often associated with AI.\n“For ",
+      "title_ko": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "summary_ko": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
+    },
+    {
+      "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T18:51:54+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+      "tags": [],
+      "content": "LinkedIn’s\nBlake Lawit,\nthe chief global affairs and legal officer of the Microsoft-owned professional networking site, confirmed in an interview at the\nSemafor World Economy\nsummit this week that the company’s data shows a decline in hiring of around 20% since 2022.\nHowever, he pushed back at the idea that AI was to blame.\n“At LinkedIn… we have an economic graph which is over a billion members. We’ve got companies, jobs, skills. It’s really an amazing real-time view of what’s happening in the labor market. And we’ve looked — because everyone wants to know the answer to this question: Is AI impacting jobs right now? We’ve looked and, honestly, we haven’t seen it,” he said during his interview.\nInstead, the executive suggested that the decline in hiring was more closely tied to a rise in interest rates.\nScreenshot\nImage Credits:\nSemafor\n“We have not seen the sort of impacts that you would expect to see in areas that everyone is talking about AI… like industries, whether or not it’s customer support, or administrative, or marketing — all these places that if we were seeing impacts [from] AI that’s where it would be,” Lawit continued.\n“Yes, hiring’s down, but not down more,” he added.\nLawit also noted that LinkedIn’s data didn’t indicate that the decline in hiring of college-aged young adults getting their first jobs was “down more,” either, when compared with people who were in the middle of or later in their careers.\nStill, he didn’t rule out that things could change.\n“Doesn’t mean it’s not going to happen in the future, but not yet.”\nOn that point, however, Lawit had a warning of sorts. Lawit noted that over the last several years, the skills that are needed to do the average job have changed 25%. With the rise of AI, LinkedIn expects that figure to be 70% by 2030.\n“So, even if you’re not changing jobs, your job’s changing on you,” he said.\nTopics\nAI\n,\nhiring\n,\nJobs\n,\nLinkedIn\nSarah Perez\nConsumer News Editor\nSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\nYou can contact or verify outreach from Sarah by emailing\nsarahp@techcrunch.com\nor via encrypted message at sarahperez.01 on Signal.\nView Bio\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nMost Popular\nAn Amazon warehouse worker died on the job at Oregon facility\nAmanda Silberling\nStanford report highlights growing disconnect between AI insiders and everyone else\nSarah Perez\nSam Altman responds to ‘incendiary’ New Yorker article after attack on his home\nAnthony Ha\nAnthropic temporarily banned OpenClaw’s creator from accessing Claude\nJulie Bort\nFrance to ditch Windows for Lin",
+      "title_ko": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+      "summary_ko": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown."
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T18:38:10+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "tags": [],
+      "content": "Since its launch in 2021,\nGizmo\n, an\nAI-powered learning platform\nthat transforms students’ notes into interactive study materials, has attracted more than 13 million users across over 120 countries. This is a significant jump from the more than 300,000 users the platform had when TechCrunch last covered it in 2023.\nAnd, as user adoption increases, investor interest is following suit. The company recently secured $22 million in Series A funding, according to its\nannouncement\non Tuesday.\nThe funding will go toward expanding Gizmo’s engineering and AI teams, as well as expanding its presence in the U.S. college market. The company, which had just seven employees prior to the raise, plans to scale to around 30, CEO Petros Christodoulou tells TechCrunch.\nThe company’s momentum comes at a time when student behavior is shifting. Academic performance in the U.S. has hit a historic low, according to the\n2025 National Assessment of Educational Progress\n. Excessive screen time and reduced attention spans have been noted in\nprevious studies\nas contributing factors.\nPlus, with many young learners drawn to platforms like TikTok and YouTube, the biggest challenge for edtech startups is how to sustain engagement. Gizmo is betting that gamifying learning may be the solution.\nImage Credits:\nGizmo\nDesigned for teenagers and young adults, Gizmo believes that its appeal is the use of game mechanics to drive engagement. Features like leaderboards, streaks, limited daily lives for incorrect answers, and the ability to challenge friends are designed to keep users coming back.\nOther micro-learning platforms have also gained traction in recent years, such as Anki, Quizlet, and Nibble, alongside newer entrants such as\nYuno\nand\nKnowt\n, which have all attempted to redirect screen-time habits into productive learning. However, for a young learning app like Gizmo to grow this much interest in just a few years is notable. For comparison, Yuno touts 1 million app downloads, and Knowt has more than 7 million users.\nThe Series A round was led by Shine Capital, with participation from Ada Ventures, Seek Investments, GSV, and NFX, which previously led Gizmo’s $3.5 million seed round.\nTopics\nAI\n,\nApps\n,\nApps\n,\nEdTech\n,\nEducation\n,\nfunding round\n,\nFundraising\n,\nGizmo\n,\nlearning\n,\nShine Capital\n,\nStartups\nLauren Forristal\nLauren covers media, streaming, apps and platforms at TechCrunch.\nYou can contact or verify outreach from Lauren by emailing\nlaurenf.techcrunch@gmail.com\nor via encrypted message at laurenforris22.25 on Signal.\nView Bio\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nMost Popular\nAn Amazon warehouse worker died on the job at Oregon facility\nAmanda Silberling\nStanford report highlights growing disconnect between AI insiders and everyone else\nSarah Perez\nSam Altman responds ",
+      "title_ko": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "summary_ko": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
+    },
+    {
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T18:33:20+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+      "tags": [],
+      "content": "After helping lead the lawsuit that bankrupted media firm Gawker, Aron D’Souza says he saw something broken in the American media system: People who felt harmed by coverage had little recourse to fight back.\nHis solution is software. D’Souza says his latest startup,\nObjection\n, aims to use AI to adjudicate the truth of journalism. And for the price of $2,000, anyone can pay to challenge a story, triggering a public investigation into its claims. (D’Souza is also the founder of the\nEnhanced Games\n, an Olympics-style competition that allows performance-enhancing drugs and is set to debut in Las Vegas next month.)\nObjection launched on Wednesday with “multiple millions” in seed funding from Peter Thiel and Balaji Srinivasan, as well as VC firms Social Impact Capital and Off Piste Capital.\nThiel, who\nfunded the Gawker lawsuit\npartly in defense of the individual right to privacy, has long been critical of the media. D’Souza says his goal is to restore trust in the Fourth Estate, which he argues has collapsed over decades. Critics, including media lawyers, warn Objection could make it harder to publish the kind of reporting that holds powerful institutions to account, particularly if that reporting relies on confidential sources.\nAnonymous sources have played a key role in major award-winning investigations into corruption and corporate wrongdoing. These are often people who are at risk of losing their jobs or facing other retaliation for sharing important information. It’s the journalist’s job — alongside their publication’s editors, peers, and lawyers — to ensure that those sources are reliable and not acting out of pure malice and to verify the information they provide.\nImage Credits:\nObjection AI\nBut that’s not enough for D’Souza, who said “using a fully anonymized source who hasn’t been independently verified” would lead to a lower evidence and trust score on Objection. Under the platform’s rubric, primary records like regulatory filings and official emails carry the most weight, while anonymous whistleblower claims are ranked near the bottom. Those inputs are collected in part by a team of freelancers — former law enforcement agents and investigative journalists — and are ultimately fed into what Objection calls an “Honor Index,” a numerical score the company says reflects a reporter’s integrity, accuracy, and track record.\n“Protecting a source’s information is a vital way of telling an important story, but there’s an important power asymmetry there,” D’Souza told TechCrunch in an exclusive interview. “The subject gets reported upon, but then there’s no way to critique the source.”\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet yo",
+      "title_ko": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "summary_ko": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works."
+    },
+    {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T18:22:13+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+      "tags": [
+        "Google",
+        "Gemini"
+      ],
+      "content": "In Brief\nPosted:\n11:22 AM PDT · April 15, 2026\nImage Credits:\nJagmeet Singh / TechCrunch\nAisha Malik\nGoogle rolls out a native Gemini app for Mac\nGoogle\nannounced\non Wednesday that it’s introducing a native Gemini app for Mac, catching up to rivals like OpenAI and Anthropic, which have had Mac apps for quite some time.\n“Now, you can bring up Gemini from anywhere on your Mac with a quick shortcut (Option + Space) to get help instantly, without ever switching tabs,” Google explained in its blog post. “Whether you’re drafting a market report and need to verify a date or building a budget in a spreadsheet and need the right formula, you can get an answer and get right back to work.”\nWhen using the new app, you’re able to share anything on your screen with Gemini to get help with what you’re looking at in the moment, including local files.\nFor example, if you’re looking at a complex chart, you could ask “What are the three biggest takeaways here?” and receive a summary.\nThe app also supports the ability to generate images with Nano Banana and videos with Veo.\nThe native macOS app is available to all Gemini users on macOS versions 15 and up, globally, starting today. It’s available for download at\ngemini.google/mac\n.\nTopics\nAI\n,\nApps\n,\ngemini\n,\nGoogle\n,\nIn Brief\n,\nmac\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nRelated\nAI\nGoogle adds AI Skills to Chrome to help you save favorite workflows\nSarah Perez\n1 day ago\nAI\nGoogle brings its Gemini Personal Intelligence feature to India\nIvan Mehta\n1 day ago\nApps\nHow vibe-coding app Anything is rebuilding after getting booted from the App Store twice\nIvan Mehta\n1 day ago\nLatest in Apps\nStartups\nAI learning app Gizmo levels up with 13M users and a $22M investment\nLauren Forristal\n4 hours ago\nIn Brief\nGoogle rolls out a native Gemini app for Mac\nAisha Malik\n4 hours ago\nApps\nSnap is cutting 1,000 jobs, 16% of its workforce\nAisha Malik\n9 hours ago",
+      "title_ko": "Google rolls out a native Gemini app for Mac",
+      "summary_ko": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files."
+    },
+    {
+      "title": "The musician-turned-biotech-founder waiting to fundraise",
+      "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T17:58:28+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that […]",
+      "tags": [],
+      "content": "The musician-turned-biotech-founder waiting to fundraise\nRebecca Bellan\n,\nTheresa Loconsolo\nApr 15, 2026\nListen on\nApple Podcasts\nListen on\nSpotify\nWhen Grammy-nominated singer-songwriter\nAloe Blacc\ngot COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that kills 90% of its patients, and intentionally waiting to raise from his network until peer-reviewed papers can make his case.\nOn this episode of TechCrunch’s\nEquity\npodcast, Rebecca Bellan sits down with Aloe Blacc to talk about what happens when a creator decides to build instead of just invest, how Aloe is watching AI reshape both the biotech and music industries in real time, and his thoughts on who actually wins.\nListen to the full episode to hear:\nHow he’s navigating a world where credibility is earned in data, not fame\nHow a University of Houston molecule discovery platform could cut years off drug development timelines\nWhy he thinks record labels, not artists or AI companies, will ultimately control the economics of AI-generated music\nWhat Suno taught him about prototyping, and why his next album will still be recorded with live musicians\nSubscribe to Equity on\nYouTube\n,\nApple Podcasts\n,\nOvercast\n,\nSpotify\nand all the casts. You also can follow Equity on\nX\nand\nThreads\n, at @EquityPod.\nRebecca Bellan\nSenior Reporter\nRebecca Bellan is a senior reporter at TechCrunch where she covers the business, policy, and emerging trends shaping artificial intelligence. Her work has also appeared in Forbes, Bloomberg, The Atlantic, The Daily Beast, and other publications.\nYou can contact or verify outreach from Rebecca by emailing\nrebecca.bellan@techcrunch.com\nor via encrypted message at rebeccabellan.491 on Signal.\nView Bio\nTheresa Loconsolo\nAudio Producer\nTheresa Loconsolo is an audio producer at TechCrunch focusing on Equity, the network’s flagship podcast. Before joining TechCrunch in 2022, she was one of 2 producers at a four-station conglomerate where she wrote, recorded, voiced and edited content, and engineered live performances and interviews from guests like lovelytheband. Theresa is based in New Jersey and holds a bachelors degree in Communication from Monmouth University.\nYou can contact or verify outreach from Theresa by emailing\ntheresa.loconsolo@techcrunch.com\n.\nView Bio\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nMost Popular\nAn Amazon warehouse worker died on the job at Oregon facility\nAmanda Silberling\nStanford report highlights growing disconnect bet",
+      "title_ko": "The musician-turned-biotech-founder waiting to fundraise",
+      "summary_ko": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and philanthropy doesn’t move science through clinical trials or get you a license on university IP. Now, he’s bootstrapping a cancer drug platform targeting pancreatic cancer, a disease that […]"
+    },
+    {
+      "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T17:24:18+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+      "tags": [
+        "agents"
+      ],
+      "content": "Emergent\n, an Indian startup known for its vibe-coding platform, has launched\nWingman\n, a messaging-first autonomous AI agent, as it expands into a growing category of software that runs in the background to complete tasks — popularized by tools like OpenClaw and Claude from Anthropic.\nThe Bengaluru-based startup initially gained attention for its vibe-coding platform, which competes with tools like Cursor and Replit and lets users without technical backgrounds build full-stack applications via natural-language prompts. With Wingman, Emergent is now pushing beyond creation into execution, aiming to let AI agents handle routine tasks across tools and workflows.\n“The obvious next step for us was, can we help them not just build the software, but actually operate more autonomously through it?” said Mukund Jha, co-founder and CEO of Emergent. “You move from software that supports the business to software that can actively help run it.”\nEmergent said more than 8 million builders have used its vibe-coding platform to create and deploy software, with over 1.5 million monthly active users. Founded in 2025, the startup\nraised $70 million\nin January at a valuation of $300 million, with backing from investors including SoftBank, Khosla Ventures, and Lightspeed Venture Partners.\nImage Credits:\nEmergent (screenshot)\nWingman is designed to operate through messaging platforms like WhatsApp and Telegram, allowing users to assign and monitor tasks through chat. At the same time, the agent runs in the background across connected tools such as email, calendars, and workplace software. It can carry out routine actions autonomously but seeks user approval for more consequential steps, the startup said.\nThe launch comes as autonomous AI agents\nemerge as a key battleground\nin the industry, with a growing number of companies racing to build tools that can complete tasks on behalf of users. Projects like\nOpenClaw\n— previously known as Clawdbot and Moltbot — have gained traction among early adopters, while players including\nAnthropic\nand\nMicrosoft\nare working toward addressing this space with their own agent-based systems.\nEmergent is attempting to differentiate by embedding Wingman into messaging platforms such as WhatsApp, Telegram, and Apple’s iMessage, allowing users to interact with the agent via chat rather than adopting a new interface. The startup also introduced what it calls “trust boundaries,” enabling the agent to carry out routine tasks autonomously while requiring user approval for more consequential actions. This aims to address concerns around fully autonomous systems.\nJha told TechCrunch the decision to build Wingman inside messaging platforms was driven by how people already work. “A lot of real work already happens through chat, voice, and email — asking for something, following up, sharing context, making a decision,” Jha said. “Increasingly, they’ll be the main ways we work with agents too.”\nLike many emerging AI agents, Wingman still faces limitation",
+      "title_ko": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "summary_ko": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram."
+    },
+    {
+      "title": "After sale of its shoe business, Allbirds pivots to AI",
+      "url": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T14:24:31+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
+      "tags": [],
+      "content": "After selling its shoe brand and assets\nlast month for $39 million\n, Allbirds is pivoting to AI. Of course, the company is also changing its name, since the footwear brand “Allbirds” was part of the sale. Introducing: NewBird AI, a “fully integrated GPU-as-a-Service and AI-native cloud solutions provider,” the company\nannounced\nvia its investor relations\nsite\non Wednesday.\nThe rebranded AI company also announced a $50 million investment from an undisclosed institutional investor in the form of a convertible financing facility.\nIt’s objectively pretty funny that Allbirds is becoming an AI company — not because it’s unusual for companies to pivot, but because of how extreme this pivot is. The maker of the shoes\nonce craved by the Silicon Valley tech set\nis now going to be a provider of GPUs. It’s somewhat absurd — and risky — but you can see how the business came to this decision. After the asset and brand sale, Allbirds can keep the public company’s shell (it’s been traded on Nasdaq under the ticker symbol “BIRD”) and then reuse it to invest in the hot AI sector.\nThis recalls the time in 2017 when the\nLong Island Iced Tea company pivoted to the blockchain\n, prompting the stock to jump some 275% after the rebranding. That pivot didn’t pan out, as the\nNasdaq stock exchange delisted the stock\nthe following year after bitcoin fever died down.\nAllbirds-turned-NewBird is likely hoping for a different outcome.\nThe company says that the financing and the asset sale are still subject to stockholder approval, with a meeting planned to take place on May 18. If the sale goes through, stockholders will receive a dividend during the third quarter. The new owner of the Allbirds brand and assets, American Exchange Group, will continue to make products for Allbirds customers.\nMeanwhile, NewBird AI plans to use the new financing to acquire GPU assets, which it will offer to customers seeking AI compute capacity. Over time, the company hopes to grow its service offerings through partnerships and even strategic mergers and acquisitions — if the opportunity arises.\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nTopics\nAI\n,\nallbirds\n,\nWTF\nSarah Perez\nConsumer News Editor\nSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after ha",
+      "title_ko": "After sale of its shoe business, Allbirds pivots to AI",
+      "summary_ko": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility."
+    },
+    {
+      "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+      "url": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T13:06:54+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
+      "tags": [],
+      "content": "Days after Meta\nshut down\nits internal “tokenmaxxing” dashboard following news of the AI leaderboard\nleaking to the press\n, LinkedIn co-founder and venture capitalist Reid Hoffman came out in support of the concept that’s recently\ntaken Silicon Valley by storm\n.\nAn AI token is a small chunk of data that an AI model processes when it’s trying to understand a prompt and generate a response. It’s also the unit that’s used to measure AI usage and determine how much AI services cost.\nAs a result, many companies have begun internally tracking which employees are using the most tokens as a proxy for understanding those who are more readily embracing AI tools. They’re calling this concept “tokenmaxxing” — the “maxxing” being Gen Z lingo for optimizing something, as you may have heard in other slang, like “looksmaxxing” or “sleepmaxxing.”\nHowever, engineers at tech companies have been arguing whether or not this metric is a viable measure of productivity in the workplace, as it’s akin to ranking people based on\nwho spends more money\nthan others.\n.\n@johncoogan\nsays the recent reporting on Meta's 'tokenmaxxing' is less of a sign of bad incentives at the company, and more of a tell about its potential strategy for more vertical integration:\n\"I think it makes clearer the strategy with MSL. Because it's clear that they're…\nhttps://t.co/osZD8c6JT3\npic.twitter.com/mjh46Diwei\n— TBPN (@tbpn)\nApril 8, 2026\nLeaderboards that celebrate employees by how much they use AI are sparking debate—critics call it the wrong metric, while supporters say “tokenmaxxing” is critical for mastering the AI age\nhttps://t.co/ZBHZSWrQ3L\n— The Wall Street Journal (@WSJ)\nApril 14, 2026\nHoffman, in an interview aired at Semafor’s World Economy summit this week, offered his advice for companies adopting AI, saying he had a favorable view of the practice. Though he didn’t refer to the metric in Gen Z-speak, he did express that tracking employee token spend was a good idea.\n“You should be getting people at all different kinds of functions actually engaging and experimenting [with AI],” Hoffman said at the event. “Here’s one of the things that is a good dashboard to be looking at — doesn’t mean it’s a perfect example of productivity, but… how much token usage are people actually doing as they’re doing it?”\nHe went on to explain that some people may be using a lot of tokens, but in more random or exploratory ways, which is why you want to pair tracking the “tokenmaxxing” practice with an understanding of the things people are using their tokens to do.\n“Some of it will be experiments that’ll fail — that’s fine. But it’s in that loop, and you want a wide variety of people using it essentially, collectively, and simultaneously,” Hoffman added.\nHoffman shared other advice to companies trying to figure out their AI strategies, too, suggesting that AI should be embedded across the entire organization. He also suggested regular check-ins to share what works with others.\n“We should have, essentially, a",
+      "title_ko": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+      "summary_ko": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric."
+    },
+    {
+      "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
+      "url": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T13:01:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
+      "tags": [],
+      "content": "Last October, Adobe previewed a new assistant under\nthe “Project Moonlight” moniker\nthat could do tasks for you by tapping different Adobe apps like Acrobat, Photoshop, and Express. That product is now being launched as Firefly AI Assistant.\nThe Firefly AI Assistant will be available in public beta in the coming weeks. The company didn’t specify if the AI assistant will be priced differently from Firefly’s credit-based subscription tiers.\nLike other creative tools, the Firefly AI Assistant lets you describe what you want it to create, and it will handle the rest. Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator, and its other apps to do tasks for you.\nImage Credits:\nAdobe\nUsers can control the outputs from the AI assistant using text prompts as well as buttons and sliders. The assistant can suggest actions, orchestrate between actions and apps, and execute workflows, but leaves room for users to interject at any time.\nThe agent will also show controls based on the project you are working on. For instance, if you’re editing a product photo set in a forest, the assistant might give you a simple slider to increase or reduce the amount of trees and foliage. Adobe says the assistant will learn more about your creative preferences over time and suggest actions accordingly.\nAdobe is also releasing skills, which consist of multiple steps, for the assistant. The “social media assets” skill, for instance, can help you adapt images to different platforms by cropping or expanding, optimizing file sizes, and storing the outputs.\nLoading the player…\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\nAdobe has been working steadily to launch AI-powered assistants for\nPhotoshop\n, Express, and\nAcrobat\n. The company said on Wednesday that it is exploring having these assistants work better with third-party large language models.\nOther competitors like\nCanva\nand\nFigma\nare also working on agentic workflows, though Adobe says its strength is in unifying its existing and popular tools.\n“We have the opportunity with the Firefly AI assistant and with agentic experiences to remove some of the friction in learning this large catalog of tools we have and bring all of that value to our customers at their fingert",
+      "title_ko": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
+      "summary_ko": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you."
+    },
+    {
+      "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+      "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T13:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
+      "tags": [
+        "agents"
+      ],
+      "content": "With the advent of “vibe coding,” AI agents have\nunleashed a deluge of code\nonto companies that many are now struggling to manage. This sudden inundation has been called “code overload.” Reports\nhave shown\nthat AI-generated code can introduce significant problems — including bugs and other quality issues — into codebases, which then have to be fixed by senior engineers before the code can be “shipped” to market.\nNow, a new company is trying to fix this problem using the same tool that caused it: AI.\nGitar\n— a startup founded by Ali-Reza Adl-Tabatabai, a veteran of Intel Labs, Google, and Uber — emerged from stealth Wednesday with a $9 million funding round led by Venrock, with participation from Sierra Ventures.\nTwo-year-old Gitar sells subscription access to its platform, which deploys AI agents to perform a wide variety of code-quality operations, including code reviews and the management of continuous integration workflows — the automated process of regularly merging and testing code changes to keep a codebase stable and up to date. The platform also gives engineering teams the ability to create their own agents, which can then conduct security and maintenance operations on their behalf.\nAI-generated code means “more code to review, more tests to write, more CI failures to diagnose,” Adl-Tabatabai, who is CEO, told TechCrunch. What Gitar does is “code validation,” he said — a way to ensure that what’s being built within an enterprise is ready for prime time. “Generation produces code; validation makes it trustworthy. Gitar is the workflow agent that owns that process, orchestrating reviews, tests, and diagnostics end to end,” he added.\nIn the future, Adl-Tabatabai sees automation taking on an even more comprehensive role in software development. “Right now, code that gets shipped into production involves human review, and there are good reasons for that, right? You want to make sure that there’s oversight, and humans are checking to make sure that nothing bad is being shipped.”\nHis vision is that human code reviews will become a minimal part of the process, with companies instead trusting Gitar’s platform to handle those tasks and ship faster. “We have a validation agent that can automatically ensure that your code is safe to ship, and involves humans only in exception cases,” Adl-Tabatabai claimed.\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market",
+      "title_ko": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
+      "summary_ko": "The company uses AI to review code that, more often than not these days, has also been generated by AI."
+    },
+    {
+      "title": "This startup is betting tokenmaxxing will create the next compute giant",
+      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T13:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
+      "tags": [],
+      "content": "“Give me tokens. Just give me tokens. I want them fast. I want them cheap. I want them now.”\nThat’s the mantra for developers building software on generative AI models, or at least what Parasail CEO Mike Henry hears. Parasail provides a cloud computing service to companies running AI models for inference, and Henry told TechCrunch it generates 500 billion tokens a day. How’s that for tokenmaxxing?\nHenry was an executive at Groq, the LLM-focused chipmaker, where he built the company’s cloud offering, an early recognition that developers building software on AI models would want cloud processing specialized to their needs. Now, after\ncoming out of stealth\na year ago, Parasail has raised a $32 million Series A to do that at scale.\nHenry has a background in physical chip design, but Parasail isn’t committed to owning its own chips. While some of its GPUs are its own, the company mainly rents processing time at 40 data centers in 15 countries around the globe, and buys more from liquidity markets, orchestrating that all behind the scenes to drive down the cost of inference requests.\nBy allocating workloads cleverly and avoiding demand peaks, the company aims to compete with firms that own their own silicon and might be constrained by existing customer commitments and workloads.\nThe company’s potential relies on the continued proliferation of open source models and agents outside of frontier labs. Parasail’s executives and investors say this is driven by the growing cost and friction of using offerings from companies like Anthropic and OpenAI.\nInstead, a hybrid architecture is emerging, according to Andreas Stuhlmüller, the CEO of Elicit, a startup that has raised a $22 million Series A to develop a research assistant for scientific literature. His customers at top pharmaceutical companies use the LLM-based tool to review and analyze data from tens of thousands of scientific papers.\nTechcrunch event\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nMeet your next investor or portfolio startup at Disrupt\nYour next round. Your next hire. Your next breakout opportunity. Find it at TechCrunch Disrupt 2026, where 10,000+ founders, investors, and tech leaders gather for three days of 250+ tactical sessions, powerful introductions, and market-defining innovation. Register now to save up to $410.\nSan Francisco, CA\n|\nOctober 13-15, 2026\nREGISTER NOW\n“We’ve moved more towards open models because it’s pretty rough sending 100,000s of requests to an API endpoint,” Stuhlmüller told TechCrunch, especially now that the company is relying on agents to improve its offering, splitting up tasks and working more strategically over longer time horizons. Open models handle the initi",
+      "title_ko": "This startup is betting tokenmaxxing will create the next compute giant",
+      "summary_ko": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute."
+    },
+    {
+      "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "url": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+      "source_type": "media",
+      "source_name": "TechCrunch AI",
+      "published_at": "2026-04-15T02:31:04+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain.",
+      "tags": [
+        "OpenAI",
+        "Anthropic"
+      ],
+      "content": "In Brief\nPosted:\n7:31 PM PDT · April 14, 2026\nImage Credits:\nChatGPT\nConnie Loizos\nAnthropic’s rise is giving some OpenAI investors second thoughts\nOpenAI’s $852 billion valuation is facing skepticism from some of its own investors as the company scrambles to reorient itself around enterprise customers and fend off Anthropic,\naccording to the Financial Times\n.\nAnthropic’s annualized revenue jumped from $9 billion at the end of 2025 to $30 billion by the end of March, driven largely by demand for its coding tools. One investor who has backed both companies told the FT that justifying OpenAI’s round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic’s current\n$380 billion valuation\nlook like the relative bargain.\nThe secondary market tells a similar story right now, where demand for Anthropic shares has grown nearly insatiable while OpenAI shares are trading at a\ndiscount\n.\nSam Altman has been here before. During his tenure leading Y Combinator,\naggressive valuation inflation\nleft some portfolio companies financially stranded while others proved to be worth every penny and then some.\nOpenAI CFO Sarah Friar pushed back, telling the FT that the company’s\n$122 billion raise\n— the largest private fundraising in history — was evidence of continued investor confidence. Not everyone is persuaded. Jai Das, president of investment firm Sapphire Ventures (who has no stake in either company), told the FT he saw OpenAI as “the Netscape of AI,” a reference to the once-dominant browser that was overtaken by Microsoft and eventually absorbed by AOL.\nUpdate: This piece has been updated to remove an investor quote published and later removed by the Financial Times.\nTopics\nAI\n,\nAnthropic\n,\niconiq capital\n,\nIn Brief\n,\nOpenAI\nApril 30\nSan Francisco, CA\nStrictlyVC kicks off the year in SF. Get in the room for unfiltered fireside chats with industry leaders, insider VC insights, and high-value connections that actually move the needle.\nTickets are limited.\nREGISTER NOW\nNewsletters\nSee More\nSubscribe for the industry’s biggest tech news\nTechCrunch Daily News\nEvery weekday and Sunday, you can get the best of TechCrunch’s coverage.\nTechCrunch Mobility\nTechCrunch Mobility is your destination for transportation news and insight.\nStartups Weekly\nStartups are the core of TechCrunch, so get our best coverage delivered weekly.\nStrictlyVC\nProvides movers and shakers with the info they need to start their day.\nNo newsletters selected.\nSubscribe\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nRelated\nAI\nOpenAI updates its Agents SDK to help enterprises build safer, more capable agents\nLucas Ropek\n3 hours ago\nAI\nAnthropic co-founder confirms the company briefed the Trump administration on Mythos\nSarah Perez\n1 day ago\nStartups\nOpenAI has bought AI personal finance startup Hiro\nJulie Bort\n2 days ago\nLatest in AI\nAI\nOpenAI updates its Agents SDK to help enterprises build safer, more capable agents\nLucas Ropek\n3 hours ago\nAI\nFull transcr",
+      "title_ko": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+      "summary_ko": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion valuation look like the relative bargain."
+    },
+    {
+      "title": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-15T19:50:31+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for […]",
+      "tags": [],
+      "content": "Column\nAI\nPolicy\nTrump’s posting even more AI-generated Trump-Jesus fan art\nPlus: what Werner Herzog thinks of the Trump penguin meme.\nPlus: what Werner Herzog thinks of the Trump penguin meme.\nby\nTina Nguyen\nApr 15, 2026, 7:50 PM UTC\nLink\nShare\nGift\nThe version posted by @realdonaldtrump/Truth Social.\nTina Nguyen\nis a Senior Reporter for The Verge and author of\nRegulator\n, covering the second Trump administration, political influencers, tech lobbying and Big Tech vs. Big Government.\nHello and welcome to\nRegulator\n, a newsletter for\nVerge\nsubscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you’ve found your way to this newsletter from the wild,\nannual subscriptions are currently 50 percent off\n. That’s $30 a year for access to an entire newsroom full of reporting about technology and how it’s eating society alive — not just in politics!\n(I will also accept confidential tips at\ntina.nguyen+tips@theverge.com\n.)\nYou can’t spell “antichrist” without “AI”\nOf all the things that would have fractured the religious right’s alliance with\nDonald Trump\n, it\nwould\nbe him posting an AI-generated image of himself styled as Jesus Christ, healing the sick and surrounded by heavenly angels — only hours after attacking\nPope Leo XIV\n, no less. (As conservative commentator\nRod Dreher\n, who attended\nJD Vance’s\nCatholic baptism,\ntold\nThe Wall Street Journal\n: “Not saying Trump is the Antichrist. But he’s radiating the spirit of Antichrist, no question.”) This time, it wasn’t the White House memelord army that had generated it.\nTrump admitted to reporters on Monday\n, while accepting a DoorDash delivery, that he’d posted the image to Truth Social. “I thought it was me as a doctor,” he said.\nBut\nX user S2_Underground discovered\na curious thing: The image Trump posted wasn’t exactly new. A version of the AI-generated image had been initially posted by a MAGA influencer named\nNick Adams\nback in February, but by the time it made its way to Trump’s feed, several odd transformations had occurred. The most notable one, which went viral, was that a soldier floating in the clouds had turned into a faceless, spiky-headed winged being that social media users immediately viewed as a demon. But there are several more subtle changes, too: Trump’s flag has more stars than the Adams one, the fighter jets look slightly off, the buildings in the background look blurrier, and everyone’s faces, including Trump’s, look more fearful and less benevolent. Plus, one man’s “VETERAN” hat turned into what my coworker\nOwen Grove\ndescribed as “a ‘የቹ፪ጮጎል’ hat.”\nThe original, posted by @NickAdamsinUSA, via @s2_underground/X.\nThe version posted by @realdonaldtrump/Truth Social.\nSo what happened between Adams’ post and Trump’s post? The memelords\nwere tight-lipped, as always\n. But it’s well known that Trump has always had the final word on what ends up on his social media feeds, and the history of his presidencies is\nl",
+      "title_ko": "Trump’s posting even more AI-generated Trump-Jesus fan art",
+      "summary_ko": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've found your way to this newsletter from the wild, annual subscriptions are currently 50 percent off. That's $30 a year for […]"
+    },
+    {
+      "title": "Google launches a Gemini AI app on Mac",
+      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-15T18:10:15+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your […]",
+      "tags": [
+        "Google",
+        "Gemini"
+      ],
+      "content": "Tech\nAI\nNews\nGoogle launches a Gemini AI app on Mac\nYou can access Gemini from anywhere on your desktop, as well as share your windows.\nYou can access Gemini from anywhere on your desktop, as well as share your windows.\nby\nEmma Roth\nApr 15, 2026, 6:10 PM UTC\nLink\nShare\nGift\nImage: Google\nEmma Roth\nis a news writer who covers the streaming wars, consumer tech, crypto, social media, and much more. Previously, she was a writer and editor at MUO.\nGoogle is\nlaunching a new Gemini app\non Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the\nOption + Space\nshortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window.\nBefore sharing your window, you’ll need to give Gemini permission to access your system’s information before sharing your window. From there, the AI assistant will pull information from what you’re looking at to help answer your question.\nYou can use Gemini on macOS to generate images, videos, and music, too.\nImage: Google\nIt looks a bit like Apple’s\nupgraded version of Spotlight\n, which you can now use to perform actions on your device, as well as access AI models like OpenAI’s ChatGPT. The new app puts Google in the running to compete with\nAnthropic\n,\nOpenAI\n, and Perplexity, all of which want their chatbots to become the go-to AI model on desktop devices. But\nChatGPT\nand\nAnthropic’s Claude\napp for Mac takes things a step further than Gemini, as they come with features that allow their AI assistants to perform tasks on your behalf on your computer.\nRelated\nGoogle’s Spotlight-like desktop search bar for Windows is available for everyone\nGemini gets notebooks to help you organize projects\nJust like Gemini on the web and mobile, the Mac app also allows you to upload files, photos, or documents from your Google Drive, and use Gemini to generate images, videos, or music. You can use the app to revisit previous Gemini conversations linked with your Google account, too. The launch comes just one day after Google\nmade its Spotlight-like app widely available on Windows\n.\nThe\nGemini app\nis available to download for free in all languages and countries where Gemini is supported. It supports macOS Sequoia (15.0) and up.\nFollow topics and authors\nfrom this story to see more like this in your personalized homepage feed and to receive email updates.\nEmma Roth\nAI\nGoogle\nNews\nTech\nMost Popular\nMost Popular\nTicketmaster is an illegal monopoly, jury rules\nThe FCC just saved Netgear from its router ban for no obvious reason\nThe heist of iOS 26\nAllbirds announced a switch from shoes to AI and its stock jumped 600 percent\nMicrosoft’s finally giving up on its massive Surface Hub touchscreen displays\nThe Verge Daily\nA free daily digest of the news that matters most.\nEmail (required)\nSign Up\nBy submitting your email, you agree to our\nTerms\nand\nPrivacy Notice\n.\nThis site is protected by reCAPTCHA and the Google\nPrivacy Policy\nand\nTerms of Service\napply.\n",
+      "title_ko": "Google launches a Gemini AI app on Mac",
+      "summary_ko": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull up a floating chat bubble, where you can ask Gemini questions and share your window. Before sharing your […]"
+    },
+    {
+      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+      "url": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-15T16:13:30+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after […]",
+      "tags": [],
+      "content": "News\nAI\nBusiness\nAllbirds announced a switch from shoes to AI and its stock jumped 600 percent\nAllbirds couldn’t survive selling shoes, but now it’s supposed to resell AI GPUs?\nAllbirds couldn’t survive selling shoes, but now it’s supposed to resell AI GPUs?\nby\nRichard Lawler\nApr 15, 2026, 4:13 PM UTC\nLink\nShare\nGift\nBloomberg via Getty Images\nRichard Lawler\nis a senior editor following news across tech, culture, policy, and entertainment. He joined The Verge in 2021 after several years covering news at Engadget.\nAllbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently\nannounced\nit would sell off its name and assets for $39 million to American Exchange after closing the remaining stores. That shell listing, however, still has some use as the\nFinancial Times\npoints out, and now CEO Joe Vernachio has\nannounced a plan\nto raise $50 million from an unnamed investor, which will turn NewBird AI into “a fully integrated GPU-as-a-Service (GPUaaS) and AI-native cloud solutions provider.”\nNewBird AI expects to use initial capital from the Facility to acquire high-performance GPU assets, which will be deployed to serve customers requiring dedicated access to AI compute capacity. NewBird AI’s long-term vision is to become a fully integrated GPU-as-a-Service (GPUaaS) and AI-native cloud solutions provider. Over time, the Company intends to grow its neocloud platform by expanding its compute and service offerings, deepening partnerships with operators and customers, and evaluating strategic M&A opportunities.\nThe rise of AI development and adoption has created unprecedented structural demand for specialized, high-performance compute that the market is struggling to meet. Global enterprise spending on AI services and data center investment are on the rise. At the same time, GPU procurement lead times are increasing for high-end hardware, North American data center vacancy rates have reached historic lows, and market-wide compute capacity coming online through mid-2026 is already fully committed. The result is a market where enterprises, AI developers, and research organizations are unable to secure the compute resources they need to build, train and run AI at scale.\nNewBird AI is being built to help close that gap. The Company will initially seek to acquire high-performance, low-latency AI compute hardware and provide access under long-term lease arrangements, meeting customer demand that spot markets and hyperscalers are unable to reliably service.\nRelated\nWhat the rise of CoreWeave tells us about the AI bubble\nMeet CoreWeave, the AI industry’s ticking time bomb\nWhat does that have to do with anything Allbirds has ever done, and how much AI compute can $50 million provide to its customers that trillion- and billion-dollar competitors can’t? I don’t know, but this looks a lot like the kind of zombie brand pivo",
+      "title_ko": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
+      "summary_ko": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The company recently announced it would sell off its name and assets for $39 million to American Exchange after […]"
+    },
+    {
+      "title": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
+      "url": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-15T13:00:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. Adobe says this marks a \"fundamental […]",
+      "tags": [],
+      "content": "Tech\nAI\nNews\nAdobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work\n﻿Adobe’s new Firefly AI assistant can use Creative Cloud apps for you.\n﻿Adobe’s new Firefly AI assistant can use Creative Cloud apps for you.\nby\nJess Weatherbed\nApr 15, 2026, 1:00 PM UTC\nLink\nShare\nGift\nYou don’t need to understand any fancy editing terms — just describe what changes you want to make.\nImage: Adobe\nJess Weatherbed\nis a news writer focused on creative industries, computing, and internet culture. Jess started her career at TechRadar, covering news and hardware reviews.\nAdobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant’s new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface.\nAdobe says this marks a “fundamental shift in how creative work is done” by removing skill barriers and laborious tasks, while still giving creatives full control over their work. It’ll be “available soon” on the Firefly AI studio platform according to Adobe, though no specific launch date was provided in the announcement.\nThe unified AI interface, which builds on the\nProject Moonlight experiment\nthat Adobe introduced at its Max conference last year, automatically performs “complex, multi-step workflows” to edit projects, utilizing specific tools and apps (including Firefly, Photoshop, Premiere, Lightroom, Express, Illustrator, and more) on the user’s behalf.\nUsers of the Firefly AI Assistant can instruct the chatbot to “retouch this image” or “resize this for social media,” for example, with Adobe’s AI agent then providing a selection of edits to choose from alongside surfacing specific tools or sliders that allow creators to fine-tune the results. For more detailed adjustments, creatives can also open the edited results in Creative Cloud apps to finish the project.\nThe Firefly AI assistant will learn the user’s preferences over time, such as preferred tools, workflows, and aesthetic choices, to help make the results feel more personalized and consistent. Adobe’s AI chief Alexandru Costin told\nThe Verge\nthat creatives will be able to choose whether to enable this feature, and can select specific projects for the AI assistant to learn from. Creatives can also create “Creative Skills” — tools that provide specific and consistent presets — that the AI assistant can execute, or select from a library of pre-made skills at launch.\nThe Firefly AI Assistant is designed to understand natural language commands, allowing you to adjust content without expertise in Adobe’s professional editing tools.\nImage: Adobe\nThis is Adobe’s latest push into the world of AI agents, having already launched specific AI assistants for apps like\nAdobe Acrobat\n,\nExpress\n, and\nPhotoshop\n. Adobe says it will also bring these agentic features to third-party AI apps like Anthropic’s Claude, allo",
+      "title_ko": "Adobe embraces conversational AI editing, marking a ‘fundamental shift’ in creative work",
+      "summary_ko": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assistant allows users to describe what they want to change by typing their own words into a conversational interface. Adobe says this marks a \"fundamental […]"
+    },
+    {
+      "title": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "source_type": "media",
+      "source_name": "The Verge AI",
+      "published_at": "2026-04-15T10:55:22+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing […]",
+      "tags": [
+        "Apple"
+      ],
+      "content": "AI\nNews\nTech\nGrok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.\nApple quietly asked developers to fix the problem or face removal from the App Store.\nApple quietly asked developers to fix the problem or face removal from the App Store.\nby\nRobert Hart\nApr 15, 2026, 10:55 AM UTC\nLink\nShare\nGift\nImage: The Verge\nPart Of\nThe latest on Grok’s gross AI deepfakes problem\nsee all updates\nRobert Hart\nis a London-based reporter at\nThe Verge\ncovering all things AI and a Senior Tarbell Fellow. Previously, he wrote about health, science and tech for\nForbes\n.\nApple quietly threatened to kick Elon Musk’s AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X,\naccording\nto\nNBC News\n. It was a muted show of force from one of tech’s most powerful gatekeepers, made behind closed doors even as the\nundressing crisis unfolded in full public view\nand\ncriticism over Apple’s cowardice\nmounted.\nIn a letter\nobtained\nby\nNBC News\n, Apple told US senators it “contacted the teams behind both X and Grok after it received complaints and saw news coverage of the scandal” and demanded that the developers “create a plan to improve content moderation.” At the time, xAI’s chatbot Grok was freely accessible on X and as a standalone app, with flimsy safeguards that allowed users to easily generate and share sexualized deepfakes and “undress” images of real people, disproportionately women and\nsome of them apparently minors\n.\nAs we\nreported at the time,\nthese were flagrant and unambiguous violations of App Store guidelines it often applies with an iron fist. Apple, which profits from having apps like X and Grok on its digital store, has not spoken publicly about the issue or its behind-the-scenes intervention. Google, through its Google Play app store, profits similarly and has also not commented publicly on the matter.\nApple said it reviewed proposed changes to the X and Grok apps. While the company concluded X had “substantially resolved its violations,” Grok “remained out of compliance.” Apple said it warned the developer that “additional changes to remedy the violation would be required, or the app could be removed from the App Store.” Only after further back-and-forth did Apple determine Grok had “substantially improved” and approved its submission.\nThroughout this covert back-and-forth, Grok and X appear to have remained live on the App Store, a drawn-out process that may help explain the confusing, haphazard rollout of moderation changes announced in real time. This included\nlimiting Grok on X to paying subscribers\nand\nattempting to stop Grok from undressing women\n. Our investigations revealed that neither were particularly effective beyond making the tool a bit harder to access. Later interventions, like X\nletting users block Grok from editing their photos\n, are also easily circumvented.\nDespite Apple’s approval and xAI’s claims it has tightened safeguards, Grok still appears to be abl",
+      "title_ko": "Grok’s sexual deepfakes almost got it banned from Apple’s App Store. Almost.",
+      "summary_ko": "Apple quietly threatened to kick Elon Musk's AI app, Grok, from its App Store in January over its failure to curb the surge of nonconsensual sexual deepfakes flooding X, according to NBC News. It was a muted show of force from one of tech's most powerful gatekeepers, made behind closed doors even as the undressing […]"
+    },
+    {
+      "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
+      "source_type": "media",
+      "source_name": "MIT Tech Review",
+      "published_at": "2026-04-15T12:10:00+00:00",
+      "score": null,
+      "comments": null,
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?  Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel…",
+      "tags": [],
+      "content": "This is today's edition of\nThe Download\n,\nour weekday newsletter that provides a daily dose of what's going on in the world of technology.\nNASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?\nJust before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel plan. By the end of 2028, the agency aims to fly a nuclear reactor-powered interplanetary spacecraft to Mars.\nA successful mission would herald a new era in spaceflight—and might just give the US the edge in the race against China. But the project remains shrouded in mystery.\nMIT Technology Review\npicked the brains of nuclear power and propulsion experts to find out how the nuclear-powered spacecraft might work.\nHere’s what we discovered\n.\n—Robin George Andrews\nThis\nstory\nis part of MIT Technology Review Explains, our series untangling the complex, messy world of technology to help you understand what’s coming next.\nYou can read more from the series here\n.\nComing soon: our 10 Things That Matter in AI Right Now\nEach year, we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will change the world.\nOur 2026 list\n, however, was harder to wrangle than normal. Why? We had\nso many\nworthy AI candidates we couldn’t fit them all in!\nThat got us thinking: what if we made an entirely new list all about AI? Before we knew it, we had the beginnings of what we’re calling 10 Things That Matter in AI Right Now.\nOn April 21, we’ll unveil the list on stage at our signature AI conference, EmTech AI, and then publish it online later that day. If you want to be among the first to see it,\njoin us at EmTech AI\nor\nbecome a subscriber\nto livestream the announcement.\nFind out more about the list’s methodology and aims here\n.\n—Niall Firth & Amy Nordrum\nMIT Technology Review Narrated: this company is developing gene therapies for muscle growth, erectile dysfunction, and “radical longevity”\nIn January, a handful of volunteers were injected with two experimental gene therapies as part of an unusual clinical trial. Its long-term goal? To achieve radical human life extension.\nThe therapies are designed to support muscle growth. The company behind them, Unlimited Bio, also plans to trial similar therapies in the scalp (for baldness) and penis (for erectile dysfunction). But some experts are concerned about the plans.\nFind out why the trial has divided opinion\n.\n—Jessica Hamzelou\nThis is our latest\nstory\nto be turned into an MIT Technology Review Narrated podcast, which we publish each week on\nSpotify\nand\nApple Podcasts\n. Just navigate to MIT Technology Review Narrated on either platform, and follow us to get all our new content as it’s released.\nThe must-reads\nI’ve combed the internet to find you today’s most fun/important/scary/fascinating stories about technology.\n1 Google, Microsoft, and Meta track users even when they opt out\nAccording to an independent audit, they may be racking u",
+      "title_ko": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+      "summary_ko": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?  Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel…"
+    }
+  ]
+}
