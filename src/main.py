@@ -1,5 +1,6 @@
 """AI Daily Clipping Crawler - main orchestration."""
 
+import argparse
 import logging
 import sys
 
@@ -8,7 +9,7 @@ from src.processors.filter import filter_recent, filter_relevance, filter_min_sc
 from src.processors.dedup import deduplicate
 from src.processors.tagger import tag_articles
 from src.content import fetch_content
-from src.output import save_results, save_formatted_results
+from src.output import save_results, save_formatted_results, save_raw_results
 
 logging.basicConfig(
     level=logging.INFO,
@@ -28,9 +29,8 @@ CRAWLERS = [
 ]
 
 
-def main() -> None:
-    logger.info("Starting AI Daily Clipping Crawler")
-
+def _crawl_and_filter():
+    """Run all crawlers and apply filtering pipeline. Returns (articles, raw_count, filtered_count)."""
     # 1. Crawl all sources
     all_articles = []
     for name, crawl_fn in CRAWLERS:
@@ -69,11 +69,48 @@ def main() -> None:
     articles = limit_per_type(articles)
     logger.info(f"After top-N limit: {len(articles)}")
 
-    # 8. Fetch original article content
+    return articles, raw_count, filtered_count
+
+
+def main_agent() -> None:
+    """Agent pipeline: crawl + filter + fetch content → raw.json.
+
+    Claude Code scheduled task handles evaluation, translation, and final output.
+    """
+    logger.info("Starting AI Daily Clipping Crawler (agent mode)")
+
+    articles, raw_count, filtered_count = _crawl_and_filter()
+
+    # Fetch original article content (Jina Reader + BS4 fallback)
     logger.info("Fetching article content...")
     contents = fetch_content(articles)
 
-    # 9. Summarize & translate to Korean (Gemini)
+    # Attach content to articles
+    for i, a in enumerate(articles):
+        a.content = contents[i] if i < len(contents) else ""
+
+    # Save raw.json (no Korean translation — Claude Code will handle it)
+    path = save_raw_results(articles, raw_count, filtered_count)
+    logger.info(f"Raw JSON saved to {path}")
+
+    # Summary
+    by_type: dict[str, int] = {}
+    for a in articles:
+        by_type[a.source_type] = by_type.get(a.source_type, 0) + 1
+    logger.info(f"Final: {len(articles)} articles — {by_type}")
+
+
+def main_legacy() -> None:
+    """Legacy pipeline: crawl + filter + fetch + translate (Gemini/Claude API) → final JSON."""
+    logger.info("Starting AI Daily Clipping Crawler (legacy mode)")
+
+    articles, raw_count, filtered_count = _crawl_and_filter()
+
+    # Fetch original article content
+    logger.info("Fetching article content...")
+    contents = fetch_content(articles)
+
+    # Summarize & translate to Korean (Gemini)
     logger.info("Translating articles to Korean...")
     try:
         from src.summarizer import summarize_articles
@@ -89,7 +126,7 @@ def main() -> None:
             for i, a in enumerate(articles)
         ]
 
-    # 10. Save JSON (with content and Korean translations)
+    # Save JSON (with content and Korean translations)
     path = save_formatted_results(formatted_articles, raw_count, filtered_count)
     logger.info(f"JSON saved to {path}")
 
@@ -98,6 +135,21 @@ def main() -> None:
     for a in articles:
         by_type[a.source_type] = by_type.get(a.source_type, 0) + 1
     logger.info(f"Final: {len(articles)} articles — {by_type}")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(description="AI Daily Clipping Crawler")
+    parser.add_argument(
+        "--legacy",
+        action="store_true",
+        help="Use legacy pipeline with Gemini/Claude API translation",
+    )
+    args = parser.parse_args()
+
+    if args.legacy:
+        main_legacy()
+    else:
+        main_agent()
 
 
 if __name__ == "__main__":

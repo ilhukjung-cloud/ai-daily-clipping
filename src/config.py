@@ -97,6 +97,12 @@ MIN_SCORE = {
     "community": 10,  # Reddit/HN low-effort posts
 }
 
+# Jina Reader API (free tier: 20 req/min)
+JINA_READER_URL = "https://r.jina.ai/"
+JINA_RATE_LIMIT_DELAY = 3.0  # seconds between requests (respects 20/min limit)
+MAX_CONTENT_LENGTH = 5000  # chars (markdown is more verbose than plain text)
+RAW_OUTPUT_SUFFIX = ".raw"  # output/YYYY-MM-DD.raw.json
+
 # AI relevance keywords — articles from community sources
 # must match at least one keyword in title to be kept
 AI_RELEVANCE_KEYWORDS = [

@@ -11,7 +11,7 @@ from datetime import datetime, timedelta, timezone
 KST = timezone(timedelta(hours=9))
 from pathlib import Path
 
-from src.config import SOURCE_TYPE_PRIORITY
+from src.config import SOURCE_TYPE_PRIORITY, RAW_OUTPUT_SUFFIX
 from src.models import Article
 
 logger = logging.getLogger(__name__)
@@ -94,6 +94,57 @@ def save_results(
 
     logger.info(
         "Saved %d articles to %s (raw=%d, filtered=%d)",
+        len(articles),
+        output_path,
+        raw_count,
+        filtered_count,
+    )
+    return output_path
+
+
+def save_raw_results(
+    articles: list[Article],
+    raw_count: int,
+    filtered_count: int,
+) -> Path:
+    """Save articles with content to raw.json for Claude Code agent processing.
+
+    This intermediate file contains fetched content but no Korean translations.
+    Claude Code scheduled task will read this, evaluate importance, translate,
+    and produce the final YYYY-MM-DD.json.
+    """
+    now = datetime.now(KST)
+    date_str = now.strftime("%Y-%m-%d")
+    crawled_at = now.strftime("%Y-%m-%dT%H:%M:%S+09:00")
+
+    by_source_type: dict[str, int] = {}
+    for article in articles:
+        by_source_type[article.source_type] = by_source_type.get(article.source_type, 0) + 1
+
+    sorted_articles = sorted(articles, key=_sort_key)
+    article_dicts = [a.to_dict() for a in sorted_articles]
+
+    payload = {
+        "date": date_str,
+        "crawled_at": crawled_at,
+        "stats": {
+            "total_raw": raw_count,
+            "after_filter": filtered_count,
+            "after_dedup": len(articles),
+            "by_source_type": by_source_type,
+        },
+        "articles": article_dicts,
+    }
+
+    output_dir = _OUTPUT_DIR
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    output_path = output_dir / f"{date_str}{RAW_OUTPUT_SUFFIX}.json"
+    with output_path.open("w", encoding="utf-8") as fh:
+        json.dump(payload, fh, ensure_ascii=False, indent=2)
+
+    logger.info(
+        "Saved %d raw articles to %s (raw=%d, filtered=%d)",
         len(articles),
         output_path,
         raw_count,
