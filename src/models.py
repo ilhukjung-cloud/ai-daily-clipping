@@ -15,6 +15,10 @@ class Article:
     comments: int | None = None
     summary: str | None = None
     tags: list[str] = field(default_factory=list)
+    content: str = ""
+    importance_score: float | None = None
+    title_ko: str = ""
+    summary_ko: str = ""
 
     def to_dict(self) -> dict:
         d = asdict(self)
