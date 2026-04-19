@@ -22,6 +22,19 @@ def _title_similarity(a: str, b: str) -> float:
     return SequenceMatcher(None, a.lower(), b.lower()).ratio()
 
 
+def _length_compatible(a: str, b: str, threshold: float) -> bool:
+    """Quick pre-filter: if lengths differ too much, ratio() can't reach threshold.
+
+    SequenceMatcher.ratio() is upper-bounded by 2*min(len) / (len(a)+len(b)).
+    We use this to skip obvious non-matches before the O(n*m) diff.
+    """
+    la, lb = len(a), len(b)
+    if la == 0 or lb == 0:
+        return la == lb
+    upper = (2 * min(la, lb)) / (la + lb)
+    return upper >= threshold
+
+
 def deduplicate(articles: list[Article]) -> list[Article]:
     """Remove duplicate articles, favouring higher-priority sources.
 
@@ -51,11 +64,16 @@ def deduplicate(articles: list[Article]) -> list[Article]:
     logger.info("dedup pass 1 (URL): removed %d duplicates", removed_url)
 
     # --- Pass 2: fuzzy title dedup ---
-    # Greedy O(n^2); fine for the expected article volumes (~hundreds/day).
+    # Greedy O(n^2) with a length-ratio pre-filter to skip diff on pairs that
+    # can't possibly reach the similarity threshold.
     kept: list[Article] = []
     for candidate in after_url_dedup:
         merged = False
         for i, existing in enumerate(kept):
+            if not _length_compatible(
+                candidate.title, existing.title, DEDUP_SIMILARITY_THRESHOLD
+            ):
+                continue
             sim = _title_similarity(candidate.title, existing.title)
             if sim >= DEDUP_SIMILARITY_THRESHOLD:
                 # Keep the higher-priority article

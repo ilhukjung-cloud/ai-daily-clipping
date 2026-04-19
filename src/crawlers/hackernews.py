@@ -5,9 +5,7 @@ from __future__ import annotations
 import logging
 from datetime import datetime, timezone
 
-import requests
-
-from src import config
+from src import config, http_client
 from src.models import Article
 
 logger = logging.getLogger(__name__)
@@ -25,7 +23,7 @@ def _is_ai_related(title: str) -> bool:
 
 def _fetch_item(item_id: int) -> Article | None:
     try:
-        resp = requests.get(
+        resp = http_client.get(
             _HN_ITEM.format(id=item_id),
             headers=config.HTTP_HEADERS,
             timeout=config.REQUEST_TIMEOUT,
@@ -67,7 +65,7 @@ def crawl() -> list[Article]:
     item individually, keeping only those whose title matches an AI keyword.
     """
     try:
-        resp = requests.get(
+        resp = http_client.get(
             _HN_TOP_STORIES,
             headers=config.HTTP_HEADERS,
             timeout=config.REQUEST_TIMEOUT,
@@ -81,10 +79,13 @@ def crawl() -> list[Article]:
     top_ids = story_ids[: config.HN_TOP_STORIES_LIMIT]
     articles: list[Article] = []
 
-    for item_id in top_ids:
-        article = _fetch_item(item_id)
-        if article is not None:
-            articles.append(article)
+    # Parallelize per-item Firebase calls — each is a separate HTTP round-trip.
+    from concurrent.futures import ThreadPoolExecutor
+
+    with ThreadPoolExecutor(max_workers=10) as pool:
+        for article in pool.map(_fetch_item, top_ids):
+            if article is not None:
+                articles.append(article)
 
     logger.info("Hacker News: fetched %d AI-related articles", len(articles))
     return articles
