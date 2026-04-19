@@ -19,6 +19,7 @@ _COMPANY_TAGS: list[tuple[str, list[str]]] = [
     ("OpenAI", ["openai"]),
     ("Anthropic", ["anthropic"]),
     ("Google", ["google"]),
+    ("DeepMind", ["deepmind"]),
     ("Meta", ["meta"]),
     ("Microsoft", ["microsoft"]),
     ("NVIDIA", ["nvidia"]),
@@ -26,34 +27,70 @@ _COMPANY_TAGS: list[tuple[str, list[str]]] = [
     ("Mistral", ["mistral"]),
     ("Cohere", ["cohere"]),
     ("Stability AI", ["stability ai", "stabilityai"]),
+    ("xAI", ["xai"]),
+    ("DeepSeek", ["deepseek"]),
+    ("Alibaba", ["alibaba"]),
+    ("Moonshot", ["moonshot"]),
+    ("Perplexity", ["perplexity"]),
+    ("Hugging Face", ["hugging face", "huggingface"]),
 ]
 
 _MODEL_TAGS: list[tuple[str, list[str]]] = [
+    # OpenAI
     ("GPT", ["gpt"]),
-    ("Claude", ["claude"]),
-    ("Gemini", ["gemini"]),
-    ("Llama", ["llama"]),
-    ("Mistral", ["mistral"]),
-    ("DALL-E", ["dall-e", "dalle"]),
+    ("GPT-4", ["gpt-4", "gpt4"]),
+    ("GPT-5", ["gpt-5", "gpt5"]),
+    ("o1", ["o1-preview", "o1 preview", "openai o1"]),
+    ("o3", ["o3-mini", "openai o3", " o3 "]),
     ("Sora", ["sora"]),
+    ("DALL-E", ["dall-e", "dalle"]),
+    # Anthropic
+    ("Claude", ["claude"]),
+    ("Claude 3", ["claude 3", "claude-3"]),
+    ("Claude 4", ["claude 4", "claude-4"]),
+    # Google
+    ("Gemini", ["gemini"]),
+    ("Gemini 2", ["gemini 2", "gemini-2"]),
+    ("Gemma", ["gemma"]),
+    ("Veo", ["veo"]),
+    # Meta
+    ("Llama", ["llama"]),
+    ("Llama 3", ["llama 3", "llama-3", "llama3"]),
+    ("Llama 4", ["llama 4", "llama-4", "llama4"]),
+    # Open-weights / Chinese labs
+    ("Mistral", ["mistral"]),
+    ("DeepSeek-R1", ["deepseek-r1", "deepseek r1"]),
+    ("DeepSeek-V3", ["deepseek-v3", "deepseek v3"]),
+    ("Qwen", ["qwen"]),
+    ("Kimi", ["kimi"]),
+    ("Grok", ["grok"]),
+    # Image / video
     ("Stable Diffusion", ["stable diffusion", "stablediffusion"]),
     ("Midjourney", ["midjourney"]),
     ("Flux", ["flux"]),
+    ("Runway", ["runway"]),
 ]
 
 _TOPIC_TAGS: list[tuple[str, list[str]]] = [
     ("LLM", ["llm", "large language model"]),
+    ("SLM", ["slm", "small language model"]),
     ("vision", ["vision", "image recognition", "computer vision"]),
     ("robotics", ["robotics", "robot"]),
     ("speech", ["speech", "tts", "text-to-speech", "asr", "voice"]),
     ("safety", ["safety"]),
     ("alignment", ["alignment"]),
-    ("open-source", ["open-source", "open source", "opensource"]),
+    ("open-source", ["open-source", "open source", "opensource", "open-weights", "open weights"]),
     ("fine-tuning", ["fine-tuning", "fine tuning", "finetuning", "finetune"]),
     ("RAG", ["rag", "retrieval-augmented", "retrieval augmented"]),
     ("agents", ["agent", "agents", "agentic"]),
-    ("reasoning", ["reasoning"]),
+    ("reasoning", ["reasoning", "chain-of-thought", "chain of thought", "test-time compute"]),
     ("multimodal", ["multimodal", "multi-modal"]),
+    ("MoE", ["mixture of experts", "mixture-of-experts", " moe "]),
+    ("distillation", ["distillation", "distill"]),
+    ("benchmark", ["benchmark", "leaderboard", "eval", "evaluation"]),
+    ("inference", ["inference", "serving", "throughput", "latency"]),
+    ("MCP", ["mcp", "model context protocol"]),
+    ("coding", ["coding agent", "code generation", "copilot", "code assistant"]),
 ]
 
 # Flatten all tag definitions for efficient lookup

@@ -8,7 +8,7 @@ from src.crawlers import reddit, hackernews, arxiv, rss, github, huggingface, pr
 from src.processors.filter import filter_recent, filter_relevance, filter_min_score, limit_per_type
 from src.processors.dedup import deduplicate
 from src.processors.tagger import tag_articles
-from src.content import fetch_content
+from src.content import extract_body_summary, fetch_content
 from src.output import save_results, save_formatted_results, save_raw_results
 
 logging.basicConfig(
@@ -30,17 +30,27 @@ CRAWLERS = [
 
 
 def _crawl_and_filter():
-    """Run all crawlers and apply filtering pipeline. Returns (articles, raw_count, filtered_count)."""
-    # 1. Crawl all sources
-    all_articles = []
-    for name, crawl_fn in CRAWLERS:
-        try:
-            logger.info(f"Crawling {name}...")
-            articles = crawl_fn()
-            logger.info(f"  {name}: {len(articles)} articles")
-            all_articles.extend(articles)
-        except Exception:
-            logger.exception(f"  {name}: failed")
+    """Run all crawlers and apply filtering pipeline.
+
+    Returns (articles, raw_count, filtered_count, errors_by_source).
+    """
+    # 1. Crawl all sources in parallel (I/O-bound)
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    all_articles: list = []
+    errors_by_source: dict[str, int] = {}
+
+    with ThreadPoolExecutor(max_workers=len(CRAWLERS)) as pool:
+        future_to_name = {pool.submit(fn): name for name, fn in CRAWLERS}
+        for future in as_completed(future_to_name):
+            name = future_to_name[future]
+            try:
+                articles = future.result()
+                logger.info(f"  {name}: {len(articles)} articles")
+                all_articles.extend(articles)
+            except Exception:
+                logger.exception(f"  {name}: failed")
+                errors_by_source[name] = errors_by_source.get(name, 0) + 1
 
     raw_count = len(all_articles)
     logger.info(f"Total raw articles: {raw_count}")
@@ -69,7 +79,7 @@ def _crawl_and_filter():
     articles = limit_per_type(articles)
     logger.info(f"After top-N limit: {len(articles)}")
 
-    return articles, raw_count, filtered_count
+    return articles, raw_count, filtered_count, errors_by_source
 
 
 def main_agent() -> None:
@@ -79,18 +89,19 @@ def main_agent() -> None:
     """
     logger.info("Starting AI Daily Clipping Crawler (agent mode)")
 
-    articles, raw_count, filtered_count = _crawl_and_filter()
+    articles, raw_count, filtered_count, errors_by_source = _crawl_and_filter()
 
     # Fetch original article content (Jina Reader + BS4 fallback)
     logger.info("Fetching article content...")
     contents = fetch_content(articles)
 
-    # Attach content to articles
+    # Attach content + body-derived summary to articles
     for i, a in enumerate(articles):
         a.content = contents[i] if i < len(contents) else ""
+        a.body_summary = extract_body_summary(a.content)
 
     # Save raw.json (no Korean translation — Claude Code will handle it)
-    path = save_raw_results(articles, raw_count, filtered_count)
+    path = save_raw_results(articles, raw_count, filtered_count, errors_by_source)
     logger.info(f"Raw JSON saved to {path}")
 
     # Summary
@@ -104,7 +115,7 @@ def main_legacy() -> None:
     """Legacy pipeline: crawl + filter + fetch + translate (Gemini/Claude API) → final JSON."""
     logger.info("Starting AI Daily Clipping Crawler (legacy mode)")
 
-    articles, raw_count, filtered_count = _crawl_and_filter()
+    articles, raw_count, filtered_count, _errors_by_source = _crawl_and_filter()
 
     # Fetch original article content
     logger.info("Fetching article content...")

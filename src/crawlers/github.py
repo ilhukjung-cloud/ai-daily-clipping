@@ -5,10 +5,9 @@ from __future__ import annotations
 import logging
 from datetime import datetime, timezone
 
-import requests
 from bs4 import BeautifulSoup
 
-from src import config
+from src import config, http_client
 from src.models import Article
 
 logger = logging.getLogger(__name__)
@@ -18,7 +17,7 @@ def crawl() -> list[Article]:
     """Scrape GitHub Trending and return AI-related repositories as Articles."""
     try:
         headers = {**config.HTTP_HEADERS, "Accept": "text/html"}
-        resp = requests.get(
+        resp = http_client.get(
             config.GITHUB_TRENDING_URL,
             headers=headers,
             timeout=config.REQUEST_TIMEOUT,
@@ -32,10 +31,24 @@ def crawl() -> list[Article]:
     articles: list[Article] = []
     now = datetime.now(timezone.utc)
 
-    for repo_row in soup.select("article.Box-row"):
+    # Primary + fallback selectors — GitHub's markup has changed before.
+    repo_rows = (
+        soup.select("article.Box-row")
+        or soup.select("article[class*='Box']")
+        or soup.select("main article")
+    )
+    if not repo_rows:
+        logger.warning("GitHub Trending: no repo rows matched any known selector")
+        return []
+
+    for repo_row in repo_rows:
         try:
-            # Repo name and path
-            heading = repo_row.select_one("h2 a")
+            # Try h2 a, then h1/h3 a
+            heading = (
+                repo_row.select_one("h2 a")
+                or repo_row.select_one("h1 a")
+                or repo_row.select_one("h3 a")
+            )
             if not heading:
                 continue
             repo_path = heading.get("href", "").strip()

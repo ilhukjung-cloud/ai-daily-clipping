@@ -106,6 +106,7 @@ def save_raw_results(
     articles: list[Article],
     raw_count: int,
     filtered_count: int,
+    errors_by_source: dict[str, int] | None = None,
 ) -> Path:
     """Save articles with content to raw.json for Claude Code agent processing.
 
@@ -132,6 +133,7 @@ def save_raw_results(
             "after_filter": filtered_count,
             "after_dedup": len(articles),
             "by_source_type": by_source_type,
+            "errors_by_source": errors_by_source or {},
         },
         "articles": article_dicts,
     }

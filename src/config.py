@@ -26,7 +26,7 @@ HN_AI_KEYWORDS = [
 
 # arXiv categories
 ARXIV_CATEGORIES = ["cs.AI", "cs.LG", "cs.CL"]
-ARXIV_MAX_RESULTS = 20
+ARXIV_MAX_RESULTS = 40
 
 # RSS feeds: (url, source_name, source_type)
 RSS_FEEDS = [
@@ -100,7 +100,10 @@ MIN_SCORE = {
 # Jina Reader API (free tier: 20 req/min)
 JINA_READER_URL = "https://r.jina.ai/"
 JINA_RATE_LIMIT_DELAY = 3.0  # seconds between requests (respects 20/min limit)
-MAX_CONTENT_LENGTH = 5000  # chars (markdown is more verbose than plain text)
+# Nav-heavy sites (TechCrunch, The Verge) burn thousands of chars on menus/share
+# buttons before reaching body — 12k gives headroom without bloating JSON.
+MAX_CONTENT_LENGTH = 12000  # chars (markdown is more verbose than plain text)
+BODY_SUMMARY_MAX_CHARS = 600  # body-derived summary target length
 RAW_OUTPUT_SUFFIX = ".raw"  # output/YYYY-MM-DD.raw.json
 
 # AI relevance keywords — articles from community sources

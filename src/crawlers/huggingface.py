@@ -5,10 +5,9 @@ from __future__ import annotations
 import logging
 from datetime import datetime, timezone
 
-import requests
 from bs4 import BeautifulSoup
 
-from src import config
+from src import config, http_client
 from src.models import Article
 
 logger = logging.getLogger(__name__)
@@ -18,7 +17,7 @@ _HF_API_URL = "https://huggingface.co/api/daily_papers"
 
 def _crawl_api() -> list[Article]:
     """Fetch papers from the HuggingFace daily papers API."""
-    resp = requests.get(
+    resp = http_client.get(
         _HF_API_URL,
         headers=config.HTTP_HEADERS,
         timeout=config.REQUEST_TIMEOUT,
@@ -71,7 +70,7 @@ def _crawl_api() -> list[Article]:
 
 def _crawl_scrape() -> list[Article]:
     """Fallback: scrape the HuggingFace Papers page with BeautifulSoup."""
-    resp = requests.get(
+    resp = http_client.get(
         config.HUGGINGFACE_PAPERS_URL,
         headers=config.HTTP_HEADERS,
         timeout=config.REQUEST_TIMEOUT,

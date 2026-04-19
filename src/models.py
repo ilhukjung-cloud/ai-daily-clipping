@@ -16,6 +16,7 @@ class Article:
     summary: str | None = None
     tags: list[str] = field(default_factory=list)
     content: str = ""
+    body_summary: str = ""
     importance_score: float | None = None
     title_ko: str = ""
     summary_ko: str = ""

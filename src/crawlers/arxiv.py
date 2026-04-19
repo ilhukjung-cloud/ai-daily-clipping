@@ -8,7 +8,7 @@ from datetime import datetime, timezone
 
 import requests
 
-from src import config
+from src import config, http_client
 from src.models import Article
 
 logger = logging.getLogger(__name__)
@@ -45,7 +45,7 @@ def crawl() -> list[Article]:
     )
 
     try:
-        response = requests.get(
+        response = http_client.get(
             url,
             headers=config.HTTP_HEADERS,
             timeout=config.REQUEST_TIMEOUT,

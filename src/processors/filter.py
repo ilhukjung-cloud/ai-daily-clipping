@@ -58,14 +58,16 @@ def filter_recent(articles: list[Article], hours: int = 24) -> list[Article]:
     return kept
 
 
-def _is_ai_relevant(title: str) -> bool:
-    """Check if a title contains at least one AI-related keyword."""
-    title_lower = title.lower()
-    return any(kw in title_lower for kw in config.AI_RELEVANCE_KEYWORDS)
+def _is_ai_relevant(article: Article) -> bool:
+    """Check if title OR summary contains at least one AI-related keyword."""
+    haystack = article.title.lower()
+    if article.summary:
+        haystack += " " + article.summary.lower()
+    return any(kw in haystack for kw in config.AI_RELEVANCE_KEYWORDS)
 
 
 def filter_relevance(articles: list[Article]) -> list[Article]:
-    """Drop community/HN articles whose title has no AI relevance.
+    """Drop community/HN articles whose title+summary has no AI relevance.
 
     Official, media, and research articles are always kept.
     """
@@ -74,7 +76,7 @@ def filter_relevance(articles: list[Article]) -> list[Article]:
     for a in articles:
         if a.source_type in ("official", "media", "research"):
             kept.append(a)
-        elif _is_ai_relevant(a.title):
+        elif _is_ai_relevant(a):
             kept.append(a)
         else:
             logger.debug("Dropping irrelevant: %s", a.title)
