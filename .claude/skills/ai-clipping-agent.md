@@ -12,7 +12,7 @@ user_invocable: true
 
 ### 1. raw.json 파일 찾기
 
-- 오늘 날짜(UTC 기준, `date -u +%Y-%m-%d`)의 `output/YYYY-MM-DD.raw.json` 파일을 찾는다.
+- 오늘 날짜(KST 기준, `TZ=Asia/Seoul date +%Y-%m-%d`)의 `output/YYYY-MM-DD.raw.json` 파일을 찾는다. 크롤러가 KST 기준 날짜로 파일을 저장하므로 반드시 KST 를 사용한다.
 - 파일이 없으면 짧은 실패 메시지("오늘 날짜 raw.json 파일 없음")만 출력하고 **즉시 종료**한다. 다른 날짜 파일을 대신 선택하지 않는다.
 - 이미 같은 날짜의 `output/YYYY-MM-DD.json`(최종 파일)이 존재하면 재실행이므로 중단한다.
 

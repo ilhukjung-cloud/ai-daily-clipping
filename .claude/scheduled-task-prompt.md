@@ -40,12 +40,14 @@ AI Daily Clipping 평가 태스크를 실행합니다.
 ## 절차
 1. `git fetch origin main` → `git checkout main` → `git pull --rebase origin main`
    (네트워크 오류 시 지수 백오프 2s/4s/8s/16s 로 최대 4회 재시도)
-2. 오늘 UTC 날짜 확인: `date -u +%Y-%m-%d`
+2. 오늘 KST 날짜 확인: `TZ=Asia/Seoul date +%Y-%m-%d`
+   (크롤러가 KST 기준 날짜로 raw.json 을 저장하므로 반드시 KST 사용)
 3. `output/{오늘날짜}.raw.json` 존재 여부 확인
    - 없으면 "오늘 날짜 raw.json 파일 없음" 출력 후 **즉시 종료**
    - 다른 날짜 raw.json 을 대체 선택하지 않음
 4. `output/{오늘날짜}.json` 이 이미 존재하면 중복 실행이므로 종료
 5. `/ai-clipping-agent` 스킬 실행으로 평가·번역·최종 JSON 생성
+   (스킬이 당일 내 중복 제거 및 최근 3일 커버리지 제외까지 수행)
 6. 결과 커밋 & 푸시:
    - `git add output/{오늘날짜}.json`
    - `git commit -m "evaluate: {오늘날짜}"`
